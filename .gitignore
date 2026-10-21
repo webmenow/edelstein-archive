@@ -1,4 +1,17 @@
+# Виртуальное окружение
 venv/
+.venv/
+env/
+
+# Кэш Python
 __pycache__/
-*.pyc
+*.py[cod]
+*$py.class
+
+# Сгенерированный сайт (Cloudflare соберет его сам)
+dist/
+
+# Логи и временные файлы
+*.log
+sync.log
 .DS_Store
