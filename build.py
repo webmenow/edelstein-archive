@@ -4,22 +4,63 @@ import json
 import shutil
 from pathlib import Path
 from html import escape, unescape
+from collections import defaultdict
+from datetime import datetime
 
 PROJECT_ROOT = Path(__file__).parent.resolve()
 DATA_DIR = PROJECT_ROOT / "data"
 POSTS_DIR = DATA_DIR / "posts"
 IMAGES_DIR = DATA_DIR / "images"
 DIST_DIR = PROJECT_ROOT / "dist"
+AUTHOR_HTML_FILE = DATA_DIR / "author.html"
 
-HTML_HEAD = """<!DOCTYPE html>
+RUSSIAN_MONTHS = {
+    "января": 1, "февраля": 2, "марта": 3, "апреля": 4,
+    "мая": 5, "июня": 6, "июля": 7, "августа": 8,
+    "сентября": 9, "октября": 10, "ноября": 11, "декабря": 12,
+    "january": 1, "february": 2, "march": 3, "april": 4,
+    "may": 5, "june": 6, "july": 7, "august": 8,
+    "september": 9, "october": 10, "november": 11, "december": 12
+}
+
+MONTH_NAMES_RU = [
+    "", "Январь", "Февраль", "Март", "Апрель", "Май", "Июнь",
+    "Июль", "Август", "Сентябрь", "Октябрь", "Ноябрь", "Декабрь"
+]
+
+def render_navbar(active_item=""):
+    def link_classes(name):
+        base = "font-medium transition px-2 py-1 rounded"
+        if active_item == name:
+            return f"{base} text-emerald-800 bg-emerald-50 font-semibold"
+        return f"{base} text-gray-600 hover:text-emerald-800 hover:bg-emerald-50/50"
+
+    return f"""
+  <nav class="border-b border-gray-200 bg-white/95 backdrop-blur sticky top-0 z-30 shadow-xs">
+    <div class="max-w-5xl mx-auto px-4 py-3 flex items-center justify-between">
+      <a href="/" class="font-title text-xl font-bold tracking-wide text-gray-900 hover:text-emerald-800 transition">
+        о. Георгий Эдельштейн
+      </a>
+      <div class="font-sans-ui text-sm flex items-center gap-2 sm:gap-4">
+        <a href="/" class="{link_classes('posts')}">Все статьи</a>
+        <a href="/search.html" class="{link_classes('search')}">Поиск</a>
+        <a href="/author.html" class="{link_classes('author')}">Автор</a>
+        <a href="https://g-edelstein.livejournal.com" target="_blank" rel="noopener" class="text-xs text-gray-400 hover:text-gray-700 hidden sm:inline ml-2">ЖЖ ↗</a>
+      </div>
+    </div>
+  </nav>
+"""
+
+def get_html_head(page_title):
+    return f"""<!DOCTYPE html>
 <html lang="ru">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{page_title}</title>
+  <title>{escape(page_title)}</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@600;700&family=Lora:ital,wght@0,400;0,500;0,600;1,400&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@600;700&family=Lora:ital,wght@0,400;0,500;0,600;1,400&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
   <script src="https://cdn.tailwindcss.com"></script>
   <style>
     body {{
@@ -34,37 +75,45 @@ HTML_HEAD = """<!DOCTYPE html>
       transition: border-color 0.15s ease;
     }}
     .comment-entry:hover {{
-      border-color: #cbd5e1;
+      border-color: #a7f3d0;
     }}
   </style>
 </head>
 <body class="min-h-screen flex flex-col">
-  <nav class="border-b border-gray-200 bg-white/90 backdrop-blur sticky top-0 z-30">
-    <div class="max-w-4xl mx-auto px-4 py-3 flex items-center justify-between">
-      <a href="/" class="font-title text-xl font-bold tracking-wide text-gray-900 hover:text-red-800 transition">
-        о. Георгий Эдельштейн
-      </a>
-      <div class="font-sans-ui text-sm text-gray-500 flex items-center gap-4">
-        <a href="/" class="hover:text-gray-900 font-medium transition">Все статьи</a>
-        <a href="https://g-edelstein.livejournal.com" target="_blank" rel="noopener" class="text-red-700 hover:text-red-900 hover:underline">ЖЖ @g-edelstein ↗</a>
-      </div>
-    </div>
-  </nav>
-  <div class="flex-1 py-10 px-4">
 """
 
 HTML_FOOTER = """
-  </div>
 </body>
 </html>
 """
 
 def clean_html_to_plain_text(html_text):
-    """Удаляет все HTML-теги и лишние пробелы для анализа полезного текста."""
     text = re.sub(r'<[^>]+>', ' ', html_text)
     text = unescape(text)
     text = re.sub(r'\s+', ' ', text).strip()
     return text
+
+def parse_date_components(date_str):
+    if not date_str:
+        return None, None, None
+    ds = date_str.lower()
+    
+    # 1. Формат: "December 28 2016, 22:11" или "28 декабря 2016"
+    for month_name, m_num in RUSSIAN_MONTHS.items():
+        if month_name in ds:
+            # Ищем день и год
+            m_day = re.search(r'\b([0-3]?[0-9])\b', ds)
+            m_year = re.search(r'\b(20[0-2][0-9]|199[0-9])\b', ds)
+            day = int(m_day.group(1)) if m_day else 1
+            year = int(m_year.group(1)) if m_year else 2016
+            return year, m_num, day
+
+    # 2. Формат: "2016-12-28"
+    m_iso = re.search(r'(\d{4})-(\d{2})-(\d{2})', ds)
+    if m_iso:
+        return int(m_iso.group(1)), int(m_iso.group(2)), int(m_iso.group(3))
+
+    return None, None, None
 
 def parse_markdown_post(filepath):
     text = filepath.read_text(encoding="utf-8")
@@ -98,7 +147,6 @@ def parse_markdown_post(filepath):
                         tags.append(t)
             meta["tags"] = tags
 
-    # Удаляем дублирующиеся заголовки первого уровня из тела Markdown
     clean_body = re.sub(r'^\s*#\s+[^\n]+\n+', '', content.strip())
     clean_body = re.sub(r'^\s*_[^\n]+_\s*\n+', '', clean_body)
 
@@ -109,16 +157,12 @@ def parse_markdown_post(filepath):
         post_html = c_parts[0]
         comments_html = '<section class="lj-comments-archive"' + c_parts[1]
 
-    # Проверяем наличие полезного контента
     plain_content = clean_html_to_plain_text(post_html)
     has_images = bool(re.search(r'<img\s+', post_html, re.I))
 
-    # ФИЛЬТРАЦИЯ ПУСТЫХ ЗАПИСЕЙ:
-    # Если в статье меньше 40 символов осмысленного текста и нет картинок — считаем запись пустой
     if len(plain_content) < 40 and not has_images:
         return None
 
-    # ИЗВЛЕЧЕНИЕ / УТОЧНЕНИЕ ЗАГОЛОВКА:
     title = meta.get("title", "").strip()
     is_dummy_title = not title or bool(re.match(r'^Запись\s+\d+$', title, re.I)) or title.lower() in ["без темы", "(без темы)", "untitled"]
 
@@ -133,15 +177,19 @@ def parse_markdown_post(filepath):
             title = f"Запись от {meta.get('date', filepath.stem)}"
 
     comment_count = len(re.findall(r'<article class="comment-entry"', comments_html))
-
-    # Формируем короткое превью (сниппет) для карточки статьи
     snippet = plain_content[:180].rsplit(' ', 1)[0] + '...' if len(plain_content) > 180 else plain_content
+
+    date_str = meta.get("date", "")
+    y, m, d = parse_date_components(date_str)
 
     return {
         "id": meta.get("id", filepath.stem),
         "title": title,
         "snippet": snippet,
-        "date": meta.get("date", ""),
+        "date": date_str,
+        "year": y,
+        "month": m,
+        "day": d,
         "tags": meta.get("tags", []),
         "original_url": meta.get("original_url", f"https://g-edelstein.livejournal.com/{filepath.stem}.html"),
         "body_html": post_html.strip(),
@@ -149,103 +197,349 @@ def parse_markdown_post(filepath):
         "comment_count": comment_count
     }
 
+def render_post_card(p):
+    tags_str = " ".join(p["tags"])
+    tags_chips = "".join([f'<span class="text-xs bg-gray-100 text-gray-600 px-2 py-0.5 rounded font-sans-ui">{escape(t)}</span>' for t in p["tags"][:3]])
+    comments_badge = f'<span class="text-xs text-emerald-800 bg-emerald-50 px-2 py-0.5 rounded font-medium font-sans-ui">💬 {p["comment_count"]}</span>' if p["comment_count"] > 0 else ''
+    
+    date_badge = f"{p['year']}-{p['month']:02d}" if (p['year'] and p['month']) else ""
+
+    return f"""
+    <a href="/{p['id']}.html" 
+       class="post-card group block bg-white border border-gray-200 hover:border-emerald-500 hover:shadow-lg rounded-xl p-5 transition-all duration-200 flex flex-col justify-between"
+       data-search="{escape(p['title'].lower())} {escape(p['snippet'].lower())} {escape(tags_str.lower())}"
+       data-tags="{escape(','.join(p['tags']))}"
+       data-date="{date_badge}">
+      <div>
+        <div class="flex items-baseline justify-between gap-4 mb-2">
+          <span class="font-sans-ui text-xs text-gray-400 group-hover:text-emerald-700 transition font-medium">{escape(p['date'])}</span>
+          {comments_badge}
+        </div>
+        <h2 class="font-title text-lg font-bold text-gray-900 group-hover:text-emerald-800 transition mb-2 leading-snug">
+          {escape(p['title'])}
+        </h2>
+        {f'<p class="font-sans-ui text-xs text-gray-500 line-clamp-2 leading-relaxed mb-4">{escape(p["snippet"])}</p>' if p.get("snippet") else ''}
+      </div>
+      <div class="flex items-center justify-between mt-auto pt-3 border-t border-gray-100 group-hover:border-emerald-100 transition">
+        <div class="flex flex-wrap gap-1">
+          {tags_chips}
+        </div>
+        <span class="font-sans-ui text-xs text-emerald-700 group-hover:text-emerald-800 group-hover:translate-x-1 transition font-semibold">Читать →</span>
+      </div>
+    </a>
+    """
+
 def generate_post_page(post):
-    tag_badges = "".join([f'<span class="text-xs bg-gray-100 text-gray-700 px-2.5 py-1 rounded font-sans-ui">{escape(t)}</span>' for t in post["tags"]])
+    tag_badges = "".join([f'<a href="/search.html?tag={escape(t)}" class="text-xs bg-emerald-50 hover:bg-emerald-100 text-emerald-800 px-2.5 py-1 rounded font-sans-ui transition">{escape(t)}</a>' for t in post["tags"]])
     
     article_html = f"""
-    <main class="max-w-3xl mx-auto bg-white border border-gray-200 rounded-xl p-6 sm:p-10 shadow-sm">
-      <header class="border-b border-gray-200 pb-6 mb-8">
-        <div class="font-sans-ui text-xs uppercase tracking-widest text-red-800 font-semibold mb-2">Архив ЖЖ @g-edelstein</div>
-        <h1 class="font-title text-2xl sm:text-3xl font-bold text-gray-900 leading-tight mb-4">{escape(post["title"])}</h1>
-        <div class="font-sans-ui text-sm text-gray-500 flex flex-wrap items-center gap-3">
-          <time>{escape(post["date"])}</time>
-          <span>•</span>
-          <a href="{escape(post["original_url"])}" target="_blank" rel="noopener" class="hover:text-red-700 underline decoration-dotted">Оригинал в LiveJournal ↗</a>
-          {f'<span>•</span><span>💬 {post["comment_count"]}</span>' if post["comment_count"] else ''}
+    <div class="flex-1 py-10 px-4">
+      <main class="max-w-3xl mx-auto bg-white border border-gray-200 rounded-xl p-6 sm:p-10 shadow-xs">
+        <header class="border-b border-gray-200 pb-6 mb-8">
+          <div class="font-sans-ui text-xs uppercase tracking-widest text-emerald-800 font-semibold mb-2">Архив ЖЖ @g-edelstein</div>
+          <h1 class="font-title text-2xl sm:text-3xl font-bold text-gray-900 leading-tight mb-4">{escape(post["title"])}</h1>
+          <div class="font-sans-ui text-sm text-gray-500 flex flex-wrap items-center gap-3">
+            <time>{escape(post["date"])}</time>
+            <span>•</span>
+            <a href="{escape(post["original_url"])}" target="_blank" rel="noopener" class="hover:text-emerald-800 underline decoration-dotted">Оригинал в LiveJournal ↗</a>
+            {f'<span>•</span><span>💬 {post["comment_count"]}</span>' if post["comment_count"] else ''}
+          </div>
+          {f'<div class="flex flex-wrap gap-1.5 mt-4">{tag_badges}</div>' if tag_badges else ''}
+        </header>
+
+        <article class="prose prose-lg max-w-none text-gray-800 leading-relaxed space-y-4">
+          {post["body_html"]}
+        </article>
+
+        {post["comments_html"]}
+
+        <div class="mt-12 pt-6 border-t border-gray-200 text-center font-sans-ui">
+          <a href="/" class="inline-flex items-center gap-2 text-sm text-gray-600 hover:text-emerald-800 font-medium transition">
+            ← Вернуться ко всем записям
+          </a>
         </div>
-        {f'<div class="flex flex-wrap gap-1.5 mt-4">{tag_badges}</div>' if tag_badges else ''}
-      </header>
-
-      <article class="prose prose-lg max-w-none text-gray-800 leading-relaxed space-y-4">
-        {post["body_html"]}
-      </article>
-
-      {post["comments_html"]}
-
-      <div class="mt-12 pt-6 border-t border-gray-200 text-center font-sans-ui">
-        <a href="/" class="inline-flex items-center gap-2 text-sm text-gray-600 hover:text-red-800 font-medium transition">
-          ← Вернуться ко всем записям
-        </a>
-      </div>
-    </main>
+      </main>
+    </div>
     """
-    page = HTML_HEAD.format(page_title=f"{post['title']} — о. Георгий Эдельштейн") + article_html + HTML_FOOTER
+    page = get_html_head(f"{post['title']} — о. Георгий Эдельштейн") + render_navbar(active_item="posts") + article_html + HTML_FOOTER
     out_path = DIST_DIR / f"{post['id']}.html"
     out_path.write_text(page, encoding="utf-8")
 
 def generate_index_page(posts):
-    # Сортируем записи от самых новых к более старым
     sorted_posts = sorted(posts, key=lambda x: int(x["id"]) if x["id"].isdigit() else 0, reverse=True)
-    
-    posts_cards = []
-    for p in sorted_posts:
-        tags_str = " ".join(p["tags"])
-        tags_chips = "".join([f'<span class="text-xs bg-gray-100 text-gray-600 px-2 py-0.5 rounded">{escape(t)}</span>' for t in p["tags"][:3]])
-        comments_badge = f'<span class="text-xs text-blue-700 bg-blue-50 px-2 py-0.5 rounded font-medium">💬 {p["comment_count"]}</span>' if p["comment_count"] > 0 else ''
-        
-        card = f"""
-        <a href="/{p['id']}.html" class="post-card group block bg-white border border-gray-200 hover:border-red-400 rounded-xl p-5 transition hover:shadow-md flex flex-col justify-between" data-search="{escape(p['title'].lower())} {escape(p['snippet'].lower())} {escape(tags_str.lower())}">
-          <div>
-            <div class="flex items-baseline justify-between gap-4 mb-2">
-              <span class="font-sans-ui text-xs text-gray-400 group-hover:text-gray-500 transition">{escape(p['date'])}</span>
-              {comments_badge}
-            </div>
-            <h2 class="font-title text-lg font-bold text-gray-900 group-hover:text-red-800 transition mb-2 leading-snug">
-              {escape(p['title'])}
-            </h2>
-            {f'<p class="font-sans-ui text-xs text-gray-500 line-clamp-2 leading-relaxed mb-4">{escape(p["snippet"])}</p>' if p.get("snippet") else ''}
-          </div>
-          <div class="flex items-center justify-between mt-auto pt-3 border-t border-gray-100">
-            <div class="flex flex-wrap gap-1">
-              {tags_chips}
-            </div>
-            <span class="font-sans-ui text-xs text-red-700 group-hover:translate-x-0.5 transition font-medium">Читать →</span>
-          </div>
-        </a>
-        """
-        posts_cards.append(card)
+    cards = [render_post_card(p) for p in sorted_posts]
 
     index_html = f"""
-    <main class="max-w-4xl mx-auto">
-      <header class="text-center mb-10">
-        <h1 class="font-title text-3xl sm:text-4xl font-bold text-gray-900 mb-3">Архив записей о. Георгия Эдельштейна</h1>
-        <div class="mt-6 max-w-md mx-auto">
-          <input type="text" id="searchInput" placeholder="Поиск по статьям, темам и цитатам..." 
-                 class="w-full px-4 py-2.5 rounded-lg border border-gray-300 focus:outline-none focus:ring-2 focus:ring-red-700 font-sans-ui text-sm shadow-sm transition">
+    <div class="flex-1 py-10 px-4">
+      <main class="max-w-5xl mx-auto">
+        <header class="text-center mb-10">
+          <h1 class="font-title text-3xl sm:text-4xl font-bold text-gray-900 mb-3">Архив записей о. Георгия Эдельштейна</h1>
+          <div class="font-sans-ui text-sm text-gray-500">Каталог публикаций ({len(posts)} статей)</div>
+        </header>
+
+        <div class="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+          {"".join(cards)}
         </div>
-        <div class="font-sans-ui text-xs text-gray-400 mt-2">Каталог публикаций: {len(posts)} статей</div>
-      </header>
-
-      <div id="postsList" class="grid gap-4 sm:grid-cols-2">
-        {"".join(posts_cards)}
-      </div>
-
-      <script>
-        const input = document.getElementById('searchInput');
-        const cards = document.querySelectorAll('.post-card');
-        input.addEventListener('input', (e) => {{
-          const q = e.target.value.toLowerCase().trim();
-          cards.forEach(card => {{
-            const searchData = card.getAttribute('data-search') || '';
-            card.style.display = searchData.includes(q) ? '' : 'none';
-          }});
-        }});
-      </script>
-    </main>
+      </main>
+    </div>
     """
     
-    page = HTML_HEAD.format(page_title="Архив публикаций — о. Георгий Эдельштейн") + index_html + HTML_FOOTER
+    page = get_html_head("Архив публикаций — о. Георгий Эдельштейн") + render_navbar(active_item="posts") + index_html + HTML_FOOTER
     (DIST_DIR / "index.html").write_text(page, encoding="utf-8")
+
+def generate_search_page(posts):
+    sorted_posts = sorted(posts, key=lambda x: int(x["id"]) if x["id"].isdigit() else 0, reverse=True)
+    cards = [render_post_card(p) for p in sorted_posts]
+
+    # Собираем теги со статистикой
+    tag_counts = defaultdict(int)
+    for p in posts:
+        for t in p["tags"]:
+            tag_counts[t] += 1
+    sorted_tags = sorted(tag_counts.items(), key=lambda x: (-x[1], x[0]))
+
+    # Собираем календарь (Годы и месяцы)
+    calendar_data = defaultdict(lambda: defaultdict(int))
+    for p in posts:
+        if p["year"] and p["month"]:
+            calendar_data[p["year"]][p["month"]] += 1
+
+    years_sorted = sorted(calendar_data.keys(), reverse=True)
+
+    # Генерация HTML тегов
+    tag_buttons = []
+    for tag_name, count in sorted_tags:
+        btn = f"""<button type="button" class="tag-filter-btn px-3 py-1 rounded-full text-xs font-sans-ui font-medium bg-gray-100 text-gray-700 hover:bg-emerald-100 hover:text-emerald-800 transition" data-tag="{escape(tag_name)}">{escape(tag_name)} <span class="text-gray-400 font-normal">({count})</span></button>"""
+        tag_buttons.append(btn)
+
+    # Генерация HTML календаря
+    cal_html = []
+    for y in years_sorted:
+        months_btns = []
+        for m_num in sorted(calendar_data[y].keys()):
+            cnt = calendar_data[y][m_num]
+            m_label = MONTH_NAMES_RU[m_num]
+            m_key = f"{y}-{m_num:02d}"
+            months_btns.append(
+                f'<button type="button" class="date-filter-btn text-xs font-sans-ui px-2 py-1 rounded bg-white border border-gray-200 hover:border-emerald-500 hover:text-emerald-800 transition text-gray-600" data-date="{m_key}">{m_label} <span class="text-gray-400">({cnt})</span></button>'
+            )
+        year_row = f"""
+        <div class="mb-3">
+          <div class="font-sans-ui text-xs font-bold text-gray-700 mb-1.5 flex items-center gap-2">
+            <span>{y} год</span>
+            <span class="text-gray-400 font-normal text-xs">({sum(calendar_data[y].values())} зап.)</span>
+          </div>
+          <div class="flex flex-wrap gap-1.5">
+            {"".join(months_btns)}
+          </div>
+        </div>
+        """
+        cal_html.append(year_row)
+
+    search_html = f"""
+    <div class="flex-1 py-10 px-4">
+      <main class="max-w-5xl mx-auto">
+        <header class="text-center mb-8">
+          <h1 class="font-title text-3xl font-bold text-gray-900 mb-3">Поиск по архиву</h1>
+          <p class="font-sans-ui text-sm text-gray-500 max-w-xl mx-auto">Находите статьи по ключевым словам, темам или датам публикаций в LiveJournal</p>
+          
+          <div class="mt-6 max-w-2xl mx-auto relative">
+            <input type="text" id="searchInput" placeholder="Поиск по названию статьи, фрагменту текста или метке..." 
+                   class="w-full px-5 py-3.5 pl-11 rounded-xl border border-gray-300 focus:outline-none focus:ring-2 focus:ring-emerald-600 font-sans-ui text-base shadow-xs transition">
+            <svg class="w-5 h-5 text-gray-400 absolute left-3.5 top-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path>
+            </svg>
+          </div>
+        </header>
+
+        <!-- Блок фильтрации (Теги + Календарь) -->
+        <div class="bg-white border border-gray-200 rounded-xl p-5 sm:p-6 mb-8 shadow-xs font-sans-ui">
+          <div class="flex flex-wrap items-center justify-between gap-2 border-b border-gray-100 pb-3 mb-4">
+            <span class="text-sm font-bold text-gray-900">Фильтры поиска</span>
+            <button id="resetFiltersBtn" type="button" class="text-xs text-emerald-700 hover:text-emerald-900 hover:underline hidden font-medium">Сбросить фильтры ✕</button>
+          </div>
+
+          <div class="grid md:grid-cols-2 gap-6">
+            <!-- Теги -->
+            <div>
+              <div class="text-xs uppercase tracking-wider text-gray-400 font-bold mb-2.5">Метки и категории</div>
+              <div class="flex flex-wrap gap-1.5 max-h-48 overflow-y-auto pr-1">
+                {"".join(tag_buttons)}
+              </div>
+            </div>
+
+            <!-- Календарь -->
+            <div class="border-t md:border-t-0 md:border-l border-gray-100 pt-4 md:pt-0 md:pl-6">
+              <div class="text-xs uppercase tracking-wider text-gray-400 font-bold mb-2.5">Календарь архива по датам</div>
+              <div class="max-h-48 overflow-y-auto pr-1">
+                {"".join(cal_html)}
+              </div>
+            </div>
+          </div>
+
+          <div id="filterStatus" class="mt-4 pt-3 border-t border-gray-100 text-xs text-gray-500 flex items-center justify-between">
+            <span>Найдено статей: <strong id="resultsCount" class="text-emerald-800 font-bold">{len(posts)}</strong></span>
+            <span id="activeFilterBadge" class="hidden bg-emerald-50 text-emerald-800 px-2 py-0.5 rounded font-medium"></span>
+          </div>
+        </div>
+
+        <!-- Результаты поиска -->
+        <div id="postsList" class="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+          {"".join(cards)}
+        </div>
+
+        <div id="noResults" class="hidden text-center py-16 bg-white border border-gray-200 rounded-xl">
+          <p class="font-sans-ui text-base text-gray-500 mb-2">По вашему запросу ничего не найдено</p>
+          <button id="clearSearchBtn" class="font-sans-ui text-xs text-emerald-700 hover:underline font-semibold">Сбросить поисковый запрос</button>
+        </div>
+
+        <script>
+          const searchInput = document.getElementById('searchInput');
+          const cards = document.querySelectorAll('.post-card');
+          const resultsCount = document.getElementById('resultsCount');
+          const noResults = document.getElementById('noResults');
+          const resetFiltersBtn = document.getElementById('resetFiltersBtn');
+          const filterStatus = document.getElementById('filterStatus');
+          const activeFilterBadge = document.getElementById('activeFilterBadge');
+          const clearSearchBtn = document.getElementById('clearSearchBtn');
+
+          let selectedTag = "";
+          let selectedDate = "";
+
+          function applyFilter() {{
+            const query = searchInput.value.toLowerCase().trim();
+            let visibleCount = 0;
+
+            cards.forEach(card => {{
+              const searchData = card.getAttribute('data-search') || '';
+              const cardTags = (card.getAttribute('data-tags') || '').split(',');
+              const cardDate = card.getAttribute('data-date') || '';
+
+              const matchesQuery = !query || searchData.includes(query);
+              const matchesTag = !selectedTag || cardTags.includes(selectedTag);
+              const matchesDate = !selectedDate || cardDate === selectedDate;
+
+              if (matchesQuery && matchesTag && matchesDate) {{
+                card.style.display = '';
+                visibleCount++;
+              }} else {{
+                card.style.display = 'none';
+              }}
+            }});
+
+            resultsCount.textContent = visibleCount;
+            noResults.style.display = visibleCount === 0 ? 'block' : 'none';
+
+            const hasActiveFilters = Boolean(query || selectedTag || selectedDate);
+            resetFiltersBtn.classList.toggle('hidden', !hasActiveFilters);
+
+            if (selectedTag) {{
+              activeFilterBadge.textContent = 'Метка: ' + selectedTag;
+              activeFilterBadge.classList.remove('hidden');
+            }} else if (selectedDate) {{
+              activeFilterBadge.textContent = 'Месяц: ' + selectedDate;
+              activeFilterBadge.classList.remove('hidden');
+            }} else {{
+              activeFilterBadge.classList.add('hidden');
+            }}
+          }}
+
+          searchInput.addEventListener('input', applyFilter);
+
+          document.querySelectorAll('.tag-filter-btn').forEach(btn => {{
+            btn.addEventListener('click', () => {{
+              const tag = btn.getAttribute('data-tag');
+              if (selectedTag === tag) {{
+                selectedTag = "";
+                btn.classList.remove('bg-emerald-600', 'text-white');
+                btn.classList.add('bg-gray-100', 'text-gray-700');
+              }} else {{
+                document.querySelectorAll('.tag-filter-btn').forEach(b => {{
+                  b.classList.remove('bg-emerald-600', 'text-white');
+                  b.classList.add('bg-gray-100', 'text-gray-700');
+                }});
+                selectedTag = tag;
+                selectedDate = "";
+                btn.classList.remove('bg-gray-100', 'text-gray-700');
+                btn.classList.add('bg-emerald-600', 'text-white');
+              }}
+              applyFilter();
+            }});
+          }});
+
+          document.querySelectorAll('.date-filter-btn').forEach(btn => {{
+            btn.addEventListener('click', () => {{
+              const dateVal = btn.getAttribute('data-date');
+              if (selectedDate === dateVal) {{
+                selectedDate = "";
+                btn.classList.remove('bg-emerald-600', 'text-white', 'border-emerald-600');
+              }} else {{
+                document.querySelectorAll('.date-filter-btn').forEach(b => {{
+                  b.classList.remove('bg-emerald-600', 'text-white', 'border-emerald-600');
+                }});
+                selectedDate = dateVal;
+                selectedTag = "";
+                btn.classList.add('bg-emerald-600', 'text-white', 'border-emerald-600');
+              }}
+              applyFilter();
+            }});
+          }});
+
+          function resetAll() {{
+            searchInput.value = '';
+            selectedTag = '';
+            selectedDate = '';
+            document.querySelectorAll('.tag-filter-btn').forEach(b => {{
+              b.classList.remove('bg-emerald-600', 'text-white');
+              b.classList.add('bg-gray-100', 'text-gray-700');
+            }});
+            document.querySelectorAll('.date-filter-btn').forEach(b => {{
+              b.classList.remove('bg-emerald-600', 'text-white', 'border-emerald-600');
+            }});
+            applyFilter();
+          }}
+
+          resetFiltersBtn.addEventListener('click', resetAll);
+          if (clearSearchBtn) clearSearchBtn.addEventListener('click', resetAll);
+
+          // Проверка query-параметра ?tag= в URL
+          const urlParams = new URLSearchParams(window.location.search);
+          const initialTag = urlParams.get('tag');
+          if (initialTag) {{
+            const targetBtn = Array.from(document.querySelectorAll('.tag-filter-btn')).find(b => b.getAttribute('data-tag') === initialTag);
+            if (targetBtn) targetBtn.click();
+          }}
+        </script>
+      </main>
+    </div>
+    """
+
+    page = get_html_head("Поиск по статьям — о. Георгий Эдельштейн") + render_navbar(active_item="search") + search_html + HTML_FOOTER
+    (DIST_DIR / "search.html").write_text(page, encoding="utf-8")
+
+def generate_author_page():
+    content = ""
+    if AUTHOR_HTML_FILE.exists():
+        raw_html = AUTHOR_HTML_FILE.read_text(encoding="utf-8")
+        # Извлекаем содержимое тега <main>
+        m = re.search(r'<main[^>]*>(.*?)</main>', raw_html, re.DOTALL)
+        if m:
+            content = m.group(1)
+            # Убираем внутренний footer файла author.html, так как подвал отключен по всему сайту
+            content = re.sub(r'<footer[^>]*>.*?</footer>', '', content, flags=re.DOTALL)
+        else:
+            content = raw_html
+
+    author_html = f"""
+    <div class="flex-1 py-10 px-4">
+      <main class="max-w-3xl mx-auto bg-white border border-gray-200 rounded-xl p-6 sm:p-10 md:p-12 shadow-xs">
+        {content}
+      </main>
+    </div>
+    """
+
+    page = get_html_head("Об авторе — протоиерей Георгий Эдельштейн") + render_navbar(active_item="author") + author_html + HTML_FOOTER
+    (DIST_DIR / "author.html").write_text(page, encoding="utf-8")
 
 def build():
     print("[*] Запуск генерации сайта для Cloudflare Pages...")
@@ -274,6 +568,12 @@ def build():
 
     generate_index_page(posts)
     print(f"[✔] Главная страница dist/index.html готова!")
+
+    generate_search_page(posts)
+    print(f"[✔] Страница поиска dist/search.html с тегами и календарем готова!")
+
+    generate_author_page()
+    print(f"[✔] Страница об авторе dist/author.html готова!")
 
 if __name__ == "__main__":
     build()
