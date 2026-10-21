@@ -63,12 +63,11 @@ def render_navbar(active_item=""):
     """
     Фиксированная плавающая панель навигации (fixed top-0), 
     которая всегда остается на экране при скролле.
-    Шрифт без засечек Inter, три основных раздела.
+    Шрифт без засечек Inter, два основных раздела справа.
     """
     items = [
-        {"id": "posts", "title": "Все статьи", "url": "/"},
         {"id": "search", "title": "Поиск", "url": "/search.html"},
-        {"id": "author", "title": "Об авторе", "url": "/author.html"}
+        {"id": "author", "title": "Автор", "url": "/author.html"}
     ]
     
     links_html = []
