@@ -122,6 +122,7 @@ GLOBAL_HEAD = """<!DOCTYPE html>
       font-family: 'Lora', Georgia, serif;
       word-break: break-word;
       background-color: #f8fafc;
+      font-size: 1.125rem;
     }
     .font-sans, .font-sans-ui, nav, header, button, input {
       font-family: 'Inter', system-ui, -apple-system, sans-serif !important;
@@ -145,11 +146,10 @@ GLOBAL_HEAD = """<!DOCTYPE html>
     }
   </style>
 </head>
-<body class="bg-slate-50 text-gray-800 antialiased min-h-screen flex flex-col w-full pt-16">
+<body class="bg-slate-50 text-gray-800 antialiased min-h-screen flex flex-col w-full pt-16 text-base sm:text-lg">
 """
 
 def parse_markdown_post(filepath):
-    """Парсит markdown файл поста, вычищая технические даты и корректно доставая теги."""
     with open(filepath, "r", encoding="utf-8") as f:
         content = f.read()
 
@@ -270,9 +270,9 @@ def parse_markdown_post(filepath):
     }
 
 def generate_post_page(post):
-    """Генерирует отдельную страницу статьи в виде белого листа с отступами и тенью."""
+    """Генерирует отдельную страницу статьи с крупным удобным шрифтом."""
     tags_html = "".join([
-        f'<a href="/search.html?tag={t}" class="inline-block bg-emerald-50 text-emerald-800 hover:bg-emerald-100 hover:text-emerald-900 border border-emerald-200/70 text-xs px-2.5 py-0.5 rounded-full font-medium transition-colors font-sans">{t}</a>'
+        f'<a href="/search.html?tag={t}" class="inline-block bg-emerald-50 text-emerald-800 hover:bg-emerald-100 hover:text-emerald-900 border border-emerald-200/70 text-xs sm:text-sm px-3 py-1 rounded-full font-medium transition-colors font-sans">{t}</a>'
         for t in post["tags"]
     ])
 
@@ -286,36 +286,35 @@ def generate_post_page(post):
     </section>
     """ if post["comments_html"] else ""
 
-    # "Вид листа" на белом фоне с рамкой, тенью и скруглениями
     html = f"""{head}
   {navbar}
-  <main class="max-w-3xl mx-auto px-4 py-8 sm:py-12 flex-grow w-full">
+  <main class="max-w-3xl mx-auto px-3.5 sm:px-6 py-6 sm:py-12 flex-grow w-full">
     
     <div class="mb-5">
-      <a href="/" class="inline-flex items-center gap-1.5 text-xs sm:text-sm font-medium text-emerald-700 hover:text-emerald-900 transition-colors font-sans">
+      <a href="/" class="inline-flex items-center gap-1.5 text-sm sm:text-base font-medium text-emerald-700 hover:text-emerald-900 transition-colors font-sans">
         ← Все публикации
       </a>
     </div>
 
-    <!-- Белый лист статьи -->
-    <div class="bg-white rounded-2xl border border-gray-200 shadow-sm p-6 sm:p-10 md:p-12">
-      <header class="mb-8 border-b border-gray-100 pb-6">
-        <h1 class="font-sans text-2xl sm:text-3xl md:text-4xl font-bold tracking-tight text-gray-900 mb-3 leading-tight">
+    <!-- Белый лист статьи с улучшенным мобильным кеглем -->
+    <div class="bg-white rounded-2xl border border-gray-200 shadow-xs p-5 sm:p-10 md:p-12">
+      <header class="mb-6 sm:mb-8 border-b border-gray-100 pb-5 sm:pb-6">
+        <h1 class="font-sans text-2xl sm:text-3xl md:text-4xl font-bold tracking-tight text-gray-900 mb-3.5 leading-snug">
           {post['title']}
         </h1>
-        <div class="flex flex-wrap items-center gap-3 text-xs sm:text-sm text-gray-500 font-sans">
+        <div class="flex flex-wrap items-center gap-3 text-sm text-gray-500 font-sans">
           <time>{post['date']}</time>
           <span>•</span>
           <a href="{post['original_url']}" target="_blank" rel="noopener" class="text-gray-400 hover:text-gray-600 transition-colors underline decoration-dotted">
             Оригинал в LiveJournal ↗
           </a>
         </div>
-        <div class="flex flex-wrap gap-1.5 mt-3">
+        <div class="flex flex-wrap gap-1.5 mt-3.5">
           {tags_html}
         </div>
       </header>
 
-      <article class="prose max-w-none text-base sm:text-lg leading-relaxed text-gray-800 space-y-4 font-serif">
+      <article class="prose max-w-none text-base sm:text-lg md:text-xl leading-relaxed text-gray-800 space-y-4 sm:space-y-5 font-serif">
         {post['body_html']}
       </article>
 
@@ -332,41 +331,47 @@ def generate_post_page(post):
         f.write(html)
 
 def generate_index_page(posts):
-    """Генерирует главную страницу каталога со спокойным заголовком."""
+    """Генерирует главную страницу с плиткой-сеткой (Grid) из карточек и увеличенными шрифтами."""
     head = GLOBAL_HEAD.replace("{PAGE_TITLE}", "Архив записей о. Георгия Эдельштейна")
     navbar = render_navbar(active_item="posts")
     footer = render_footer()
 
     cards_html = []
     for p in posts:
-        comments_badge = f'<span class="text-xs text-gray-500 font-medium">💬 {p["comment_count"]}</span>' if p["comment_count"] > 0 else ""
+        comments_badge = f'<span class="text-xs sm:text-sm text-gray-500 font-medium">💬 {p["comment_count"]}</span>' if p["comment_count"] > 0 else ""
         cards_html.append(f"""
-        <a href="/{p['id']}.html" class="group block bg-white rounded-xl border border-gray-200 p-5 sm:p-6 shadow-xs hover:border-emerald-500 hover:shadow-md transition-all">
-          <div class="flex items-center justify-between text-xs text-gray-500 font-sans mb-2">
-            <time>{p['date']}</time>
-            {comments_badge}
+        <a href="/{p['id']}.html" class="group flex flex-col justify-between bg-white rounded-2xl border border-gray-200/90 p-5 sm:p-6 shadow-xs hover:border-emerald-500 hover:shadow-md transition-all">
+          <div>
+            <div class="flex items-center justify-between text-xs sm:text-sm text-gray-500 font-sans mb-2.5">
+              <time class="font-medium text-gray-500">{p['date']}</time>
+              {comments_badge}
+            </div>
+            <h2 class="font-sans text-lg sm:text-xl font-bold tracking-tight text-gray-900 group-hover:text-emerald-800 transition-colors mb-2.5 leading-snug">
+              {p['title']}
+            </h2>
+            <p class="text-sm sm:text-base text-gray-600 font-serif leading-relaxed line-clamp-3 mb-4">
+              {p['snippet']}
+            </p>
           </div>
-          <h2 class="font-sans text-lg sm:text-xl font-bold tracking-tight text-gray-900 group-hover:text-emerald-800 transition-colors mb-2 leading-snug">
-            {p['title']}
-          </h2>
-          <p class="text-sm sm:text-base text-gray-600 font-serif leading-relaxed line-clamp-2 mb-3">
-            {p['snippet']}
-          </p>
-          <div class="inline-flex items-center text-xs font-semibold text-emerald-700 group-hover:text-emerald-900 font-sans">
-            Читать полностью <span class="ml-1 group-hover:translate-x-1 transition-transform">→</span>
+          <div class="pt-3 border-t border-gray-100 flex items-center justify-between mt-auto">
+            <span class="inline-flex items-center text-xs sm:text-sm font-semibold text-emerald-700 group-hover:text-emerald-900 font-sans">
+              Читать полностью <span class="ml-1 group-hover:translate-x-1 transition-transform">→</span>
+            </span>
           </div>
         </a>
         """)
 
     html = f"""{head}
   {navbar}
-  <main class="max-w-4xl mx-auto px-4 py-8 sm:py-12 flex-grow w-full">
-    <div class="mb-8 sm:mb-10 text-left border-b border-gray-200 pb-6">
-      <h1 class="font-sans text-2xl sm:text-3xl md:text-4xl font-normal tracking-tight text-gray-900 mb-2">
+  <main class="max-w-5xl mx-auto px-3.5 sm:px-6 py-6 sm:py-10 flex-grow w-full">
+    <div class="mb-6 sm:mb-8 text-left border-b border-gray-200 pb-4 sm:pb-5">
+      <h1 class="font-sans text-2xl sm:text-3xl md:text-4xl font-normal tracking-tight text-gray-900">
         Архив записей о. Георгия Эдельштейна
       </h1>
     </div>
-    <div class="space-y-4">
+    
+    <!-- Сетка карточек-плиток (квадратиков) -->
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-4 sm:gap-6">
       {''.join(cards_html)}
     </div>
   </main>
@@ -379,9 +384,7 @@ def generate_index_page(posts):
 
 def generate_search_page(posts):
     """
-    Генерирует страницу поиска с упорядоченными датами и тегами в точности как на скриншоте 1:
-    - Метки и категории (счетчики в круглых чипах)
-    - Календарь архива по датам (Год, количество записей, месяцы строго 1..12 по порядку)
+    Генерирует страницу поиска с сеточной плиткой и крупным мобильным шрифтом.
     """
     head = GLOBAL_HEAD.replace("{PAGE_TITLE}", "Поиск по архиву — о. Георгий Эдельштейн")
     navbar = render_navbar(active_item="search")
@@ -396,7 +399,7 @@ def generate_search_page(posts):
 
     sorted_tags = sorted(tag_counts.items(), key=lambda x: (-x[1], x[0]))
     tags_cloud_html = "".join([
-        f'<button onclick="filterByTag(\'{tag}\')" class="tag-btn inline-flex items-center gap-1.5 text-xs font-medium px-3 py-1.5 rounded-full border border-gray-200 bg-white text-gray-700 hover:border-emerald-500 hover:text-emerald-800 transition-colors font-sans shadow-2xs" data-tag="{tag}">'
+        f'<button onclick="filterByTag(\'{tag}\')" class="tag-btn inline-flex items-center gap-1.5 text-xs sm:text-sm font-medium px-3 py-1.5 rounded-full border border-gray-200 bg-white text-gray-700 hover:border-emerald-500 hover:text-emerald-800 transition-colors font-sans shadow-2xs" data-tag="{tag}">'
         f'<span>{tag}</span> <span class="text-gray-400 font-normal">({cnt})</span>'
         f'</button>'
         for tag, cnt in sorted_tags
@@ -413,22 +416,20 @@ def generate_search_page(posts):
             year_totals[y] = year_totals.get(y, 0) + 1
 
     dates_html = []
-    # Сортируем года по убыванию (от новых к старым)
     for y in sorted(dates_tree.keys(), reverse=True):
         m_buttons = []
-        # Внутри года месяцы сортируем строго ПО КАЛЕНДАРЮ: Январь (1), Февраль (2)...
         for m in sorted(dates_tree[y].keys()):
             if 1 <= m <= 12:
                 m_name = MONTH_NAMES_RU[m]
                 cnt = dates_tree[y][m]
                 m_buttons.append(
-                    f'<button onclick="filterByDate({y}, {m})" class="date-btn text-xs px-2.5 py-1 rounded-lg bg-gray-50 border border-gray-200 text-gray-700 hover:bg-emerald-50 hover:border-emerald-400 hover:text-emerald-900 transition-colors font-sans whitespace-nowrap" data-ym="{y}-{m}">{m_name} ({cnt})</button>'
+                    f'<button onclick="filterByDate({y}, {m})" class="date-btn text-xs sm:text-sm px-2.5 py-1.5 rounded-lg bg-gray-50 border border-gray-200 text-gray-700 hover:bg-emerald-50 hover:border-emerald-400 hover:text-emerald-900 transition-colors font-sans whitespace-nowrap" data-ym="{y}-{m}">{m_name} ({cnt})</button>'
                 )
         dates_html.append(f"""
         <div class="py-2.5 border-b border-gray-100 last:border-0 font-sans">
           <div class="flex items-center gap-2 mb-1.5">
-            <span class="font-bold text-xs sm:text-sm text-gray-900">{y} год</span>
-            <span class="text-xs text-gray-400 font-normal">({year_totals[y]} зап.)</span>
+            <span class="font-bold text-sm text-gray-900">{y} год</span>
+            <span class="text-xs sm:text-sm text-gray-400 font-normal">({year_totals[y]} зап.)</span>
           </div>
           <div class="flex flex-wrap gap-1.5">
             {''.join(m_buttons)}
@@ -439,15 +440,15 @@ def generate_search_page(posts):
     cards_json = []
     for p in posts:
         cards_json.append(f"""
-        <article class="search-item group bg-white rounded-xl border border-gray-200 p-5 shadow-xs hover:border-emerald-500 hover:shadow-md transition-all" data-title="{p['title'].lower()}" data-snippet="{p['snippet'].lower()}" data-tags="{','.join(p.get('tags', [])).lower()}" data-year="{p.get('year') or ''}" data-month="{p.get('month') or ''}">
+        <article class="search-item group flex flex-col justify-between bg-white rounded-2xl border border-gray-200/90 p-5 sm:p-6 shadow-xs hover:border-emerald-500 hover:shadow-md transition-all" data-title="{p['title'].lower()}" data-snippet="{p['snippet'].lower()}" data-tags="{','.join(p.get('tags', [])).lower()}" data-year="{p.get('year') or ''}" data-month="{p.get('month') or ''}">
           <a href="/{p['id']}.html" class="block">
-            <div class="flex items-center justify-between text-xs text-gray-500 font-sans mb-2">
-              <time>{p['date']}</time>
+            <div class="flex items-center justify-between text-xs sm:text-sm text-gray-500 font-sans mb-2.5">
+              <time class="font-medium">{p['date']}</time>
             </div>
             <h2 class="font-sans text-lg sm:text-xl font-bold tracking-tight text-gray-900 group-hover:text-emerald-800 transition-colors mb-2 leading-snug">
               {p['title']}
             </h2>
-            <p class="text-sm text-gray-600 font-serif line-clamp-2 leading-relaxed">
+            <p class="text-sm sm:text-base text-gray-600 font-serif line-clamp-3 leading-relaxed">
               {p['snippet']}
             </p>
           </a>
@@ -456,17 +457,16 @@ def generate_search_page(posts):
 
     html = f"""{head}
   {navbar}
-  <main class="max-w-4xl mx-auto px-4 py-8 sm:py-12 flex-grow w-full">
+  <main class="max-w-5xl mx-auto px-3.5 sm:px-6 py-6 sm:py-10 flex-grow w-full">
     
-    <div class="mb-8 border-b border-gray-200 pb-6">
+    <div class="mb-6 sm:mb-8 border-b border-gray-200 pb-5">
       <h1 class="font-sans text-2xl sm:text-3xl md:text-4xl font-normal tracking-tight text-gray-900 mb-2">
         поиск по архиву
       </h1>
       
-      <!-- Поле поиска с бесцветной серой контурной лупой -->
       <div class="mt-4 relative">
         <input type="text" id="searchInput" placeholder="Введите слово или фразу для поиска..." 
-               class="w-full px-4 py-3 pl-11 bg-white border border-gray-300 rounded-xl text-sm sm:text-base text-gray-900 placeholder-gray-400 focus:outline-hidden focus:border-emerald-500 focus:ring-2 focus:ring-emerald-200 font-sans transition-all shadow-xs">
+               class="w-full px-4 py-3 pl-11 bg-white border border-gray-300 rounded-xl text-base text-gray-900 placeholder-gray-400 focus:outline-hidden focus:border-emerald-500 focus:ring-2 focus:ring-emerald-200 font-sans transition-all shadow-xs">
         <svg class="absolute left-3.5 top-3.5 w-5 h-5 text-gray-400 pointer-events-none" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
           <path stroke-linecap="round" stroke-linejoin="round" d="M21 21l-4.35-4.35m1.85-5.15a7 7 0 11-14 0 7 7 0 0114 0z"></path>
         </svg>
@@ -475,44 +475,42 @@ def generate_search_page(posts):
     </div>
 
     <!-- Две колонки фильтрации: Теги и Даты -->
-    <div class="grid grid-cols-1 md:grid-cols-2 gap-6 mb-8 font-sans">
-      <!-- Блок тегов -->
-      <section class="bg-white rounded-xl border border-gray-200 p-5 shadow-xs">
-        <h2 class="text-xs font-bold uppercase tracking-wider text-gray-500 mb-3">
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-5 sm:gap-6 mb-8 font-sans">
+      <section class="bg-white rounded-2xl border border-gray-200/90 p-5 sm:p-6 shadow-xs">
+        <h2 class="text-xs sm:text-sm font-bold uppercase tracking-wider text-gray-500 mb-3.5">
           теги
         </h2>
-        <div class="flex flex-wrap gap-1.5 max-h-56 overflow-y-auto pr-1">
+        <div class="flex flex-wrap gap-1.5 max-h-60 overflow-y-auto pr-1">
           {tags_cloud_html}
         </div>
       </section>
 
-      <!-- Блок дат -->
-      <section class="bg-white rounded-xl border border-gray-200 p-5 shadow-xs">
-        <h2 class="text-xs font-bold uppercase tracking-wider text-gray-500 mb-3">
+      <section class="bg-white rounded-2xl border border-gray-200/90 p-5 sm:p-6 shadow-xs">
+        <h2 class="text-xs sm:text-sm font-bold uppercase tracking-wider text-gray-500 mb-3.5">
           даты
         </h2>
-        <div class="space-y-1 max-h-56 overflow-y-auto pr-1">
+        <div class="space-y-1.5 max-h-60 overflow-y-auto pr-1">
           {''.join(dates_html)}
         </div>
       </section>
     </div>
 
     <!-- Индикатор фильтрации -->
-    <div id="filterStatus" class="hidden items-center justify-between bg-emerald-50 border border-emerald-200 text-emerald-900 px-4 py-2.5 rounded-lg text-xs sm:text-sm font-sans mb-6">
+    <div id="filterStatus" class="hidden items-center justify-between bg-emerald-50 border border-emerald-200 text-emerald-900 px-4 py-3 rounded-xl text-sm font-sans mb-6">
       <span id="filterLabel"></span>
       <button onclick="resetAllFilters()" class="font-bold underline hover:text-emerald-950">Сбросить фильтр</button>
     </div>
 
     <!-- Счётчик результатов -->
-    <div class="mb-4 text-xs sm:text-sm text-gray-500 font-sans">
-      Найдено статей: <strong id="visibleCounter" class="text-emerald-800">{len(posts)}</strong>
+    <div class="mb-4 text-sm text-gray-500 font-sans">
+      Найдено статей: <strong id="visibleCounter" class="text-emerald-800 font-bold">{len(posts)}</strong>
     </div>
 
-    <!-- Список результатов -->
-    <div id="resultsList" class="space-y-4">
+    <!-- Сетка результатов поиска плиточным видом -->
+    <div id="resultsList" class="grid grid-cols-1 md:grid-cols-2 gap-4 sm:gap-6">
       {''.join(cards_json)}
     </div>
-    <div id="noResults" class="hidden text-center py-12 text-gray-500 font-sans text-sm">
+    <div id="noResults" class="hidden text-center py-12 text-gray-500 font-sans text-base">
       Ничего не найдено. Попробуйте изменить запрос или сбросить фильтры.
     </div>
 
