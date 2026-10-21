@@ -64,6 +64,7 @@ def render_navbar(active_item=""):
     Фиксированная плавающая панель навигации (fixed top-0), 
     которая всегда остается на экране при скролле.
     Шрифт без засечек Inter, два основных раздела справа.
+    Оптимизирована для кроссбраузерной верстки без горизонтального скролла.
     """
     items = [
         {"id": "search", "title": "Поиск", "url": "/search.html"},
@@ -74,20 +75,20 @@ def render_navbar(active_item=""):
     for item in items:
         if item["id"] == active_item:
             links_html.append(
-                f'<a href="{item["url"]}" class="px-3 py-1.5 rounded-lg text-sm font-semibold tracking-normal bg-emerald-100 text-emerald-900 border border-emerald-200 transition-colors whitespace-nowrap font-sans">{item["title"]}</a>'
+                f'<a href="{item["url"]}" class="px-2.5 sm:px-3 py-1 sm:py-1.5 rounded-lg text-xs sm:text-sm font-semibold tracking-normal bg-emerald-100 text-emerald-900 border border-emerald-200 transition-colors whitespace-nowrap font-sans">{item["title"]}</a>'
             )
         else:
             links_html.append(
-                f'<a href="{item["url"]}" class="px-3 py-1.5 rounded-lg text-sm font-medium tracking-normal text-gray-600 hover:text-emerald-800 hover:bg-gray-100 transition-colors whitespace-nowrap font-sans">{item["title"]}</a>'
+                f'<a href="{item["url"]}" class="px-2.5 sm:px-3 py-1 sm:py-1.5 rounded-lg text-xs sm:text-sm font-medium tracking-normal text-gray-600 hover:text-emerald-800 hover:bg-gray-100 transition-colors whitespace-nowrap font-sans">{item["title"]}</a>'
             )
 
     return f"""
     <header class="w-full bg-white/95 backdrop-blur-md border-b border-gray-200 fixed top-0 left-0 right-0 z-50 transition-all shadow-xs">
-      <div class="max-w-4xl mx-auto px-4 py-3 flex items-center justify-between gap-4">
-        <a href="/" class="font-sans text-base sm:text-lg font-bold tracking-tight text-gray-900 hover:text-emerald-800 transition-colors whitespace-nowrap">
+      <div class="max-w-4xl mx-auto px-3 sm:px-4 py-2.5 sm:py-3 flex items-center justify-between gap-2 sm:gap-4">
+        <a href="/" class="font-sans text-sm sm:text-base font-bold tracking-tight text-gray-900 hover:text-emerald-800 transition-colors whitespace-nowrap truncate">
           о. Георгий Эдельштейн
         </a>
-        <nav class="flex items-center gap-1 sm:gap-2 overflow-x-auto max-w-full font-sans">
+        <nav class="flex items-center gap-1.5 sm:gap-2 shrink-0 font-sans">
           {''.join(links_html)}
         </nav>
       </div>
