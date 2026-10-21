@@ -3,7 +3,7 @@ import re
 import json
 import shutil
 from pathlib import Path
-from html import escape
+from html import escape, unescape
 
 PROJECT_ROOT = Path(__file__).parent.resolve()
 DATA_DIR = PROJECT_ROOT / "data"
@@ -27,7 +27,7 @@ HTML_HEAD = """<!DOCTYPE html>
       background-color: #fbfbfc;
       color: #1f2937;
     }}
-    .font-sans-ui {{ font-family: 'Inter', system-ui, sans-serif; }}
+    .font-sans-ui {{ font-family: 'Inter', system-ui, -apple-system, sans-serif; }}
     .font-title {{ font-family: 'Cinzel', Georgia, serif; }}
     
     .comment-entry {{
@@ -39,14 +39,14 @@ HTML_HEAD = """<!DOCTYPE html>
   </style>
 </head>
 <body class="min-h-screen flex flex-col">
-  <nav class="border-b border-gray-200 bg-white/80 backdrop-blur sticky top-0 z-30">
+  <nav class="border-b border-gray-200 bg-white/90 backdrop-blur sticky top-0 z-30">
     <div class="max-w-4xl mx-auto px-4 py-3 flex items-center justify-between">
       <a href="/" class="font-title text-xl font-bold tracking-wide text-gray-900 hover:text-red-800 transition">
         о. Георгий Эдельштейн
       </a>
       <div class="font-sans-ui text-sm text-gray-500 flex items-center gap-4">
-        <a href="/" class="hover:text-gray-900">Все статьи</a>
-        <a href="https://g-edelstein.livejournal.com" target="_blank" rel="noopener" class="text-red-700 hover:underline">ЖЖ @g-edelstein ↗</a>
+        <a href="/" class="hover:text-gray-900 font-medium transition">Все статьи</a>
+        <a href="https://g-edelstein.livejournal.com" target="_blank" rel="noopener" class="text-red-700 hover:text-red-900 hover:underline">ЖЖ @g-edelstein ↗</a>
       </div>
     </div>
   </nav>
@@ -57,13 +57,20 @@ HTML_FOOTER = """
   </div>
   <footer class="border-t border-gray-200 bg-white py-8 text-center text-sm text-gray-500 font-sans-ui">
     <div class="max-w-4xl mx-auto px-4">
-      <p>Архив публикаций и публичных диалогов о. Георгия Эдельштейна (1932–2026)</p>
-      <p class="text-xs text-gray-400 mt-2">Развернуто на Cloudflare Pages с автономной синхронизацией</p>
+      <p class="font-medium text-gray-700">Архив публикаций и публичных диалогов о. Георгия Эдельштейна (1932–2026)</p>
+      <p class="text-xs text-gray-400 mt-2">Священник Русской Православной Церкви, богослов, диссидент, член Московской Хельсинкской группы</p>
     </div>
   </footer>
 </body>
 </html>
 """
+
+def clean_html_to_plain_text(html_text):
+    """Удаляет все HTML-теги и лишние пробелы для анализа полезного текста."""
+    text = re.sub(r'<[^>]+>', ' ', html_text)
+    text = unescape(text)
+    text = re.sub(r'\s+', ' ', text).strip()
+    return text
 
 def parse_markdown_post(filepath):
     text = filepath.read_text(encoding="utf-8")
@@ -97,6 +104,7 @@ def parse_markdown_post(filepath):
                         tags.append(t)
             meta["tags"] = tags
 
+    # Удаляем дублирующиеся заголовки первого уровня из тела Markdown
     clean_body = re.sub(r'^\s*#\s+[^\n]+\n+', '', content.strip())
     clean_body = re.sub(r'^\s*_[^\n]+_\s*\n+', '', clean_body)
 
@@ -107,11 +115,39 @@ def parse_markdown_post(filepath):
         post_html = c_parts[0]
         comments_html = '<section class="lj-comments-archive"' + c_parts[1]
 
+    # Проверяем наличие полезного контента
+    plain_content = clean_html_to_plain_text(post_html)
+    has_images = bool(re.search(r'<img\s+', post_html, re.I))
+
+    # ФИЛЬТРАЦИЯ ПУСТЫХ ЗАПИСЕЙ:
+    # Если в статье меньше 40 символов осмысленного текста и нет картинок — считаем запись пустой
+    if len(plain_content) < 40 and not has_images:
+        return None
+
+    # ИЗВЛЕЧЕНИЕ / УТОЧНЕНИЕ ЗАГОЛОВКА:
+    title = meta.get("title", "").strip()
+    is_dummy_title = not title or bool(re.match(r'^Запись\s+\d+$', title, re.I)) or title.lower() in ["без темы", "(без темы)", "untitled"]
+
+    if is_dummy_title:
+        # Пытаемся сформировать заголовок из первых слов первого абзаца
+        sentences = [s.strip() for s in re.split(r'[.\n!?]+', plain_content) if len(s.strip()) > 5]
+        if sentences:
+            candidate = sentences[0]
+            if len(candidate) > 75:
+                candidate = candidate[:72].rsplit(' ', 1)[0] + '...'
+            title = candidate
+        else:
+            title = f"Запись от {meta.get('date', filepath.stem)}"
+
     comment_count = len(re.findall(r'<article class="comment-entry"', comments_html))
+
+    # Формируем короткое превью (сниппет) для карточки статьи
+    snippet = plain_content[:180].rsplit(' ', 1)[0] + '...' if len(plain_content) > 180 else plain_content
 
     return {
         "id": meta.get("id", filepath.stem),
-        "title": meta.get("title", f"Запись {filepath.stem}"),
+        "title": title,
+        "snippet": snippet,
         "date": meta.get("date", ""),
         "tags": meta.get("tags", []),
         "original_url": meta.get("original_url", f"https://g-edelstein.livejournal.com/{filepath.stem}.html"),
@@ -144,7 +180,7 @@ def generate_post_page(post):
       {post["comments_html"]}
 
       <div class="mt-12 pt-6 border-t border-gray-200 text-center font-sans-ui">
-        <a href="/" class="inline-flex items-center gap-2 text-sm text-gray-600 hover:text-red-800 font-medium">
+        <a href="/" class="inline-flex items-center gap-2 text-sm text-gray-600 hover:text-red-800 font-medium transition">
           ← Вернуться ко всем записям
         </a>
       </div>
@@ -155,27 +191,36 @@ def generate_post_page(post):
     out_path.write_text(page, encoding="utf-8")
 
 def generate_index_page(posts):
+    # Сортируем записи от самых новых к более старым
     sorted_posts = sorted(posts, key=lambda x: int(x["id"]) if x["id"].isdigit() else 0, reverse=True)
     
     posts_cards = []
     for p in sorted_posts:
         tags_str = " ".join(p["tags"])
         tags_chips = "".join([f'<span class="text-xs bg-gray-100 text-gray-600 px-2 py-0.5 rounded">{escape(t)}</span>' for t in p["tags"][:3]])
-        comments_badge = f'<span class="text-xs text-blue-600 bg-blue-50 px-2 py-0.5 rounded font-medium">💬 {p["comment_count"]}</span>' if p["comment_count"] > 0 else ''
+        comments_badge = f'<span class="text-xs text-blue-700 bg-blue-50 px-2 py-0.5 rounded font-medium">💬 {p["comment_count"]}</span>' if p["comment_count"] > 0 else ''
         
+        # КЛИКАБЕЛЬНАЯ КАРТОЧКА ЦЕЛИКОМ:
+        # Оборачиваем весь <article> в ссылку <a>, чтобы при клике в любое место открывалась статья
         card = f"""
-        <article class="post-card bg-white border border-gray-200 hover:border-red-300 rounded-lg p-5 transition hover:shadow-sm" data-search="{escape(p['title'].lower())} {escape(tags_str.lower())}">
-          <div class="flex items-baseline justify-between gap-4 mb-2">
-            <span class="font-sans-ui text-xs text-gray-400">{escape(p['date'])}</span>
-            {comments_badge}
+        <a href="/{p['id']}.html" class="post-card group block bg-white border border-gray-200 hover:border-red-400 rounded-xl p-5 transition hover:shadow-md flex flex-col justify-between" data-search="{escape(p['title'].lower())} {escape(p['snippet'].lower())} {escape(tags_str.lower())}">
+          <div>
+            <div class="flex items-baseline justify-between gap-4 mb-2">
+              <span class="font-sans-ui text-xs text-gray-400 group-hover:text-gray-500 transition">{escape(p['date'])}</span>
+              {comments_badge}
+            </div>
+            <h2 class="font-title text-lg font-bold text-gray-900 group-hover:text-red-800 transition mb-2 leading-snug">
+              {escape(p['title'])}
+            </h2>
+            {f'<p class="font-sans-ui text-xs text-gray-500 line-clamp-2 leading-relaxed mb-4">{escape(p["snippet"])}</p>' if p.get("snippet") else ''}
           </div>
-          <h2 class="font-title text-lg font-bold text-gray-900 hover:text-red-800 mb-2 leading-snug">
-            <a href="/{p['id']}.html">{escape(p['title'])}</a>
-          </h2>
-          <div class="flex flex-wrap gap-1.5 mt-3">
-            {tags_chips}
+          <div class="flex items-center justify-between mt-auto pt-3 border-t border-gray-100">
+            <div class="flex flex-wrap gap-1">
+              {tags_chips}
+            </div>
+            <span class="font-sans-ui text-xs text-red-700 group-hover:translate-x-0.5 transition font-medium">Читать →</span>
           </div>
-        </article>
+        </a>
         """
         posts_cards.append(card)
 
@@ -183,14 +228,14 @@ def generate_index_page(posts):
     <main class="max-w-4xl mx-auto">
       <header class="text-center mb-10">
         <h1 class="font-title text-3xl sm:text-4xl font-bold text-gray-900 mb-3">Архив записей о. Георгия Эдельштейна</h1>
-        <p class="font-sans-ui text-gray-600 max-w-2xl mx-auto">
+        <p class="font-sans-ui text-gray-600 max-w-2xl mx-auto leading-relaxed">
           Священник Русской Православной Церкви, член Московской Хельсинкской группы, диссидент, богослов и публицист.
         </p>
         <div class="mt-6 max-w-md mx-auto">
-          <input type="text" id="searchInput" placeholder="Поиск по статьям и темам..." 
-                 class="w-full px-4 py-2.5 rounded-lg border border-gray-300 focus:outline-none focus:ring-2 focus:ring-red-700 font-sans-ui text-sm shadow-sm">
+          <input type="text" id="searchInput" placeholder="Поиск по статьям, темам и цитатам..." 
+                 class="w-full px-4 py-2.5 rounded-lg border border-gray-300 focus:outline-none focus:ring-2 focus:ring-red-700 font-sans-ui text-sm shadow-sm transition">
         </div>
-        <div class="font-sans-ui text-xs text-gray-400 mt-2">Всего записей в архиве: {len(posts)}</div>
+        <div class="font-sans-ui text-xs text-gray-400 mt-2">Каталог публикаций: {len(posts)} статей</div>
       </header>
 
       <div id="postsList" class="grid gap-4 sm:grid-cols-2">
@@ -226,13 +271,18 @@ def build():
         print(f"[+] Скопированы изображения в {dist_images}")
 
     posts = []
+    skipped_count = 0
     md_files = sorted(list(POSTS_DIR.glob("*.md")))
     for md_f in md_files:
         post = parse_markdown_post(md_f)
+        if post is None:
+            skipped_count += 1
+            continue
         posts.append(post)
         generate_post_page(post)
 
-    print(f"[+] Сгенерировано {len(posts)} страниц статей в dist/")
+    print(f"[+] Отфильтровано пустых/битых записей: {skipped_count}")
+    print(f"[+] Сгенерировано качественных статей: {len(posts)} в dist/")
 
     generate_index_page(posts)
     print(f"[✔] Главная страница dist/index.html готова!")
