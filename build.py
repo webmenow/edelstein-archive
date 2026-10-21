@@ -55,12 +55,6 @@ HTML_HEAD = """<!DOCTYPE html>
 
 HTML_FOOTER = """
   </div>
-  <footer class="border-t border-gray-200 bg-white py-8 text-center text-sm text-gray-500 font-sans-ui">
-    <div class="max-w-4xl mx-auto px-4">
-      <p class="font-medium text-gray-700">Архив публикаций и публичных диалогов о. Георгия Эдельштейна (1932–2026)</p>
-      <p class="text-xs text-gray-400 mt-2">Священник Русской Православной Церкви, богослов, диссидент, член Московской Хельсинкской группы</p>
-    </div>
-  </footer>
 </body>
 </html>
 """
@@ -129,7 +123,6 @@ def parse_markdown_post(filepath):
     is_dummy_title = not title or bool(re.match(r'^Запись\s+\d+$', title, re.I)) or title.lower() in ["без темы", "(без темы)", "untitled"]
 
     if is_dummy_title:
-        # Пытаемся сформировать заголовок из первых слов первого абзаца
         sentences = [s.strip() for s in re.split(r'[.\n!?]+', plain_content) if len(s.strip()) > 5]
         if sentences:
             candidate = sentences[0]
@@ -200,8 +193,6 @@ def generate_index_page(posts):
         tags_chips = "".join([f'<span class="text-xs bg-gray-100 text-gray-600 px-2 py-0.5 rounded">{escape(t)}</span>' for t in p["tags"][:3]])
         comments_badge = f'<span class="text-xs text-blue-700 bg-blue-50 px-2 py-0.5 rounded font-medium">💬 {p["comment_count"]}</span>' if p["comment_count"] > 0 else ''
         
-        # КЛИКАБЕЛЬНАЯ КАРТОЧКА ЦЕЛИКОМ:
-        # Оборачиваем весь <article> в ссылку <a>, чтобы при клике в любое место открывалась статья
         card = f"""
         <a href="/{p['id']}.html" class="post-card group block bg-white border border-gray-200 hover:border-red-400 rounded-xl p-5 transition hover:shadow-md flex flex-col justify-between" data-search="{escape(p['title'].lower())} {escape(p['snippet'].lower())} {escape(tags_str.lower())}">
           <div>
@@ -228,9 +219,6 @@ def generate_index_page(posts):
     <main class="max-w-4xl mx-auto">
       <header class="text-center mb-10">
         <h1 class="font-title text-3xl sm:text-4xl font-bold text-gray-900 mb-3">Архив записей о. Георгия Эдельштейна</h1>
-        <p class="font-sans-ui text-gray-600 max-w-2xl mx-auto leading-relaxed">
-          Священник Русской Православной Церкви, член Московской Хельсинкской группы, диссидент, богослов и публицист.
-        </p>
         <div class="mt-6 max-w-md mx-auto">
           <input type="text" id="searchInput" placeholder="Поиск по статьям, темам и цитатам..." 
                  class="w-full px-4 py-2.5 rounded-lg border border-gray-300 focus:outline-none focus:ring-2 focus:ring-red-700 font-sans-ui text-sm shadow-sm transition">
