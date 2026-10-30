@@ -6,7 +6,7 @@ original_url: https://g-edelstein.livejournal.com/12252.html
 permalink: /12252.html
 slug: let-every-man-remember-his-duty
 summary: Размышления о недопустимости лжи в церковном управлении на основе цитаты
-  И.С. Аксакова от 1865 года.
+  И. С. Аксакова от 1865 года.
 tags:
   - "Православие"
   - "Церковная история"
