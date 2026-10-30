@@ -1,0 +1,58 @@
+{{ define "main" }}
+<main class="max-w-5xl mx-auto px-3.5 sm:px-6 py-6 sm:py-10 w-full">
+  
+  <div class="mb-6 sm:mb-8 text-left border-b border-gray-200 pb-5">
+    <div class="inline-flex items-center gap-1.5 text-xs font-semibold uppercase tracking-wider text-emerald-800 bg-emerald-50 px-3 py-1 rounded-full mb-3 font-sans">
+      Рубрика / Тег
+    </div>
+    <h1 class="font-sans text-2xl sm:text-3xl md:text-4xl font-normal tracking-tight text-gray-900">
+      {{ .Title }}
+    </h1>
+    <p class="font-sans text-sm text-gray-500 mt-2">
+      Найдено публикаций: {{ len .Pages }}
+    </p>
+  </div>
+
+  <div class="grid grid-cols-1 md:grid-cols-2 gap-4 sm:gap-6">
+    {{ range .Pages }}
+      {{ $commentsCount := len (findRE `<article class="comment-entry"` .Content) }}
+      <a href="{{ .RelPermalink }}" 
+         class="group flex flex-col justify-between bg-white rounded-2xl border border-gray-200/90 p-5 sm:p-6 shadow-xs hover:border-emerald-500 hover:shadow-md transition-all">
+        <div>
+          <div class="flex items-center justify-between text-xs sm:text-sm text-gray-500 font-sans mb-2.5">
+            {{ $ruDate := .Date.Format "2 January 2006" }}
+            {{ $ruDate = replace $ruDate "January" "января" }}
+            {{ $ruDate = replace $ruDate "February" "февраля" }}
+            {{ $ruDate = replace $ruDate "March" "марта" }}
+            {{ $ruDate = replace $ruDate "April" "апреля" }}
+            {{ $ruDate = replace $ruDate "May" "мая" }}
+            {{ $ruDate = replace $ruDate "June" "июня" }}
+            {{ $ruDate = replace $ruDate "July" "июля" }}
+            {{ $ruDate = replace $ruDate "August" "августа" }}
+            {{ $ruDate = replace $ruDate "September" "сентября" }}
+            {{ $ruDate = replace $ruDate "October" "октября" }}
+            {{ $ruDate = replace $ruDate "November" "ноября" }}
+            {{ $ruDate = replace $ruDate "December" "декабря" }}
+            <time class="font-medium text-gray-500">{{ $ruDate }}</time>
+            {{ if gt $commentsCount 0 }}
+              <span class="text-xs sm:text-sm text-gray-500 font-medium">💬 {{ $commentsCount }}</span>
+            {{ end }}
+          </div>
+          <h2 class="font-sans text-lg sm:text-xl font-bold tracking-tight text-gray-900 group-hover:text-emerald-800 transition-colors mb-2.5 leading-snug">
+            {{ .Title }}
+          </h2>
+          <p class="text-sm sm:text-base text-gray-600 font-serif leading-relaxed line-clamp-3 mb-4">
+            {{ with .Params.summary }}{{ . }}{{ else }}{{ .Summary }}{{ end }}
+          </p>
+        </div>
+        <div class="pt-3 border-t border-gray-100 flex items-center justify-between mt-auto">
+          <span class="inline-flex items-center text-xs sm:text-sm font-semibold text-emerald-700 group-hover:text-emerald-900 font-sans">
+            Читать полностью <span class="ml-1 group-hover:translate-x-1 transition-transform">→</span>
+          </span>
+        </div>
+      </a>
+    {{ end }}
+  </div>
+
+</main>
+{{ end }}

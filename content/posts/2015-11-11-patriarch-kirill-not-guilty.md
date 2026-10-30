@@ -1,0 +1,207 @@
+---
+aliases:
+- /15071.html
+date: '2015-11-11T22:10:00'
+id: 15071
+original_url: https://g-edelstein.livejournal.com/15071.html
+permalink: /15071.html
+slug: patriarch-kirill-not-guilty
+summary: Автор рассуждает о преемственности советской номенклатурной системы в руководстве
+  Русской православной церкви от Сергия до Кирилла.
+tags:
+- Православие
+- Церковная история
+- Публицистика
+title: Святейший Патриарх Кирилл не виноват!
+---
+
+Угадай-ка.
+Святейшие Патриархи Московские и всея Руси:
+Сергий (Страгородский) – 1943,
+Алексий (Симанский) – 1945,
+Пимен (Извеков) – 1971,
+Алексий (Ридигер) 1990,
+Кирилл (Гундяев) – 2009,
+в чём между ними разница?
+<a name="cutid1"></a>Очень жаль, что вопросы задаю я, священник из с. Карабаново Костромской епархии. В 1980-84 гг. я учился в Московской духовной семинарии. Краснодарские, Ростовские, Ставропольские собратья животики надрывали, показывая пальцами на нас, бедолаг, Костромских, Вологодских, Ивановских: «Гляди, Карл Маркс какой! Бородищей оброс, пишет чего-то, книжки читает. Мне и конспект не прочитать, а он – книжки! Слышь, брат вологодский, хочешь подработать? Вот тебе три пузыря. Настоящие, не «Сучёк», не «Солнцедар», для себя вёз. Напиши за меня курсовую, а я хоть посплю».
+Костромскому-деревенскому всероссийский конкурс не объявить. А жаль. За лучший ответ можно бы «Ауди», и даже «Ягуар». В чём разница между пятью Патриархами?
+3 мая 1990 г. умер Патриарх Пимен. В начале июня в статье «Выборы Патриарха. На распутье или в тупике?» я писал, что предыдущие три (Сергий, Алексий, Пимен) различаются разве что размерами головных уборов да степенью владения французским языком.
+Канадский историк профессор Дм.В. Поспеловский разгромил статью. Он много лет неизменно критиковал меня за каждое слово, за каждый шаг (впрочем, не только он, но и все зарубежные друзья Московской Патриархии – епископ Василий (Родзянко), протоиерей Дмитрий Константинов и др.)
+Профессор Поспеловский так писал о Патриархе Пимене:
+«Личность, возглавлявшая Церковь, Патриарх Пимен, была по своей бездеятельности, серости и безвольности вполне под стать личности, возглавлявшей государство и партию. Да и коррупция, окружавшая Пимена, была под стать  брежневской».
+«В последнее десятилетие, когда покойный Патриарх Пимен фактически был уже не у дел, Церковью управляли его именем временщики, окружавшие Патриарха, а временщиками в значительной степени управляла небезызвестная «контора», нередко посредством шантажа».
+«При новом Патриархе, Алексии, всё будет по-новому. Он дал мне честное слово. Всех недостойных архиереев изгонят из Церкви на ближайшем Соборе. Вот увидите. Не улыбайтесь. Вы – скептик. Митрополита Филарета Киевского за недостойный образ жизни уже удалили. И других накажут», - горячо убеждал меня профессор.
+Я возражал редко и односложно, мне было жаль обижать и разочаровывать очень доброго и очень наивного русскоязычного иностранца. Даже редактор «Вестника РХД» профессор Никита Струве в 90-е годы всякий вздор о наших коммуно-сергианцах говорил и писал. Как-то в его городишке во Франции мы гуляли до двух часов ночи, почти ни в чём согласиться не могли. Теперь наши Владыки дружными совместными усилиями, кажется, исцелили Никиту Алексеевича от иллюзий.
+Однажды о. Глеб Якунин услышал слова Дм. Поспеловского о духовном суде над митрополитом Филаретом Киевским. Глеб был человеком не моего темперамента, он вцепился в пиджак профессора: «Так Денисенко Киевский по естеству всю жизнь с бабой жил, она ему детей рожала. А эти против естества, хуже всякой скотины! Филарета ни за что осудили!»
+Вечером на Казанскую, в прошлую среду, звонок за звонком: «Послушай что Патриарх Кирилл сегодня в Манеже на выставке о Сталине сказал!» Слушаю. Да ничего не сказал. Просто ещё раз засвидетельствовал, что он, Кирилл, - сергианец, советский человек. Я об этом писал в позапрошлом году. И в октябре сего года тоже писал. Заходите на <a href="http://www.karabanovo.prihod.ru" target="_blank">наш сайт</a>. Читайте <a href="http://g-edelstein.livejournal.com" target="_blank">ЖЖ</a>. Читайте «<a href="http://snob.ru/profile/29844/blog" target="_blank">Сноб</a>».
+У сергианца никогда не было, нет и не может быть своего мировоззрения. Такая роскошь ему не по карману. Его взгляды, симпатии, антипатии прежде определялись вчерашней передовицей «Правды». Потом стали определяться чьей-то речью на вчерашнем приёме в Кремле. 
+Сенсация! Патриарх Кирилл превознёс И.В. Сталина. А кто его, эффективного менеджера, сегодня в высших сферах не превозносит? Внимательно читайте Декларацию о радостях от 14 (27) июля 1927 г.: «Мы, церковные деятели, с нашим народом и с нашим правительством». Читайте Декларацию. Читайте «Новую газету» от 26 октября сего года, где, по благословению г-на Владимира Легойды расхваливается митрополит Сергий и его гнусная Декларация. Оставьте в покое Патриарха Кирилла. Митрополит Сергий превозносил Сталина выше. Патриарх Алексий I ещё выше. Митрополит Николай (Ярушевич) ещё выше. Они не сталинисты, они флюгеры такие – сергианцы называются.
+Два последующих поколения сергианцев – соратники Святейших Патриархов Пимена и Алексия II – генералиссимуса не вспоминали: «Правда» молчала и прямых указаний ни со Старой площади, ни с Лубянки не поступало в Чистый переулок.
+Не сердитесь на Патриарха Кирилла, дорогие братья и сёстры, не злословьте.
+К сим элементарным пролегоменам прилагаю статью «Право на правду» примерно на ту же тему о сергианцах.
+Считаю своим долгом засвидетельствовать, что заглавие статьи позаимствовал не у матерого антисоветчика и злобного антисергианца русского мыслителя И.А. Ильина, а у Святейшего Патриарха Кирилла. В 1989 г. в беседе с С.Б. Филатовым архиепископ Смоленский и Вяземский Кирилл (Гундяев) говорил: «Всем нам необходимо хранить чувство правды и требовать от себя и от других право на правду».
+Тогда на фуршетах в Кремле были в моде именно такие сентенции.<a name="cutid1-end"></a>
+3 ноября сего года, накануне Казанской и выставки в Манеже, я отправил статью «Право на правду» в «Новую газету». Там она, думаю, и лежит.
+
+Священник Георгий Эдельштейн.
+с. Карабаново
+11 ноября 2015 г.
+
+<section class="lj-comments-archive" style="margin-top: 3.5rem; border-top: 2px solid #e5e7eb; padding-top: 2rem;">
+<details style="background: #f9fafb; border: 1px solid #e5e7eb; border-radius: 8px; padding: 1.25rem 1.5rem;">
+<summary style="cursor: pointer; font-weight: 600; font-size: 1.15rem; color: #111827; user-select: none;">💬 Архив комментариев из ЖЖ (13)</summary>
+<div class="comments-list" style="margin-top: 1.5rem;">
+<article class="comment-entry" id="cmt-1" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
+<header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
+<strong style="color: #1e40af; font-size: 0.95rem;">nihontokai</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">November 11 2015, 20:24:11 UTC</time>
+</header>
+<div style="font-weight: 600; font-size: 0.95rem; margin-bottom: 0.35rem; color: #1f2937;">Сталин</div>
+<div class="comment-body" style="line-height: 1.6; color: #374151;">
+Даже ежу понятно, что исторический масштаб личности Сталина сравним разве что с Петром и Екатериной Великими. Что тут удивительного? Тявкать на Сталина равно надуваться как жаба в колесной колее.
+</div>
+</article>
+<article class="comment-entry" id="cmt-2" style="margin-left: 1.5rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
+<header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
+<strong style="color: #1e40af; font-size: 0.95rem;">afanasii1</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">November 12 2015, 10:19:50 UTC</time>
+</header>
+<div style="font-weight: 600; font-size: 0.95rem; margin-bottom: 0.35rem; color: #1f2937;">Re: Сталин</div>
+<div class="comment-body" style="line-height: 1.6; color: #374151;">
+Гитлер тоже масштаб имел. Некоторые до сих пор зиг хайль кричат.
+</div>
+</article>
+<article class="comment-entry" id="cmt-3" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
+<header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
+<strong style="color: #1e40af; font-size: 0.95rem;">deltaplann</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">November 12 2015, 13:28:04 UTC</time>
+</header>
+<div class="comment-body" style="line-height: 1.6; color: #374151;">
+Добрый день, отец Георгий!
+На мой взгляд, между перечисленными Вами Патриархами есть разница. У Патриарха Кирилла в роду есть сидельцы, пострадавшие от режима товарища Джугашвили. Это отец и дедушка.
+Вот поэтому все-таки хотелось верить, что генетическая память не даст забыть историю Отечества, в которой были не только победы, но и крайне ужасные вещи.
+Мы все так или иначе "иваны, не помнящие родства". Но что-то же должно щелкать в душе. Что-то, что никогда не даст сказать:" Успехи того или иного государственного руководителя, который стоял у истоков возрождения и модернизации страны, нельзя подвергать сомнению, даже если этот руководитель отличился злодействами."
+Из Википедии:
+О своём деде по отцу, священнике Василии Гундяеве, патриарх Кирилл рассказывал: «Дед у меня был замечательным человеком. Он прошёл 47 тюрем и 7 ссылок, прожил в заключении почти 30 лет и был одним из первых соловчан. Трудился машинистом на железной дороге казанского направления, а сидел лишь потому, что боролся против обновленчества, которое в своё время было инспирировано ЧК, а потом НКВД для разрушения Церкви»
+Отец — священник Михаил Васильевич Гундяев. В 1926 году поступил на Высшие богословские курсы в Ленинграде, по окончании которых «попал в поле зрения органов государственной безопасности»; служил два года в Красной Армии, к 1933 году окончил Механический техникум, поступил в Ленинградский индустриальный институт; был арестован, обвинён в политической нелояльности, 25 февраля 1934 года осуждён на 3 года ИТЛ (на Колыме).
+Патриарх Кирилл уникален и тем, что хочет усидеть на двух стульях - угодить и сталинистам и верующим. Но его оговорка "злодейства" весьма не устроила коммунистов-сталинистов, которые без устали твердят, что репрессий вообще не было. 
+Не угодил Святейший и верующим, т.к. ни слова не сказал о Новомучениках Российских, а также невинно убиенных людей и детей (различных вероисповеданий, проживавших на территории СССР).
+Сергианство почему-то многие считают признаком патриотичности и преданности. Мне кажется, все с точностью наоборот.
+</div>
+</article>
+<article class="comment-entry" id="cmt-4" style="margin-left: 1.5rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
+<header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
+<strong style="color: #1e40af; font-size: 0.95rem;">afanasii1</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">November 12 2015, 10:29:49 UTC</time>
+</header>
+<div class="comment-body" style="line-height: 1.6; color: #374151;">
+Отче! Вы сильно ругаете патриарха Сергия. Позвольте обратить ваше внимание на этот отрывок из Писания. 
+10	И был голод в той земле. И сошел Аврам в Египет, пожить там, потому что усилился голод в земле той.
+11	Когда же он приближался к Египту, то сказал Саре, жене своей: вот, я знаю, что ты женщина, прекрасная видом;
+12	и когда Египтяне увидят тебя, то скажут: это жена его; и убьют меня, а тебя оставят в живых;
+13	скажи же, что ты мне сестра, дабы мне хорошо было ради тебя, и дабы жива была душа моя чрез тебя.
+14	И было, когда пришел Аврам в Египет, Египтяне увидели, что она женщина весьма красивая;
+15	увидели ее и вельможи фараоновы и похвалили ее фараону; и взята была она в дом фараонов.
+16	И Авраму хорошо было ради ее; и был у него мелкий и крупный скот и ослы, и рабы и рабыни, и лошаки и верблюды.
+17	Но Господь поразил тяжкими ударами фараона и дом его за Сару, жену Аврамову.
+18	И призвал фараон Аврама и сказал: что ты это сделал со мною? для чего не сказал мне, что она жена твоя?
+19	для чего ты сказал: она сестра моя? и я взял было ее себе в жену. И теперь вот жена твоя; возьми и пойди.
+20	И дал о нем фараон повеление людям, и проводили его, и жену его, и все, что у него было. (Быт. 12)
+</div>
+</article>
+<article class="comment-entry" id="cmt-5" style="margin-left: 3.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #fffbfb; border: 1px solid #e5e7eb; border-left: 4px solid #b91c1c; border-radius: 6px; font-size: 0.95rem;">
+<header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
+<strong style="color: #991b1b; font-size: 0.95rem;">g_edelstein</strong> <span style="font-size: 0.72rem; background: #fee2e2; color: #991b1b; padding: 2px 7px; border-radius: 4px; font-weight: 600; margin-left: 6px;">автор</span>
+<time style="color: #9ca3af; font-size: 0.8rem;">November 13 2015, 16:24:06 UTC</time>
+</header>
+<div class="comment-body" style="line-height: 1.6; color: #374151;">
+Спасибо за комментарий. Буду благодарен, если Вы вспомните, когда и кому Иисус Христос говорил: "Мы с нашим народом и с нашим правительством". Буду также благодарен, если Вы вспомните, когда кто-либо из апостолов или христианских историков первых веков говорил, что ни один христианин не при ком из римских императоров не пострадал за свою веру.
+Случаи житейских обманов можно найти и у Исаака, и у Иакова.
+</div>
+</article>
+<article class="comment-entry" id="cmt-6" style="margin-left: 1.5rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #fffbfb; border: 1px solid #e5e7eb; border-left: 4px solid #b91c1c; border-radius: 6px; font-size: 0.95rem;">
+<header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
+<strong style="color: #991b1b; font-size: 0.95rem;">g_edelstein</strong> <span style="font-size: 0.72rem; background: #fee2e2; color: #991b1b; padding: 2px 7px; border-radius: 4px; font-weight: 600; margin-left: 6px;">автор</span>
+<time style="color: #9ca3af; font-size: 0.8rem;">November 13 2015, 16:40:49 UTC</time>
+</header>
+<div class="comment-body" style="line-height: 1.6; color: #374151;">
+Сергианство считают признаком патриотичности и преданности потому, что митрополит Сергий был "с нашим народом и с нашим правительством". Для многих людей патриотизм сводится к любви к Сталину, для них патриот - любой, кто кричит: "За Родину, за Сталина!" Я полагаю, что патриотами были митрополит Кирилл (Казанский), митрополит Иосиф (Петроградский), священник Анатолий (Жураковский), генерал Врангель, генерал Кутепов.
+Я знал священника Михаила Гундяева. Мы часто ездили после службы в трамвае. Мне кажется, он был очень честным человеком. Он рассказывал мне о митрополите Григории (Чукове), о митрополите Сергии. Сергианцем он не был. Весьма критически отзывался о подчинении Церкви государству.
+</div>
+</article>
+<article class="comment-entry" id="cmt-7" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
+<header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
+<strong style="color: #1e40af; font-size: 0.95rem;">nihontokai</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">November 12 2015, 20:28:26 UTC</time>
+</header>
+<div style="font-weight: 600; font-size: 0.95rem; margin-bottom: 0.35rem; color: #1f2937;">Re: Сталин</div>
+<div class="comment-body" style="line-height: 1.6; color: #374151;">
+С точки зрения России и ее народа, которые, как известно, являются Богоспасаемыми и над которыми простерто покровительство Покрова Пресвятыя Богородицы, Сталин и Гитлер - абсолютные антиподы, день и ночь, хирург и болезнь. Их можно приравнять, только потеряв какие бы то ни было координаты политических и исторических категорий.
+</div>
+</article>
+<article class="comment-entry" id="cmt-8" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
+<header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
+<strong style="color: #1e40af; font-size: 0.95rem;">afanasii1</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">November 12 2015, 20:36:44 UTC</time>
+</header>
+<div style="font-weight: 600; font-size: 0.95rem; margin-bottom: 0.35rem; color: #1f2937;">Re: Сталин</div>
+<div class="comment-body" style="line-height: 1.6; color: #374151;">
+Нам главное духовные координаты не потерять-бы.
+</div>
+</article>
+<article class="comment-entry" id="cmt-9" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
+<header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
+<strong style="color: #1e40af; font-size: 0.95rem;">nihontokai</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">November 12 2015, 20:46:34 UTC</time>
+</header>
+<div style="font-weight: 600; font-size: 0.95rem; margin-bottom: 0.35rem; color: #1f2937;">Re: Сталин</div>
+<div class="comment-body" style="line-height: 1.6; color: #374151;">
+Правильно. Верить в Бога и Его Церковь, молиться, смиряться, избегать злословия и клеветы.
+</div>
+</article>
+<article class="comment-entry" id="cmt-10" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #fffbfb; border: 1px solid #e5e7eb; border-left: 4px solid #b91c1c; border-radius: 6px; font-size: 0.95rem;">
+<header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
+<strong style="color: #991b1b; font-size: 0.95rem;">g_edelstein</strong> <span style="font-size: 0.72rem; background: #fee2e2; color: #991b1b; padding: 2px 7px; border-radius: 4px; font-weight: 600; margin-left: 6px;">автор</span>
+<time style="color: #9ca3af; font-size: 0.8rem;">November 13 2015, 16:16:52 UTC</time>
+</header>
+<div style="font-weight: 600; font-size: 0.95rem; margin-bottom: 0.35rem; color: #1f2937;">Re: Сталин</div>
+<div class="comment-body" style="line-height: 1.6; color: #374151;">
+Когда я говорю и пишу о чём-либо, я непременно опираюсь на факты. Прошу и Вас сделать то же. Кто-то говорит, что Сталин и Ленин антиподы, кто-то говорит, что Сталин и Троцкий антиподы, для кого-то Сталин и Гитлер антиподы. Итак, начнём с фактов. 
+1. Гитлер отличается от Сталина тем, что уничтожил в десять раз меньше граждан Германии, чем Сталин - граждан Советского Союза.
+Продолжите список.
+</div>
+</article>
+<article class="comment-entry" id="cmt-11" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
+<header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
+<strong style="color: #1e40af; font-size: 0.95rem;">afanasii1</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">November 13 2015, 16:31:40 UTC</time>
+</header>
+<div class="comment-body" style="line-height: 1.6; color: #374151;">
+Похоже вы так ничего и не поняли из того отрывка, что я вам привёл. 
+Исследуйте писания.
+</div>
+</article>
+<article class="comment-entry" id="cmt-12" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
+<header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
+<strong style="color: #1e40af; font-size: 0.95rem;">deltaplann</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">November 13 2015, 18:43:01 UTC</time>
+</header>
+<div style="font-weight: 600; font-size: 0.95rem; margin-bottom: 0.35rem; color: #1f2937;">Военное Православие</div>
+<div class="comment-body" style="line-height: 1.6; color: #374151;">
+Добрый вечер, отче! Спасибо Вам за интересный ответ.
+Да, везде подмены, подмены...Можно было бы осудить сергианство как ересь советского периода. Всей Церковью вынести решение, вместе осудить, перешагнуть этот рубеж и начать с чистого листа. Но это совершенно не реально, т.к. церковные управленцы набраны из людей военных. Для военного  человека слово "покаяние" равнозначно слову "слабость", поэтому чистого листа не будет. Будут множить "казаков", аппарат, продолжать ту же "патриотическую" линию. Наверное, военное Православие приведет до некой точки невозврата, что сбудутся пророчества "храмы будут золочены, но ходить в них будет нельзя".
+</div>
+</article>
+<article class="comment-entry" id="cmt-13" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
+<header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
+<strong style="color: #1e40af; font-size: 0.95rem;">nihontokai</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">November 13 2015, 21:03:56 UTC</time>
+</header>
+<div style="font-weight: 600; font-size: 0.95rem; margin-bottom: 0.35rem; color: #1f2937;">Re: Сталин</div>
+<div class="comment-body" style="line-height: 1.6; color: #374151;">
+Милости просим, начнем. Вы непременно опираетесь не факты, а на либерастическую брехню. Отличие неверное. Это во-первых. Во-вторых. Гитлер отличается от Сталина тем, что оккупировал практически всю Европу, провозгласил абсолютное биологическое расовое превосходство германцев надо всем миром и вероломно напал на Россию, имея целью ее уничтожение.
+</div>
+</article>
+</div>
+</details>
+</section>

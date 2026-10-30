@@ -1,0 +1,70 @@
+---
+aliases:
+- /13035.html
+date: '2015-01-17T21:48:00'
+id: 13035
+original_url: https://g-edelstein.livejournal.com/13035.html
+permalink: /13035.html
+slug: listaya-novyj-kalendar
+summary: Автор критикует календарный раздрай в церкви и проявления культа личности
+  в издании Патриаршего календаря.
+tags:
+- Православие
+- Церковная жизнь
+- Критика
+- Публицистика
+title: Листая новый календарь
+---
+
+<span style="font-size:1.4em;"><span style="color: rgb(0, 0, 0); font-family: Arial, Tahoma, Verdana, sans-serif; line-height: 18.200000762939453px; background-color: rgb(255, 255, 255);">Я не думаю, что по вопросу календаря нужно ломать копья. Ни один из извстных нам календарей не является подлинно христианским. В Новом завете об этом нет ни слова. Нелепо, что мы все живем по григорианскому календарю, а празднуем по юлианскому. Священный Синод датирует свои заседания и решения по григорианскому. Мы все, священнослужители, говорим, что сегодня 16-е января, а не 3-е января. Плохо любое двоемыслие, любое разделение. Его не было до 17-го года. Его не должно быть и сейчас. </span>
+<span style="color: rgb(0, 0, 0); font-family: Arial, Tahoma, Verdana, sans-serif; line-height: 18.200000762939453px; background-color: rgb(255, 255, 255);">Ежегодные календари, которые издает Московская Патриархия, с каждым годом все хуже и хуже. В нынешнем году изменилось и название. Теперь это почему-то 'Патриарший календарь'. В прежние годы в календарях было два десятка торжественных фотографий Патриарха, но на обложке непременно был какой-то храм. Теперь фотография Патриарха и на обложке. Мы можем купить десяток разных календарей без президента России на обложке, а без фотографии Патриарха - нет. На каждый день в календаре цитаты из творений Его Святейшества. Это не прибавляет уважения в нашему Первоиерарху. Скорее, это напоминает цитатник Мао Дзедуна. Любой культ личности, безусловно, унижает человека, будь то Сталин, Хрущев, Брежнев или кто-либо иной. </span>
+<span style="color: rgb(0, 0, 0); font-family: Arial, Tahoma, Verdana, sans-serif; line-height: 18.200000762939453px; background-color: rgb(255, 255, 255);">В нашей епархии, я как-то писал об этом, торжественные портреты правящего архиерея непременно висели в каждом кабинете на всех этажах епархиального управления. Когда на нашу кафедру был назначен архиепископ Алексий, он запретил вывешивать свои портреты. </span>
+<span style="color: rgb(0, 0, 0); font-family: Arial, Tahoma, Verdana, sans-serif; line-height: 18.200000762939453px; background-color: rgb(255, 255, 255);">Я не помню, чтобы какой-то секретарь обкома или председатель облисполкома торжественно праздновал десятилетие своего сидения в кресле. А наш епископ праздновал.</span>
+<span style="color: rgb(0, 0, 0); font-family: Arial, Tahoma, Verdana, sans-serif; line-height: 18.200000762939453px; background-color: rgb(255, 255, 255);">Не Патриарх редактирует календарь. Полагаю, что мы, священнослужители, повинны в этой грубой лести. Повинны и те, кто издает, и те, кто молчит.</span></span>
+
+<section class="lj-comments-archive" style="margin-top: 3.5rem; border-top: 2px solid #e5e7eb; padding-top: 2rem;">
+<details style="background: #f9fafb; border: 1px solid #e5e7eb; border-radius: 8px; padding: 1.25rem 1.5rem;">
+<summary style="cursor: pointer; font-weight: 600; font-size: 1.15rem; color: #111827; user-select: none;">💬 Архив комментариев из ЖЖ (3)</summary>
+<div class="comments-list" style="margin-top: 1.5rem;">
+<article class="comment-entry" id="cmt-1" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
+<header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
+<strong style="color: #1e40af; font-size: 0.95rem;">alexei576</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">January 18 2015, 06:10:48 UTC</time>
+</header>
+<div class="comment-body" style="line-height: 1.6; color: #374151;">
+<p dir="ltr">А как это можно изменить? Ведь многие видят несоответствие современной церковной, епархиальной, приходской жизни Евангельской простоте. Но предпочитают молчать. Зачем нужны все эти титулы - великий господин и отец, святейшества, высокопреосвященства если Господь говорил, что все мы братья? Зачем все эти пышные дорогущие облачения, покупка которых, зачастую, ложится тяжким бременем на приходы? Как вернуть в нашу церковную жизнь простоту? </p>
+</div>
+</article>
+<article class="comment-entry" id="cmt-2" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
+<header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
+<strong style="color: #1e40af; font-size: 0.95rem;">padalko_y_d</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">January 19 2015, 16:54:13 UTC</time>
+</header>
+<div class="comment-body" style="line-height: 1.6; color: #374151;">
+"Многие видят несоответствие современной церковной, епархиальной, приходской жизни Евангельской простоте, но предпочитают молчать - как вернуть в нашу церковную жизнь простоту?".
+"Никак - всё рано или поздно развалится"
+Вывод: 
+Не надо обличать ложь, лицемерие, экуменизм, иудо-христианство казарменного иерархата социального тела РПЦ МП.
+Не надо ... всё само-собой ... развалится и - Глава РПЦ МП (Сам Господь Иисус Христос) ВСЁ БЕЗ НАС(!) УСТРОИТ ...
+Не надо взвалить на себя СВОЙ КРЕСТ в Защиту и во Славу Христа вновь и вновь ежесекундно распинаемого Главы РПЦ МП ... 
+Не надо уподобляться Ему - без-страшному Обличителю (Матф, гл. 23, 22-29, Матф. 6, 24):
+"Горе вам, книжники и фарисеи, лицемеры! Вы очищаете снаружи чашу и блюдо, тогда как внутри они полны добытым неправедно". 
+"Фарисей слепой! Очисти прежде с внутренней стороны чашу и блюдо, тогда и с внешней стороны они станут чистыми". 
+"Горе вам, книжники и фарисеи, лицемеры! Вы подобны гробницам украшенным, которые снаружи кажутся красивыми, но внутри полны костей мертвецов и всяких нечистот. Так и вы: по наружности кажетесь людям праведными, но внутри преисполнены лицемерия и беззакония".
+"Никто не может служить двум господам: ибо или одного будет ненавидеть, а другого любить; или одному станет усердствовать, а о другом нерадеть". 
+"Не можете служить Богу и маммоне. ...
+Мнение sergeev555 - мнение ТЕПЛОХЛАДНОГО, которого Господь изблюёт из Уст Своих на Его Суде, как со-участника преступлений иудо-сионистских фарисеев в иерархате РПЦ МП.
+</div>
+</article>
+<article class="comment-entry" id="cmt-3" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
+<header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
+<strong style="color: #1e40af; font-size: 0.95rem;">ext_2785363</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">February 1 2015, 17:32:38 UTC</time>
+</header>
+<div class="comment-body" style="line-height: 1.6; color: #374151;">
+Хороший пост. Но как быть с празднованием Пасхи? Эти вопросы надо решать на Соборе- во избежание раскола. А так я за. А то эта путаница - старый -новый стиль утомляет.
+</div>
+</article>
+</div>
+</details>
+</section>

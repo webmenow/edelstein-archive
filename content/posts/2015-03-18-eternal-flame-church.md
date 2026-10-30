@@ -1,0 +1,18 @@
+---
+aliases:
+- /13104.html
+date: '2015-03-18T22:17:00'
+id: 13104
+original_url: https://g-edelstein.livejournal.com/13104.html
+permalink: /13104.html
+slug: eternal-flame-church
+summary: Автор призывает священнослужителей отказаться от зажжения лампад от советского
+  «вечного огня» в храмах.
+tags:
+- Православие
+- Церковь и общество
+- Публицистика
+title: И вечного огня исхити...
+---
+
+<p dir="ltr" style="line-height:1.3800000000000001;margin-top:0pt;margin-bottom:10pt;text-indent: 35.45pt;text-align: justify;"><span><span style="font-size: 19px; font-family: 'Times New Roman'; color: rgb(0, 0, 0); vertical-align: baseline; white-space: pre-wrap;">Говорят, что кто-то решил устроить в апреле сего года грандиозное всероссийское шоу: зажечь во всех храмах Русской Православной Церкви лампады от так называемого вечного огня. Надеюсь, что эта затея не будет поддержана моими собратьями священнослужителями: в России никогда и нигде не было вечного огня, его зажгли в СССР воинствующие безбожники-коммунисты. Об этом много раз писалось не только на нашем сайте. Исходящий из чрева земли вечный огонь и пентаграмма ассоциируются в христианстве с тартаром и преисподней.</span></span></p><p dir="ltr" style="line-height:1.3800000000000001;margin-top:0pt;margin-bottom:10pt;text-indent: 35.45pt;text-align: justify;"><span><span style="font-size: 19px; font-family: 'Times New Roman'; color: rgb(0, 0, 0); vertical-align: baseline; white-space: pre-wrap;">Если кто-либо всё же пожелает осуществить затею с вечным огнём, покорнейше прошу обходить и объезжать храм Воскресения Христова, что в селе Карабаново, как можно дальше стороной.</span></span></p><p dir="ltr" style="line-height:1.3800000000000001;margin-top:0pt;margin-bottom:10pt;text-indent: 35.45pt;text-align: justify;"><span><span style="font-size: 19px; font-family: 'Times New Roman'; color: rgb(0, 0, 0); vertical-align: baseline; white-space: pre-wrap;">И от олимпийского факела лампады зажигать не советую.</span></span></p>

@@ -1,0 +1,17 @@
+baseURL = 'https://edelstein-archive.pages.dev/'
+languageCode = 'ru-ru'
+title = 'о. Георгий Эдельштейн — Архив записей'
+hasCJKLanguage = false
+
+[pagination]
+  pagerSize = 200
+
+[permalinks]
+  posts = '/posts/:slug/'
+
+[taxonomies]
+  tag = 'tags'
+
+# Этот блок разрешает Hugo рендерить наши красивые HTML-комментарии
+[markup.goldmark.renderer]
+  unsafe = true

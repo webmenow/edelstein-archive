@@ -1,0 +1,116 @@
+{{ define "main" }}
+<main class="max-w-5xl mx-auto px-3.5 sm:px-6 py-6 sm:py-10 w-full">
+  
+  <div class="mb-6 sm:mb-8 text-left border-b border-gray-200 pb-5">
+    <h1 class="font-sans text-2xl sm:text-3xl md:text-4xl font-normal tracking-tight text-gray-900 mb-4">
+      Архив записей о. Георгия Эдельштейна
+    </h1>
+
+    <div class="relative max-w-2xl">
+      <input type="text" id="searchInput" placeholder="Поиск по статьям и резюме..." 
+             class="w-full px-4 py-3 pl-11 bg-white border border-gray-300 rounded-xl text-base text-gray-900 placeholder-gray-400 focus:outline-hidden focus:border-emerald-500 focus:ring-2 focus:ring-emerald-200 font-sans transition-all shadow-xs">
+      <svg class="absolute left-3.5 top-3.5 w-5 h-5 text-gray-400 pointer-events-none" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+        <path stroke-linecap="round" stroke-linejoin="round" d="M21 21l-4.35-4.35m1.85-5.15a7 7 0 11-14 0 7 7 0 0114 0z"></path>
+      </svg>
+      <button id="clearBtn" class="hidden absolute right-3.5 top-3.5 text-gray-400 hover:text-gray-600 text-sm font-sans">✕ Сброс</button>
+    </div>
+  </div>
+
+  <div id="searchCounter" class="hidden mb-4 text-sm text-gray-500 font-sans">
+    Найдено публикаций: <strong id="visibleCount" class="text-emerald-800 font-bold"></strong>
+  </div>
+
+  <div id="postsGrid" class="grid grid-cols-1 md:grid-cols-2 gap-4 sm:gap-6">
+    {{ range where .Site.RegularPages "Section" "posts" }}
+      {{ $commentsCount := len (findRE `<article class="comment-entry"` .Content) }}
+      {{ $tagList := delimit .Params.tags "," }}
+      <a href="{{ .RelPermalink }}" 
+         class="post-card group flex flex-col justify-between bg-white rounded-2xl border border-gray-200/90 p-5 sm:p-6 shadow-xs hover:border-emerald-500 hover:shadow-md transition-all"
+         data-title="{{ .Title | lower }}"
+         data-summary="{{ with .Params.summary }}{{ . | lower }}{{ else }}{{ .Summary | lower }}{{ end }}"
+         data-tags="{{ $tagList | lower }}">
+        <div>
+          <div class="flex items-center justify-between text-xs sm:text-sm text-gray-500 font-sans mb-2.5">
+            {{ $ruDate := .Date.Format "2 January 2006" }}
+            {{ $ruDate = replace $ruDate "January" "января" }}
+            {{ $ruDate = replace $ruDate "February" "февраля" }}
+            {{ $ruDate = replace $ruDate "March" "марта" }}
+            {{ $ruDate = replace $ruDate "April" "апреля" }}
+            {{ $ruDate = replace $ruDate "May" "мая" }}
+            {{ $ruDate = replace $ruDate "June" "июня" }}
+            {{ $ruDate = replace $ruDate "July" "июля" }}
+            {{ $ruDate = replace $ruDate "August" "августа" }}
+            {{ $ruDate = replace $ruDate "September" "сентября" }}
+            {{ $ruDate = replace $ruDate "October" "октября" }}
+            {{ $ruDate = replace $ruDate "November" "ноября" }}
+            {{ $ruDate = replace $ruDate "December" "декабря" }}
+            <time class="font-medium text-gray-500">{{ $ruDate }}</time>
+            {{ if gt $commentsCount 0 }}
+              <span class="text-xs sm:text-sm text-gray-500 font-medium">💬 {{ $commentsCount }}</span>
+            {{ end }}
+          </div>
+          <h2 class="font-sans text-lg sm:text-xl font-bold tracking-tight text-gray-900 group-hover:text-emerald-800 transition-colors mb-2.5 leading-snug">
+            {{ .Title }}
+          </h2>
+          <p class="text-sm sm:text-base text-gray-600 font-serif leading-relaxed line-clamp-3 mb-4">
+            {{ with .Params.summary }}{{ . }}{{ else }}{{ .Summary }}{{ end }}
+          </p>
+        </div>
+        <div class="pt-3 border-t border-gray-100 flex items-center justify-between mt-auto">
+          <span class="inline-flex items-center text-xs sm:text-sm font-semibold text-emerald-700 group-hover:text-emerald-900 font-sans">
+            Читать полностью <span class="ml-1 group-hover:translate-x-1 transition-transform">→</span>
+          </span>
+        </div>
+      </a>
+    {{ end }}
+  </div>
+
+  <div id="noResults" class="hidden text-center py-12 text-gray-500 font-sans text-base">
+    Ничего не найдено. Попробуйте изменить поисковый запрос.
+  </div>
+</main>
+
+<script>
+  const searchInput = document.getElementById('searchInput');
+  const clearBtn = document.getElementById('clearBtn');
+  const searchCounter = document.getElementById('searchCounter');
+  const visibleCount = document.getElementById('visibleCount');
+  const noResults = document.getElementById('noResults');
+  const cards = Array.from(document.querySelectorAll('.post-card'));
+
+  function doFilter() {
+    const q = searchInput.value.toLowerCase().trim();
+    clearBtn.classList.toggle('hidden', q.length === 0);
+
+    let count = 0;
+    cards.forEach(card => {
+      const t = card.dataset.title || '';
+      const s = card.dataset.summary || '';
+      const tags = card.dataset.tags || '';
+
+      const match = !q || t.includes(q) || s.includes(q) || tags.includes(q);
+      if (match) {
+        card.classList.remove('hidden');
+        count++;
+      } else {
+        card.classList.add('hidden');
+      }
+    });
+
+    if (q) {
+      searchCounter.classList.remove('hidden');
+      visibleCount.textContent = count;
+    } else {
+      searchCounter.classList.add('hidden');
+    }
+
+    noResults.classList.toggle('hidden', count > 0);
+  }
+
+  searchInput.addEventListener('input', doFilter);
+  clearBtn.addEventListener('click', () => {
+    searchInput.value = '';
+    doFilter();
+  });
+</script>
+{{ end }}

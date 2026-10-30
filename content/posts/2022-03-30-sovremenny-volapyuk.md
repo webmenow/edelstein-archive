@@ -1,0 +1,56 @@
+---
+aliases:
+- /19749.html
+date: '2022-03-30T10:49:00'
+id: 19749
+original_url: https://g-edelstein.livejournal.com/19749.html
+permalink: /19749.html
+slug: sovremenny-volapyuk
+summary: Филологический взгляд на эволюцию военной лексики и замену слова война эвфемизмами
+  в XX–XXI веках.
+tags:
+- Публицистика
+- Языкознание
+- Политика
+- Общество
+title: Современный волапюк
+---
+
+Так как я по первому образованию филолог, языковед, то у меня нестандартное отношение к слову. Я предлагаю считать слово "война" архаизмом. В XX - XXI веке войн не было, были только спецоперации: Первая мировая спецоперация, Вторая мировая спецоперация. "В результате русско-японской спецоперации Россия потеряла Южный Сахалин и Курильские острова" и т.д.
+
+<section class="lj-comments-archive" style="margin-top: 3.5rem; border-top: 2px solid #e5e7eb; padding-top: 2rem;">
+<details style="background: #f9fafb; border: 1px solid #e5e7eb; border-radius: 8px; padding: 1.25rem 1.5rem;">
+<summary style="cursor: pointer; font-weight: 600; font-size: 1.15rem; color: #111827; user-select: none;">💬 Архив комментариев из ЖЖ (3)</summary>
+<div class="comments-list" style="margin-top: 1.5rem;">
+<article class="comment-entry" id="cmt-1" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
+<header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
+<strong style="color: #1e40af; font-size: 0.95rem;">ariannaverteca</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">March 30 2022, 09:41:37 UTC</time>
+</header>
+<div class="comment-body" style="line-height: 1.6; color: #374151;">
+Михаил Шевелев пишет: 
+Сроду не воевали. В Будапеште подавляли контрреволюционный мятеж, в Праге оказывали братскую помощь, в Афганистане выполняли интернациональный долг, в Чечне восстанавливали конституционный порядок, в Грузии принуждали к миру, в Сирию принесли мир и гуманитарную помощь. 
+Вот отсутствие боевого опыта и сказалось в ходе специальной операции.
+</div>
+</article>
+<article class="comment-entry" id="cmt-2" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
+<header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
+<strong style="color: #1e40af; font-size: 0.95rem;">khebeb</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">March 30 2022, 12:26:46 UTC</time>
+</header>
+<div class="comment-body" style="line-height: 1.6; color: #374151;">
+только не "потеряла", а "отрицательно приросла" — риторическая система должна быть стройной и последовательной
+</div>
+</article>
+<article class="comment-entry" id="cmt-3" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
+<header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
+<strong style="color: #1e40af; font-size: 0.95rem;">dmitriy_yatskin</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">March 31 2022, 09:54:04 UTC</time>
+</header>
+<div class="comment-body" style="line-height: 1.6; color: #374151;">
+Выше Высокопреподобие изволили допустить неточность - Курильские острова Росся не потеряла из-за спецоперации 1904-1905 годов, а вполне добровольно обменяла у Японии на южный Сахалин в 1870-х годах по С_Петербургскому договору, подписанному первым послом Японии в России. Причём это считалось выгодным для России соглашением и в Японии воспринималось как результат диктата сильной европейской державы в отношении слабой азиатской страны, едва вставшей на путь модернизации... Да, сейчас времена другие, где эта сильная европейская...
+</div>
+</article>
+</div>
+</details>
+</section>

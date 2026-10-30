@@ -1,0 +1,123 @@
+---
+aliases:
+- /29060.html
+date: '2026-03-21T19:50:00'
+id: 29060
+original_url: https://g-edelstein.livejournal.com/29060.html
+permalink: /29060.html
+slug: nietzsche-and-sermons
+summary: Священник объясняет, почему он цитирует оппонентов вроде Ницше и предпочитает
+  беседы вместо поучений.
+tags:
+- Православие
+- Культура
+- Философия
+title: О цитировании Ницше, книгах и природе проповеди
+---
+
+# 
+
+_March 21 2026, 19:50_
+
+ <p><strong>Вопрос: Сколько раз Вы цитировали Ницше на проповеди и почему?</strong></p>
+<p><strong>Ответ:</strong></p>
+<p>Я думаю, я читал Ницше два или три года подряд. Просто потому, что я с ним почти ни в чём не согласен. И мне всегда приятно, радостно, интересно послушать своих оппонентов. Кроме того, Ницше был очень хорошо издан до революции. Я люблю читать полиграфически хорошо изданные книжки. Думаю, <a href="https://mikebrailowsky.livejournal.com/" target="_blank">Дима Браиловский</a> в этом отношении меня поддержит, одобрит.</p>
+<p>Я никогда в жизни не читал paperbacks – книги с отсутствующими полями, на плохой бумаге. Это презрение к Гутенбергу, презрение к Мандельштаму, Пастернаку, кому угодно. Плохо изданная книга – это Лизавета Смердящая, если вспомнить «Братьев Карамазовых»</p>
+<p>На проповедях я цитировал и Ленина, и Сталина, и Пушкина, и Льва Толстого, когда говорил, почему и в чём я с ними не согласен. Но нужно понимать, что я почти никогда не говорил проповеди. Я беседовал с людьми, которые пришли вместе со мной совершать Божественную Литургию. Примерно так же, как беседую с человеком, который задал мне этот вопрос. Я принципиально не проповедник, я не агитатор, не пропагандист.</p>
+<p>Спасибо всем, кто беседует со мной.</p>
+
+<section class="lj-comments-archive" style="margin-top: 3.5rem; border-top: 2px solid #e5e7eb; padding-top: 2rem;">
+<details style="background: #f9fafb; border: 1px solid #e5e7eb; border-radius: 8px; padding: 1.25rem 1.5rem;">
+<summary style="cursor: pointer; font-weight: 600; font-size: 1.15rem; color: #111827; user-select: none;">💬 Архив комментариев из ЖЖ (9)</summary>
+<div class="comments-list" style="margin-top: 1.5rem;">
+<article class="comment-entry" id="cmt-1" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
+<header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
+<strong style="color: #1e40af; font-size: 0.95rem;">n_ermak</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">March 21 2026, 17:04:27 UTC</time>
+</header>
+<div class="comment-body" style="line-height: 1.6; color: #374151;">
+Что плохого в проповеди, отче?
+</div>
+</article>
+<article class="comment-entry" id="cmt-2" style="margin-left: 1.5rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #fffbfb; border: 1px solid #e5e7eb; border-left: 4px solid #b91c1c; border-radius: 6px; font-size: 0.95rem;">
+<header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
+<strong style="color: #991b1b; font-size: 0.95rem;">g_edelstein</strong> <span style="font-size: 0.72rem; background: #fee2e2; color: #991b1b; padding: 2px 7px; border-radius: 4px; font-weight: 600; margin-left: 6px;">автор</span>
+<time style="color: #9ca3af; font-size: 0.8rem;">March 21 2026, 18:03:03 UTC</time>
+</header>
+<div class="comment-body" style="line-height: 1.6; color: #374151;">
+<p>Совершенно ничего против проповеди не имею, просто люди, которые произносят проповеди — учат, а мне никогда не хотелось никого учить, воспитывать. Вот и всё.</p>
+</div>
+</article>
+<article class="comment-entry" id="cmt-3" style="margin-left: 3.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
+<header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
+<strong style="color: #1e40af; font-size: 0.95rem;">n_ermak</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">March 21 2026, 18:26:58 UTC</time>
+</header>
+<div class="comment-body" style="line-height: 1.6; color: #374151;">
+<p><i>58-е апостольское правило прямо предписывает священнику учить благочестию
+</i>Думаю, отче, что  Вы на себя наговариваете.</p><blockquote class="post-quote-comment__blockquote" data-is-post-quote="true">нужно понимать, что я почти никогда не говорил проповеди. Я беседовал с людьми, которые пришли вместе со мной совершать Божественную Литургию. Примерно так же, как беседую с человеком, который задал мне этот вопрос. Я принципиально не проповедник, я не агитатор, не пропагандист.</blockquote><p>Беседа не самая плохая форма проповеди. Как и ответы на вопросы.
+Спасибо.</p>
+</div>
+</article>
+<article class="comment-entry" id="cmt-4" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #fffbfb; border: 1px solid #e5e7eb; border-left: 4px solid #b91c1c; border-radius: 6px; font-size: 0.95rem;">
+<header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
+<strong style="color: #991b1b; font-size: 0.95rem;">g_edelstein</strong> <span style="font-size: 0.72rem; background: #fee2e2; color: #991b1b; padding: 2px 7px; border-radius: 4px; font-weight: 600; margin-left: 6px;">автор</span>
+<time style="color: #9ca3af; font-size: 0.8rem;">March 22 2026, 10:59:14 UTC</time>
+</header>
+<div class="comment-body" style="line-height: 1.6; color: #374151;">
+<p>Нужно чувствовать себя чуть-чуть выше обучаемого.</p>
+<p>Отец Александр Мень имел на это право – он был учёный священник. Сергей Сергеевич Аверинцев имел на это право. А мне никогда не казалось, что я могу чему-то, кроме языкознания, обучить. Это просто свойство характера, таким меня мама родила, мне редко хотелось кого-то чему-то обучить. Вот, например, слушаю Льва Николаевича Толстого в эту минуту – его поучить хочется, но не прихожан, не в церкви. Повторяю, это просто свойство характера. На лекциях по языкознанию я, как правило, не обучал, а ходил по аудитории и, скорее, размышлял. И поэтому фактически на каждом курсе, что бы я ни читал – типология, введение в языкознание, общее языкознание и так далее – я советовал студентам не записывать то, что я говорю. Ну потому что мне неинтересно, если мне на экзамене или на зачете будут говорить то, что говорил я. Это именно мировосприятие, мировоззрение. Мне так легче, проще общаться со студентами, с приятелями. </p>
+</div>
+</article>
+<article class="comment-entry" id="cmt-5" style="margin-left: 1.5rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #fffbfb; border: 1px solid #e5e7eb; border-left: 4px solid #b91c1c; border-radius: 6px; font-size: 0.95rem;">
+<header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
+<strong style="color: #991b1b; font-size: 0.95rem;">g_edelstein</strong> <span style="font-size: 0.72rem; background: #fee2e2; color: #991b1b; padding: 2px 7px; border-radius: 4px; font-weight: 600; margin-left: 6px;">автор</span>
+<time style="color: #9ca3af; font-size: 0.8rem;">March 23 2026, 10:26:29 UTC</time>
+</header>
+<div class="comment-body" style="line-height: 1.6; color: #374151;">
+<p>Я Ему бесконечно доверяю во всём без исключения. Вызывает сомнение только зерно горушечное, которое почему-то меньше всех других зёрен, из которого вырастает дерево.</p>
+</div>
+</article>
+<article class="comment-entry" id="cmt-6" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
+<header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
+<strong style="color: #1e40af; font-size: 0.95rem;">n_ermak</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">March 22 2026, 11:34:41 UTC</time>
+</header>
+<div class="comment-body" style="line-height: 1.6; color: #374151;">
+<p>Удивили, отче.
+Позвольте тогда другой вопрос:
+а какие у Вас отношения с Учителем, с Иисусом Христом? Как Вы учитесь у Него?</p>
+</div>
+</article>
+<article class="comment-entry" id="cmt-7" style="margin-left: 1.5rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
+<header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
+<strong style="color: #1e40af; font-size: 0.95rem;">n_ermak</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">March 24 2026, 07:39:25 UTC</time>
+</header>
+<div class="comment-body" style="line-height: 1.6; color: #374151;">
+<p>Не уверен, что понял про зерно "горушечное". но не считаю возможным злоупотреблять Вашим вниманием, отче. Из общения с христианами, к коим я отношу и Вас, сделал вывод об удивительном разнообразии и даже уникальности каждой веры. О совершенном личном характере отношений со Христом сообразно своему характеру. Недаром у нас четыре Евангелия, как свидетельство 4х вер. Понятно, что если среди первых учеников они разные, то дальше это многообразие увеличивается многократно. 
+Признаюсь, Ваша вера мне очень импонирует, отче. В ней вижу что-то и от детской, и от веры ап. Петра и хочется попросить Вас, отче, писать, отвечать на вопросы, делиться своей верой. У Вас она есть, проверенная жизнью. Вам есть чем делиться. И неважно, о чем именно будете писать. Потому что Ваша вера во всем будет проявляться.
+Я считаю, что способных делиться своей верой людей немного. К ним отношу о. Иоанна Бурдина, о котором узнал совсем недавно, и Энгелину Борисовну Тарееву  <span  class="ljuser  i-ljuser  i-ljuser-type-P     "  data-ljuser="tareeva" lj:user="tareeva" ><a href="https://tareeva.livejournal.com/profile/"  target="_self"  class="i-ljuser-profile" ><img  class="i-ljuser-userhead"  src="https://l-stat.livejournal.net/img/userinfo_v8.svg?v=17080&v=941.1" /></a><a href="https://tareeva.livejournal.com/" class="i-ljuser-username"   target="_self"   ><b>tareeva</b></a><a class="i-ljuser-badge i-ljuser-badge--pro" data-badge-type="pro" data-placement="bottom" data-pro-badge data-pro-badge-type="1" data-is-raw hidden href="#"><span class="i-ljuser-badge__icon"><svg class="svgicon" width="25" height="16" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 33 24"><path fill-rule="evenodd" d="M19.326 11.95c0 2.01 1.47 3.45 3.48 3.45 2.02 0 3.49-1.44 3.49-3.45 0-2.01-1.47-3.45-3.49-3.45-2.01 0-3.48 1.44-3.48 3.45Zm5.51 0c0 1.24-.8 2.19-2.03 2.19-1.23 0-2.02-.95-2.02-2.19 0-1.25.79-2.19 2.02-2.19s2.03.94 2.03 2.19ZM7.92 15.28H6.5V8.61h3.12c1.45 0 2.24.98 2.24 2.15 0 1.16-.8 2.15-2.24 2.15h-1.7v2.37Zm1.51-3.62c.56 0 .98-.35.98-.9 0-.56-.42-.9-.98-.9H7.92v1.8h1.51ZM18.3802 15.28h-1.63l-1.31-2.37h-1.04v2.37h-1.42V8.61h3.12c1.39 0 2.24.91 2.24 2.15 0 1.18-.74 1.81-1.46 1.98l1.5 2.54Zm-2.49-3.62c.57 0 1-.34 1-.9s-.43-.9-1-.9h-1.49v1.8h1.49Z" clip-rule="evenodd"/><path fill-rule="evenodd" d="M2 8c0-2.20914 1.79086-4 4-4h20.5c2.2091 0 4 1.79086 4 4v7.9c0 2.2091-1.7909 4-4 4H6c-2.20914 0-4-1.7909-4-4V8Zm4-2.5h20.5C27.8807 5.5 29 6.61929 29 8v7.9c0 1.3807-1.1193 2.5-2.5 2.5H6c-1.38071 0-2.5-1.1193-2.5-2.5V8c0-1.38071 1.11929-2.5 2.5-2.5Z" clip-rule="evenodd"/></svg></span></a></span></p>
+</div>
+</article>
+<article class="comment-entry" id="cmt-8" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
+<header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
+<strong style="color: #1e40af; font-size: 0.95rem;">mikebrailowsky</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">March 22 2026, 12:22:10 UTC</time>
+</header>
+<div class="comment-body" style="line-height: 1.6; color: #374151;">
+<p>Очень люблю хорошо изданные книжки. Особенно, если их написал о. Георгий!)</p>
+</div>
+</article>
+<article class="comment-entry" id="cmt-9" style="margin-left: 1.5rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #fffbfb; border: 1px solid #e5e7eb; border-left: 4px solid #b91c1c; border-radius: 6px; font-size: 0.95rem;">
+<header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
+<strong style="color: #991b1b; font-size: 0.95rem;">g_edelstein</strong> <span style="font-size: 0.72rem; background: #fee2e2; color: #991b1b; padding: 2px 7px; border-radius: 4px; font-weight: 600; margin-left: 6px;">автор</span>
+<time style="color: #9ca3af; font-size: 0.8rem;">March 23 2026, 10:31:48 UTC</time>
+</header>
+<div class="comment-body" style="line-height: 1.6; color: #374151;">
+<p>Особенно — исключается. Книжки издал не я, а Дима Браиловский. Хорошо издать можно и такой мусор как "Майн Кампф" или "Материализм и эмпириокритицизм".</p>
+</div>
+</article>
+</div>
+</details>
+</section>
