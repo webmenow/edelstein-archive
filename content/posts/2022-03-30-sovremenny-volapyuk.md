@@ -1,5 +1,4 @@
----
-aliases:
+---aliases:
 - /19749.html
 date: '2022-03-30T10:49:00'
 id: 19749
@@ -13,10 +12,10 @@ tags:
 - Языкознание
 - Политика
 - Общество
-title: Современный волапюк
+title: "Современный волапюк"
 ---
 
-Так как я по первому образованию филолог, языковед, то у меня нестандартное отношение к слову. Я предлагаю считать слово "война" архаизмом. В XX - XXI веке войн не было, были только спецоперации: Первая мировая спецоперация, Вторая мировая спецоперация. "В результате русско-японской спецоперации Россия потеряла Южный Сахалин и Курильские острова" и т.д.
+Так как я по первому образованию филолог, языковед, то у меня нестандартное отношение к слову. Я предлагаю считать слово «война» архаизмом. В XX - XXI веке войн не было, были только спецоперации: Первая мировая спецоперация, Вторая мировая спецоперация. «В результате русско-японской спецоперации Россия потеряла Южный Сахалин и Курильские острова» и т.д.
 
 <section class="lj-comments-archive" style="margin-top: 3.5rem; border-top: 2px solid #e5e7eb; padding-top: 2rem;">
 <details style="background: #f9fafb; border: 1px solid #e5e7eb; border-radius: 8px; padding: 1.25rem 1.5rem;">
@@ -24,8 +23,8 @@ title: Современный волапюк
 <div class="comments-list" style="margin-top: 1.5rem;">
 <article class="comment-entry" id="cmt-1" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">ariannaverteca</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">March 30 2022, 09:41:37 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">ariannaverteca</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">30 марта 2022, 09:41:37</time>
 </header>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
 Михаил Шевелев пишет: 
@@ -35,8 +34,8 @@ title: Современный волапюк
 </article>
 <article class="comment-entry" id="cmt-2" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">khebeb</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">March 30 2022, 12:26:46 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">khebeb</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">30 марта 2022, 12:26:46</time>
 </header>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
 только не "потеряла", а "отрицательно приросла" — риторическая система должна быть стройной и последовательной
@@ -44,8 +43,8 @@ title: Современный волапюк
 </article>
 <article class="comment-entry" id="cmt-3" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">dmitriy_yatskin</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">March 31 2022, 09:54:04 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">dmitriy_yatskin</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">31 марта 2022, 09:54:04</time>
 </header>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
 Выше Высокопреподобие изволили допустить неточность - Курильские острова Росся не потеряла из-за спецоперации 1904-1905 годов, а вполне добровольно обменяла у Японии на южный Сахалин в 1870-х годах по С_Петербургскому договору, подписанному первым послом Японии в России. Причём это считалось выгодным для России соглашением и в Японии воспринималось как результат диктата сильной европейской державы в отношении слабой азиатской страны, едва вставшей на путь модернизации... Да, сейчас времена другие, где эта сильная европейская...

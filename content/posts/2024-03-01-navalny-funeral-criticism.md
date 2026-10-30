@@ -1,5 +1,4 @@
----
-aliases:
+---aliases:
 - /22985.html
 date: '2024-03-01T22:45:00'
 id: 22985
@@ -12,7 +11,7 @@ tags:
 - Общество
 - Религия
 - Публицистика
-title: Беснования на могиле христианина Алексея Навального
+title: "Беснования на могиле христианина Алексея Навального"
 ---
 
 <p>Шли и шли и пели «Вечную память»... Борис Пастернак ошибся: когда несут гроб на кладбище, поют не «Вечную память», а «Святый Боже». Священник бросает землю в гроб (у Пастернака) — здесь тоже ошибка. После того, как гроб опущен в могилу, он лопатой бросает землю на него. То, что происходило сегодня на Борисовском кладбище — это постыдная бесовщина. 
@@ -28,8 +27,8 @@ title: Беснования на могиле христианина Алекс�
 <div class="comments-list" style="margin-top: 1.5rem;">
 <article class="comment-entry" id="cmt-1" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">pe3o</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">March 2 2024, 05:11:36 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">pe3o</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">2 марта 2024, 05:11:36</time>
 </header>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
 Спаси Господи.

@@ -1,0 +1,98 @@
+{{ define "main" }}
+<main class="max-w-5xl mx-auto px-3.5 sm:px-6 py-6 sm:py-10 w-full">
+  
+  <div class="mb-6 sm:mb-8 border-b border-gray-200 pb-5">
+    <h1 class="font-sans text-2xl sm:text-3xl md:text-4xl font-normal tracking-tight text-gray-900 mb-2">
+      Поиск по архиву
+    </h1>
+    
+    <div class="mt-4 relative">
+      <input type="text" id="searchInput" placeholder="Введите слово или фразу для поиска..." 
+             class="w-full px-4 py-3 pl-11 bg-white border border-gray-300 rounded-xl text-base text-gray-900 placeholder-gray-400 focus:outline-hidden focus:border-emerald-500 focus:ring-2 focus:ring-emerald-200 font-sans transition-all shadow-xs">
+      <svg class="absolute left-3.5 top-3.5 w-5 h-5 text-gray-400 pointer-events-none" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+        <path stroke-linecap="round" stroke-linejoin="round" d="M21 21l-4.35-4.35m1.85-5.15a7 7 0 11-14 0 7 7 0 0114 0z"></path>
+      </svg>
+      <button id="clearBtn" class="hidden absolute right-3.5 top-3.5 text-gray-400 hover:text-gray-600 text-sm font-sans">✕ Сброс</button>
+    </div>
+  </div>
+
+  <!-- Карточки поиска (встроенные в DOM для мгновенной фильтрации 143 постов) -->
+  <div id="resultsList" class="grid grid-cols-1 md:grid-cols-2 gap-4 sm:gap-6">
+    {{ range where .Site.RegularPages "Section" "posts" }}
+      {{ $tagList := delimit .Params.tags "," }}
+      <article class="search-item group flex flex-col justify-between bg-white rounded-2xl border border-gray-200/90 p-5 sm:p-6 shadow-xs hover:border-emerald-500 hover:shadow-md transition-all"
+               data-title="{{ .Title | lower }}" 
+               data-summary="{{ with .Params.summary }}{{ . | lower }}{{ else }}{{ .Summary | lower }}{{ end }}" 
+               data-tags="{{ $tagList | lower }}"
+               data-year="{{ .Date.Format "2006" }}">
+        <a href="{{ .RelPermalink }}" class="block">
+          <div class="flex items-center justify-between text-xs sm:text-sm text-gray-500 font-sans mb-2.5">
+            <time class="font-medium">{{ .Date.Format "2 January 2006" }}</time>
+          </div>
+          <h2 class="font-sans text-lg sm:text-xl font-bold tracking-tight text-gray-900 group-hover:text-emerald-800 transition-colors mb-2 leading-snug">
+            {{ .Title }}
+          </h2>
+          <p class="text-sm sm:text-base text-gray-600 font-serif line-clamp-3 leading-relaxed">
+            {{ with .Params.summary }}{{ . }}{{ else }}{{ .Summary }}{{ end }}
+          </p>
+        </a>
+      </article>
+    {{ end }}
+  </div>
+
+  <div id="noResults" class="hidden text-center py-12 text-gray-500 font-sans text-base">
+    Ничего не найдено. Попробуйте изменить поисковый запрос.
+  </div>
+
+</main>
+
+<script>
+  const searchInput = document.getElementById('searchInput');
+  const clearBtn = document.getElementById('clearBtn');
+  const noResults = document.getElementById('noResults');
+  const items = Array.from(document.querySelectorAll('.search-item'));
+
+  function filterItems() {
+    const query = searchInput.value.toLowerCase().trim();
+    clearBtn.classList.toggle('hidden', query.length === 0);
+
+    let visibleCount = 0;
+    items.forEach(item => {
+      const title = item.dataset.title || '';
+      const summary = item.dataset.summary || '';
+      const tags = item.dataset.tags || '';
+
+      const match = !query || title.includes(query) || summary.includes(query) || tags.includes(query);
+      if (match) {
+        item.classList.remove('hidden');
+        visibleCount++;
+      } else {
+        item.classList.add('hidden');
+      }
+    });
+
+    noResults.classList.toggle('hidden', visibleCount > 0);
+  }
+
+  searchInput.addEventListener('input', filterItems);
+  clearBtn.addEventListener('click', () => {
+    searchInput.value = '';
+    filterItems();
+  });
+
+  window.addEventListener('DOMContentLoaded', () => {
+    const params = new URLSearchParams(window.location.search);
+    const tag = params.get('tag');
+    const q = params.get('q');
+    
+    if (tag) {
+      searchInput.value = tag;
+      filterItems();
+    }
+    if (q) {
+      searchInput.value = q;
+      filterItems();
+    }
+  });
+</script>
+{{ end }}

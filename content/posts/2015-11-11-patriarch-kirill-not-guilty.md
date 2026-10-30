@@ -1,5 +1,4 @@
----
-aliases:
+---aliases:
 - /15071.html
 date: '2015-11-11T22:10:00'
 id: 15071
@@ -12,7 +11,7 @@ tags:
 - Православие
 - Церковная история
 - Публицистика
-title: Святейший Патриарх Кирилл не виноват!
+title: "Святейший Патриарх Кирилл не виноват!"
 ---
 
 Угадай-ка.
@@ -35,11 +34,11 @@ title: Святейший Патриарх Кирилл не виноват!
 Однажды о. Глеб Якунин услышал слова Дм. Поспеловского о духовном суде над митрополитом Филаретом Киевским. Глеб был человеком не моего темперамента, он вцепился в пиджак профессора: «Так Денисенко Киевский по естеству всю жизнь с бабой жил, она ему детей рожала. А эти против естества, хуже всякой скотины! Филарета ни за что осудили!»
 Вечером на Казанскую, в прошлую среду, звонок за звонком: «Послушай что Патриарх Кирилл сегодня в Манеже на выставке о Сталине сказал!» Слушаю. Да ничего не сказал. Просто ещё раз засвидетельствовал, что он, Кирилл, - сергианец, советский человек. Я об этом писал в позапрошлом году. И в октябре сего года тоже писал. Заходите на <a href="http://www.karabanovo.prihod.ru" target="_blank">наш сайт</a>. Читайте <a href="http://g-edelstein.livejournal.com" target="_blank">ЖЖ</a>. Читайте «<a href="http://snob.ru/profile/29844/blog" target="_blank">Сноб</a>».
 У сергианца никогда не было, нет и не может быть своего мировоззрения. Такая роскошь ему не по карману. Его взгляды, симпатии, антипатии прежде определялись вчерашней передовицей «Правды». Потом стали определяться чьей-то речью на вчерашнем приёме в Кремле. 
-Сенсация! Патриарх Кирилл превознёс И.В. Сталина. А кто его, эффективного менеджера, сегодня в высших сферах не превозносит? Внимательно читайте Декларацию о радостях от 14 (27) июля 1927 г.: «Мы, церковные деятели, с нашим народом и с нашим правительством». Читайте Декларацию. Читайте «Новую газету» от 26 октября сего года, где, по благословению г-на Владимира Легойды расхваливается митрополит Сергий и его гнусная Декларация. Оставьте в покое Патриарха Кирилла. Митрополит Сергий превозносил Сталина выше. Патриарх Алексий I ещё выше. Митрополит Николай (Ярушевич) ещё выше. Они не сталинисты, они флюгеры такие – сергианцы называются.
+Сенсация! Патриарх Кирилл превознёс И. В. Сталина. А кто его, эффективного менеджера, сегодня в высших сферах не превозносит? Внимательно читайте Декларацию о радостях от 14 (27) июля 1927 г.: «Мы, церковные деятели, с нашим народом и с нашим правительством». Читайте Декларацию. Читайте «Новую газету» от 26 октября сего года, где, по благословению г-на Владимира Легойды расхваливается митрополит Сергий и его гнусная Декларация. Оставьте в покое Патриарха Кирилла. Митрополит Сергий превозносил Сталина выше. Патриарх Алексий I ещё выше. Митрополит Николай (Ярушевич) ещё выше. Они не сталинисты, они флюгеры такие – сергианцы называются.
 Два последующих поколения сергианцев – соратники Святейших Патриархов Пимена и Алексия II – генералиссимуса не вспоминали: «Правда» молчала и прямых указаний ни со Старой площади, ни с Лубянки не поступало в Чистый переулок.
 Не сердитесь на Патриарха Кирилла, дорогие братья и сёстры, не злословьте.
 К сим элементарным пролегоменам прилагаю статью «Право на правду» примерно на ту же тему о сергианцах.
-Считаю своим долгом засвидетельствовать, что заглавие статьи позаимствовал не у матерого антисоветчика и злобного антисергианца русского мыслителя И.А. Ильина, а у Святейшего Патриарха Кирилла. В 1989 г. в беседе с С.Б. Филатовым архиепископ Смоленский и Вяземский Кирилл (Гундяев) говорил: «Всем нам необходимо хранить чувство правды и требовать от себя и от других право на правду».
+Считаю своим долгом засвидетельствовать, что заглавие статьи позаимствовал не у матерого антисоветчика и злобного антисергианца русского мыслителя И. А. Ильина, а у Святейшего Патриарха Кирилла. В 1989 г. в беседе с С. Б. Филатовым архиепископ Смоленский и Вяземский Кирилл (Гундяев) говорил: «Всем нам необходимо хранить чувство правды и требовать от себя и от других право на правду».
 Тогда на фуршетах в Кремле были в моде именно такие сентенции.<a name="cutid1-end"></a>
 3 ноября сего года, накануне Казанской и выставки в Манеже, я отправил статью «Право на правду» в «Новую газету». Там она, думаю, и лежит.
 
@@ -53,8 +52,8 @@ title: Святейший Патриарх Кирилл не виноват!
 <div class="comments-list" style="margin-top: 1.5rem;">
 <article class="comment-entry" id="cmt-1" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">nihontokai</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">November 11 2015, 20:24:11 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">nihontokai</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">11 ноября 2015, 20:24:11</time>
 </header>
 <div style="font-weight: 600; font-size: 0.95rem; margin-bottom: 0.35rem; color: #1f2937;">Сталин</div>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
@@ -63,8 +62,8 @@ title: Святейший Патриарх Кирилл не виноват!
 </article>
 <article class="comment-entry" id="cmt-2" style="margin-left: 1.5rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">afanasii1</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">November 12 2015, 10:19:50 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">afanasii1</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">12 ноября 2015, 10:19:50</time>
 </header>
 <div style="font-weight: 600; font-size: 0.95rem; margin-bottom: 0.35rem; color: #1f2937;">Re: Сталин</div>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
@@ -73,8 +72,8 @@ title: Святейший Патриарх Кирилл не виноват!
 </article>
 <article class="comment-entry" id="cmt-3" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">deltaplann</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">November 12 2015, 13:28:04 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">deltaplann</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">12 ноября 2015, 13:28:04</time>
 </header>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
 Добрый день, отец Георгий!
@@ -91,8 +90,8 @@ title: Святейший Патриарх Кирилл не виноват!
 </article>
 <article class="comment-entry" id="cmt-4" style="margin-left: 1.5rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">afanasii1</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">November 12 2015, 10:29:49 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">afanasii1</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">12 ноября 2015, 10:29:49</time>
 </header>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
 Отче! Вы сильно ругаете патриарха Сергия. Позвольте обратить ваше внимание на этот отрывок из Писания. 
@@ -111,8 +110,8 @@ title: Святейший Патриарх Кирилл не виноват!
 </article>
 <article class="comment-entry" id="cmt-5" style="margin-left: 3.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #fffbfb; border: 1px solid #e5e7eb; border-left: 4px solid #b91c1c; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #991b1b; font-size: 0.95rem;">g_edelstein</strong> <span style="font-size: 0.72rem; background: #fee2e2; color: #991b1b; padding: 2px 7px; border-radius: 4px; font-weight: 600; margin-left: 6px;">автор</span>
-<time style="color: #9ca3af; font-size: 0.8rem;">November 13 2015, 16:24:06 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">g_edelstein</strong> <span class="font-sans-ui" style="font-family: \'Inter\', system-ui, sans-serif; font-size: 0.7rem; background: #ecfdf5; color: #065f46; border: 1px solid #a7f3d0; padding: 2px 7px; border-radius: 9999px; font-weight: 600; margin-left: 6px; letter-spacing: 0.02em;">автор</span>
+<time style="color: #9ca3af; font-size: 0.8rem;">13 ноября 2015, 16:24:06</time>
 </header>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
 Спасибо за комментарий. Буду благодарен, если Вы вспомните, когда и кому Иисус Христос говорил: "Мы с нашим народом и с нашим правительством". Буду также благодарен, если Вы вспомните, когда кто-либо из апостолов или христианских историков первых веков говорил, что ни один христианин не при ком из римских императоров не пострадал за свою веру.
@@ -121,8 +120,8 @@ title: Святейший Патриарх Кирилл не виноват!
 </article>
 <article class="comment-entry" id="cmt-6" style="margin-left: 1.5rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #fffbfb; border: 1px solid #e5e7eb; border-left: 4px solid #b91c1c; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #991b1b; font-size: 0.95rem;">g_edelstein</strong> <span style="font-size: 0.72rem; background: #fee2e2; color: #991b1b; padding: 2px 7px; border-radius: 4px; font-weight: 600; margin-left: 6px;">автор</span>
-<time style="color: #9ca3af; font-size: 0.8rem;">November 13 2015, 16:40:49 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">g_edelstein</strong> <span class="font-sans-ui" style="font-family: \'Inter\', system-ui, sans-serif; font-size: 0.7rem; background: #ecfdf5; color: #065f46; border: 1px solid #a7f3d0; padding: 2px 7px; border-radius: 9999px; font-weight: 600; margin-left: 6px; letter-spacing: 0.02em;">автор</span>
+<time style="color: #9ca3af; font-size: 0.8rem;">13 ноября 2015, 16:40:49</time>
 </header>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
 Сергианство считают признаком патриотичности и преданности потому, что митрополит Сергий был "с нашим народом и с нашим правительством". Для многих людей патриотизм сводится к любви к Сталину, для них патриот - любой, кто кричит: "За Родину, за Сталина!" Я полагаю, что патриотами были митрополит Кирилл (Казанский), митрополит Иосиф (Петроградский), священник Анатолий (Жураковский), генерал Врангель, генерал Кутепов.
@@ -131,8 +130,8 @@ title: Святейший Патриарх Кирилл не виноват!
 </article>
 <article class="comment-entry" id="cmt-7" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">nihontokai</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">November 12 2015, 20:28:26 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">nihontokai</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">12 ноября 2015, 20:28:26</time>
 </header>
 <div style="font-weight: 600; font-size: 0.95rem; margin-bottom: 0.35rem; color: #1f2937;">Re: Сталин</div>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
@@ -141,8 +140,8 @@ title: Святейший Патриарх Кирилл не виноват!
 </article>
 <article class="comment-entry" id="cmt-8" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">afanasii1</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">November 12 2015, 20:36:44 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">afanasii1</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">12 ноября 2015, 20:36:44</time>
 </header>
 <div style="font-weight: 600; font-size: 0.95rem; margin-bottom: 0.35rem; color: #1f2937;">Re: Сталин</div>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
@@ -151,8 +150,8 @@ title: Святейший Патриарх Кирилл не виноват!
 </article>
 <article class="comment-entry" id="cmt-9" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">nihontokai</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">November 12 2015, 20:46:34 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">nihontokai</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">12 ноября 2015, 20:46:34</time>
 </header>
 <div style="font-weight: 600; font-size: 0.95rem; margin-bottom: 0.35rem; color: #1f2937;">Re: Сталин</div>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
@@ -161,8 +160,8 @@ title: Святейший Патриарх Кирилл не виноват!
 </article>
 <article class="comment-entry" id="cmt-10" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #fffbfb; border: 1px solid #e5e7eb; border-left: 4px solid #b91c1c; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #991b1b; font-size: 0.95rem;">g_edelstein</strong> <span style="font-size: 0.72rem; background: #fee2e2; color: #991b1b; padding: 2px 7px; border-radius: 4px; font-weight: 600; margin-left: 6px;">автор</span>
-<time style="color: #9ca3af; font-size: 0.8rem;">November 13 2015, 16:16:52 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">g_edelstein</strong> <span class="font-sans-ui" style="font-family: \'Inter\', system-ui, sans-serif; font-size: 0.7rem; background: #ecfdf5; color: #065f46; border: 1px solid #a7f3d0; padding: 2px 7px; border-radius: 9999px; font-weight: 600; margin-left: 6px; letter-spacing: 0.02em;">автор</span>
+<time style="color: #9ca3af; font-size: 0.8rem;">13 ноября 2015, 16:16:52</time>
 </header>
 <div style="font-weight: 600; font-size: 0.95rem; margin-bottom: 0.35rem; color: #1f2937;">Re: Сталин</div>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
@@ -173,8 +172,8 @@ title: Святейший Патриарх Кирилл не виноват!
 </article>
 <article class="comment-entry" id="cmt-11" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">afanasii1</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">November 13 2015, 16:31:40 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">afanasii1</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">13 ноября 2015, 16:31:40</time>
 </header>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
 Похоже вы так ничего и не поняли из того отрывка, что я вам привёл. 
@@ -183,8 +182,8 @@ title: Святейший Патриарх Кирилл не виноват!
 </article>
 <article class="comment-entry" id="cmt-12" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">deltaplann</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">November 13 2015, 18:43:01 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">deltaplann</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">13 ноября 2015, 18:43:01</time>
 </header>
 <div style="font-weight: 600; font-size: 0.95rem; margin-bottom: 0.35rem; color: #1f2937;">Военное Православие</div>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
@@ -194,8 +193,8 @@ title: Святейший Патриарх Кирилл не виноват!
 </article>
 <article class="comment-entry" id="cmt-13" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">nihontokai</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">November 13 2015, 21:03:56 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">nihontokai</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">13 ноября 2015, 21:03:56</time>
 </header>
 <div style="font-weight: 600; font-size: 0.95rem; margin-bottom: 0.35rem; color: #1f2937;">Re: Сталин</div>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">

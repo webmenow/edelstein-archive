@@ -1,5 +1,4 @@
----
-aliases:
+---aliases:
 - /21137.html
 date: '2023-07-11T22:15:00'
 id: 21137
@@ -13,16 +12,16 @@ tags:
 - Церковь и общество
 - Свобода слова
 - Диссидентство
-title: Неважная честь, чтоб из этаких роз мои изваяния высились
+title: "Неважная честь, чтоб из этаких роз мои изваяния высились"
 ---
 
 <p>В прошлую субботу, 1 июля, я отправил в «Новую газету» комментарий к речи Дмитрия Муратова в Бонне. Этот комментарий был опубликован здесь же, в этом ЖЖ. Кто-то в редакции «Новой газеты» исказил мой текст до неузнаваемости и опубликовал то, что писал не я, а он, не сообщив мне об этой грубой подмене.</p>
-<p>1. Я писал: «Теперь самое главное. Я убежден, я верую и исповедую, что Россия существовала лишь до ноября 1917 года. Этой аксиоме меня научил И.А. Ильин. Учение о необходимости чётко различать Россию и Совдепию – краеугольный камень всего, что он говорил и писал после Октябрьского переворота. Войну в Украине ведёт не русская, а советская армия». 
+<p>1. Я писал: «Теперь самое главное. Я убежден, я верую и исповедую, что Россия существовала лишь до ноября 1917 года. Этой аксиоме меня научил И. А. Ильин. Учение о необходимости чётко различать Россию и Совдепию – краеугольный камень всего, что он говорил и писал после Октябрьского переворота. Войну в Украине ведёт не русская, а советская армия». 
 
-Итак, самое главное для меня – России с осени 1917 года нет. Там, где была Россия, от Балтийского до Каспийского моря и от Кронштадта до Владивостока, – Совдепия. Это вовсе не значит, что Россия была хорошая - это значит, что её нет. В своем «комментарии» я писал: «Коммунизм - это всегда война (реально или потенциально), тирания и наглая ложь». «Новая газета» все эти слова выбросила. Думаю, что подобное определение России ошибочно. Оно справедливо в равной мере для гитлеровской Германии и для Совдепии. Это утверждение – фундамент моего мировоззрения. Везде, где я употребил слово «Совдепия», сотрудник «Новой газеты» заменил его словом «Россия». Так думает редколлегия «Новой газеты», так думает ее главный редактор Дмитрий Муратов, так думают чиновники администрации В.В. Путина, так думают офицеры КГБ-ФСБ, но я так не думаю.</p>
+Итак, самое главное для меня – России с осени 1917 года нет. Там, где была Россия, от Балтийского до Каспийского моря и от Кронштадта до Владивостока, – Совдепия. Это вовсе не значит, что Россия была хорошая - это значит, что её нет. В своем «комментарии» я писал: «Коммунизм - это всегда война (реально или потенциально), тирания и наглая ложь». «Новая газета» все эти слова выбросила. Думаю, что подобное определение России ошибочно. Оно справедливо в равной мере для гитлеровской Германии и для Совдепии. Это утверждение – фундамент моего мировоззрения. Везде, где я употребил слово «Совдепия», сотрудник «Новой газеты» заменил его словом «Россия». Так думает редколлегия «Новой газеты», так думает ее главный редактор Дмитрий Муратов, так думают чиновники администрации В. В. Путина, так думают офицеры КГБ-ФСБ, но я так не думаю.</p>
 <a name="cutid1"></a>
-<p>2. Я писал, что творцы советского ядерного оружия – Л. Берия, И. Курчатов, Ю. Харитон , А. Сахаров – изверги рода человеческого. Редколлегии «Новой газеты", полагаю, это не по вкусу. Не только для них, для всех наших либеральных мыслителей А.Д. Сахаров – священная корова. В текстах, опубликованных и в официозной, и в неподцензурной печати в этом году, легко найти сотню панегириков этому, по моему глубокому убеждению, именно извергу рода человеческого. Значительную часть своей Нобелевской лекции Дмитрий Муратов посвятил прославлению А.Д. Сахарова. Нежно любит его и В.В. Путин. Это их миропонимание. Я с ними не спорю, но почему редколлегия «Новой газеты» не позволяет мне излагать иную точку зрения? Повторю то, что писал в комментарии к речи Д. Муратова: «Если говорить правду, то во весь голос». «Новая газета» не дозволяет противоречить им даже шёпотом.</p>
-<p>3. Несколько раз я писал: «Главари коммунистического режима». Это выражение я позаимствовал у И.А. Ильина. «Новая газета» почему-то заменила мои  слова какими-то своими, искажающими мое отношение к коммунистическому государству.</p>
+<p>2. Я писал, что творцы советского ядерного оружия – Л. Берия, И. Курчатов, Ю. Харитон , А. Сахаров – изверги рода человеческого. Редколлегии «Новой газеты", полагаю, это не по вкусу. Не только для них, для всех наших либеральных мыслителей А. Д. Сахаров – священная корова. В текстах, опубликованных и в официозной, и в неподцензурной печати в этом году, легко найти сотню панегириков этому, по моему глубокому убеждению, именно извергу рода человеческого. Значительную часть своей Нобелевской лекции Дмитрий Муратов посвятил прославлению А. Д. Сахарова. Нежно любит его и В. В. Путин. Это их миропонимание. Я с ними не спорю, но почему редколлегия «Новой газеты» не позволяет мне излагать иную точку зрения? Повторю то, что писал в комментарии к речи Д. Муратова: «Если говорить правду, то во весь голос». «Новая газета» не дозволяет противоречить им даже шёпотом.</p>
+<p>3. Несколько раз я писал: «Главари коммунистического режима». Это выражение я позаимствовал у И. А. Ильина. «Новая газета» почему-то заменила мои  слова какими-то своими, искажающими мое отношение к коммунистическому государству.</p>
 <p>4. Я просил редколлегию «Новой газеты» снять эту публикацию, которая якобы написана мною. Всё, что напечатано в газете, – не мое. Постараюсь в дальнейшем ни в какой форме не сотрудничать с «Новой газетой». Материал, который там опубликован под моим именем, я называю розовыми соплями.</p>
 <p>Священник Георгий Эдельштейн.</p>
 <a name="cutid1-end"></a>
@@ -33,8 +32,8 @@ title: Неважная честь, чтоб из этаких роз мои и�
 <div class="comments-list" style="margin-top: 1.5rem;">
 <article class="comment-entry" id="cmt-1" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">kuschilop</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">July 12 2023, 10:18:58 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">kuschilop</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">12 июля 2023, 10:18:58</time>
 </header>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
 <p>Уважаемый о. Георгий,</p>
@@ -46,8 +45,8 @@ title: Неважная честь, чтоб из этаких роз мои и�
 </article>
 <article class="comment-entry" id="cmt-2" style="margin-left: 1.5rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #fffbfb; border: 1px solid #e5e7eb; border-left: 4px solid #b91c1c; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #991b1b; font-size: 0.95rem;">g_edelstein</strong> <span style="font-size: 0.72rem; background: #fee2e2; color: #991b1b; padding: 2px 7px; border-radius: 4px; font-weight: 600; margin-left: 6px;">автор</span>
-<time style="color: #9ca3af; font-size: 0.8rem;">October 9 2023, 13:42:17 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">g_edelstein</strong> <span class="font-sans-ui" style="font-family: \'Inter\', system-ui, sans-serif; font-size: 0.7rem; background: #ecfdf5; color: #065f46; border: 1px solid #a7f3d0; padding: 2px 7px; border-radius: 9999px; font-weight: 600; margin-left: 6px; letter-spacing: 0.02em;">автор</span>
+<time style="color: #9ca3af; font-size: 0.8rem;">9 октября 2023, 13:42:17</time>
 </header>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
 <p>Дорогой собрат! Последние 50 лет я живу в Костромской области. Меня волнует, в первую очередь, то, что происходит на территории государства, частью которого является моя область. В Ипатьевском монастыре, откуда были званы на царство Романовы, в прошлом 2022 году отпевали офицеров, погибших в Украине. Не знаю, могу ли я молиться об их упокоении. Государственный строй Украины, будущее Украины меня не интересует. Я не политолог. Меня не волнует будущее Уганды или Великого герцогства Люксембург. Дискутировать о проблемах, о которых Вы пишете, я не могу. Многие люди во всех городах Совдепии будут рады согласиться с Вами или поспорить с Вами. Обратитесь, пожалуйста, к ним с этим письмом. С уважением, священник Георгий Эдельшейн.</p>
@@ -55,8 +54,8 @@ title: Неважная честь, чтоб из этаких роз мои и�
 </article>
 <article class="comment-entry" id="cmt-3" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">buzz2020</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">July 12 2023, 21:34:00 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">buzz2020</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">12 июля 2023, 21:34:00</time>
 </header>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
 Отец Георгий, если можно, напишите, пожалуйста, пост, что Вы думаете про ситуацию с рублевской "Троицей".
@@ -64,8 +63,8 @@ title: Неважная честь, чтоб из этаких роз мои и�
 </article>
 <article class="comment-entry" id="cmt-4" style="margin-left: 1.5rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">oarer</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">July 12 2023, 21:17:25 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">oarer</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">12 июля 2023, 21:17:25</time>
 </header>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
 "Я убежден, я верую и исповедую, что Россия существовала лишь до ноября 1917 года"
@@ -74,8 +73,8 @@ title: Неважная честь, чтоб из этаких роз мои и�
 </article>
 <article class="comment-entry" id="cmt-5" style="margin-left: 3.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #fffbfb; border: 1px solid #e5e7eb; border-left: 4px solid #b91c1c; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #991b1b; font-size: 0.95rem;">g_edelstein</strong> <span style="font-size: 0.72rem; background: #fee2e2; color: #991b1b; padding: 2px 7px; border-radius: 4px; font-weight: 600; margin-left: 6px;">автор</span>
-<time style="color: #9ca3af; font-size: 0.8rem;">October 9 2023, 13:41:57 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">g_edelstein</strong> <span class="font-sans-ui" style="font-family: \'Inter\', system-ui, sans-serif; font-size: 0.7rem; background: #ecfdf5; color: #065f46; border: 1px solid #a7f3d0; padding: 2px 7px; border-radius: 9999px; font-weight: 600; margin-left: 6px; letter-spacing: 0.02em;">автор</span>
+<time style="color: #9ca3af; font-size: 0.8rem;">9 октября 2023, 13:41:57</time>
 </header>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
 <p>Спасибо за комплимент. Но и на территории Совдепии оставались не только Владимир Ульянов (Ленин), Надежда Крупская, Лев Троцкий, Феликс Дзержинский и Глеб Бокий. Остался и священномученик Кирилл (Смирнов), и соловецкие исповедники, и Борис Владимирович Талантов, и тысячи других праведников. Без праведников наша земля за последнюю тысячу лет никогда не стояла и не стоит. Впрочем, и в гитлеровской Германии были свои праведники. Простите, что повторяю азбучные истины. С уважением, священник Георгий Эдельштейн.</p>
@@ -83,8 +82,8 @@ title: Неважная честь, чтоб из этаких роз мои и�
 </article>
 <article class="comment-entry" id="cmt-6" style="margin-left: 1.5rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #fffbfb; border: 1px solid #e5e7eb; border-left: 4px solid #b91c1c; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #991b1b; font-size: 0.95rem;">g_edelstein</strong> <span style="font-size: 0.72rem; background: #fee2e2; color: #991b1b; padding: 2px 7px; border-radius: 4px; font-weight: 600; margin-left: 6px;">автор</span>
-<time style="color: #9ca3af; font-size: 0.8rem;">October 9 2023, 13:46:45 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">g_edelstein</strong> <span class="font-sans-ui" style="font-family: \'Inter\', system-ui, sans-serif; font-size: 0.7rem; background: #ecfdf5; color: #065f46; border: 1px solid #a7f3d0; padding: 2px 7px; border-radius: 9999px; font-weight: 600; margin-left: 6px; letter-spacing: 0.02em;">автор</span>
+<time style="color: #9ca3af; font-size: 0.8rem;">9 октября 2023, 13:46:45</time>
 </header>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
 <p>Я не искусствовед, для меня каждая икона — икона. Она была написана для того, чтобы люди молились, взирая на неё. Естественно, любой искусствовед будет совершенно прав, если не согласиться со мною. Полемизировать с искусствоведами я никогда не буду.</p>

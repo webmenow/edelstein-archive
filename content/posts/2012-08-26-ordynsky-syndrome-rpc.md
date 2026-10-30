@@ -1,5 +1,4 @@
----
-aliases:
+---aliases:
 - /6833.html
 date: '2012-08-26T17:25:00'
 id: 6833
@@ -13,14 +12,14 @@ tags:
 - Публицистика
 - Религия
 - Общество
-title: На статью «Ордынский синдром РПЦ» в «Новой газете»
+title: "На статью «Ордынский синдром РПЦ» в «Новой газете»"
 ---
 
 <a href="http://www.novayagazeta.ru/society/53969.html" target="_blank">http://www.novayagazeta.ru/society/53969.html</a>
 
-<span style="font-size: 19px; line-height: 19px; text-align: justify; text-indent: 48px; ">Ответственность Церкви или кого-либо из Московских митрополитов за возникновение опричнины и за сатанинские подвиги тех кромешников – это уже вовсе область патологии: «РПЦ как орудие всемирной закулисы». </span>
+Ответственность Церкви или кого-либо из Московских митрополитов за возникновение опричнины и за сатанинские подвиги тех кромешников – это уже вовсе область патологии: «РПЦ как орудие всемирной закулисы». 
 <a name="cutid1"></a>
-<p style="text-align:justify;text-indent:36.0pt;line-height:150%;"></p><p style="text-indent: 36pt; line-height: 150%; "><span style="font-size:14.0pt;">Я не очень внимательно слежу за всемирной дискуссией по проблеме февральского перфоманса в храме Христа Спасителя. В моей шкале ценностей это всё тот же безумный-безумный-безумный мир, который отцеживает комара и поглощает верблюда. Российские, норвежские, израильские, американские, ирландские дамочки, приятные во всех отношениях, заполонили газеты и журналы и на все лады щебечут: «Пестро или не пестро?» Какой-то дамочке в Екатеринбурге нанесён моральный ущерб в размере трёх моих ежемесячных пенсий: трёхминутное кривляние на солее повредило её религиозное чувство. Высказались Первые Лица Государства, в подобающем ключе высказался серый кардинал Московской Патриархии архимандрит Тихон (Шевкунов), надеющийся в недалёком будущем примерить куколь Святейшего Патриарха Московского и всея Руси.</span></p><p style="text-indent: 36pt; line-height: 150%; "><span style="font-size:14.0pt;">Полемизировать не о чем, любому здравомыслящему человеку ясно, что кривляться в православном храме, в синагоге, в мечети или в пагоде равно недопустимо, это всегда – неуважение ко всем инакомыслящим, кто бы там ни кривляется.</span></p><p style="text-indent: 36pt; line-height: 150%; "><span style="font-size:14.0pt;">Я без малейшего уважения отношусь к десятками советских коммунистических реликвий и символов, окружающих сегодня нас, но мне никогда не придёт в голову мысль пакостить стены Мавзолея, гадить у могил Сталина, Свердлова, Дзержинского или гасить «вечный огонь» содержимым ночного горшка.</span></p><p style="text-indent: 36pt; line-height: 150%; "><span style="font-size:14.0pt;">В годы хрущёвского антирелигиозного шабаша во время пасхального богослужения комсомольцы-добровольцы внесли как-то в храм голую девицу и попытались положить её на Престол. У стен наших церквей в пасхальную ночь ревели мотоциклы, гармонисты и баянисты распевали похабные частушки, визжали непотребные девки, но ни в Америке, ни в Швеции это никого не волновало. Всё прогрессивное человечество рука об руку с нашими чекистами в рясах боролось за мир да против нейтронной бомбы. А самые бесстыжие из бесстыжих – Пимен, Никодим, Питирим и другие духовные отцы и наставники нынешних высших иерархов  Московской Патриархии – несли по всему миру агитпроповскую ложь о дивной свободе совести в стране победившего социализма, о нерушимом единстве советского народа, верующих и неверующих, об общих целях и задачах христианства и коммунизма.</span></p><p style="text-indent: 36pt; line-height: 150%; "><span style="font-size:14.0pt;">Кривляние на солее и всемирная шумиха о нём выгодны только нашим высшим иерархам: они заставляют всех нас сплотиться против общего врага, стать в ряды Православных Хоругвеносцев, каких-то ряженых, именуемых «казаками», дамочек, требующих у басманного правосудия возмещения морального ущерба.</span></p><p style="text-indent: 36pt; line-height: 150%; "><span style="font-size:14.0pt;">Шумиха отодвинула далеко в тень подлинные жестокие недуги Московской Патриархии, накопившиеся в теле Церкви за десятилетия нашего братского сотрудничества с коммунистическим режимом. Мы и сегодня, через 85 лет, непоколебимо верны сергианской формуле «мы с нашим народом и с нашим правительством».</span></p><p style="text-indent: 36pt; line-height: 150%; "><span style="font-size:14.0pt;">Несколько лет назад «Новая Газета» напечатала бессмысленнейший панегирик покойному Патриарху Алексию </span><span style="font-size:14.0pt;">II</span><span style="font-size:14.0pt;">. Такие опусы наши патриархийные холуи стряпают для юбилейных альбомов. В просторечье они именуются «буёвиной». </span></p><p style="text-indent: 36pt; line-height: 150%; "><span style="font-size:14.0pt;">Общеизвестно, что Алексий </span><span style="font-size:14.0pt;">II</span><span style="font-size:14.0pt;"> – заурядный  сексот, ему бы до конца дней служить священником Эстонской ССР в г. Йыхви, да сумел выслужиться у тамошних «конторщиков». Они продвинули его во епископы. Завербован в феврале 1958 г. Безупречно и плодотворно сотрудничал более 30 лет. В 1988 г. награждён специальной грамотой за подписью шефа КГБ В.Крючкова. Все году регулярно ездил на «конфиденциальные беседы» к полковнику КГЮ Плеханову и Фурову стучать на своих собратьев, честно, профессионально докладывая, «из какой тумбочки» получена информация.</span></p><p style="text-indent: 36pt; line-height: 150%; "><span style="font-size:14.0pt;">Это статья для газеты, где редактор – А.Проханов, а читатель – В.Шандыбин.</span></p><p style="text-indent: 36pt; line-height: 150%; "><span style="font-size:14.0pt;">Теперь «Новая Газета» напечатала ещё более нелепую и бессмысленную статью Александра Янова «Ордынский синдром РПЦ».</span></p><p style="text-indent: 36pt; line-height: 150%; "><span style="font-size:14.0pt;">Несомненно, коллаборационизм – одна из наших серьёзнейших болезней, этим недугом веками страдало не только российской православие, достаточно вспомнить историю Англии или Германии. Но не забудем, что не на Руси, и не в Золотой Орде был сформулирован закон «Cuius regio, eius religio».</span></p><p style="text-indent: 36pt; line-height: 150%; "><span style="font-size:14.0pt;">Но на Руси в </span><span style="font-size:14.0pt;">XIII</span><span style="font-size:14.0pt;"> веке и не в Золотой Орде был сформулирован закон: «Бога бойтесь, царя чтите». Церковь учит нас: «Несть власть аще не от Бога». Власть, но не властитель. Не Бог повинен в том, что властвовали на Земле Ирод, Нерон, Иван </span><span style="font-size:14.0pt;">IV</span><span style="font-size:14.0pt;">, Пётр </span><span style="font-size:14.0pt;">I</span><span style="font-size:14.0pt;">, Ленин, Гитлер, Сталин, Пол Пот или Мао.</span></p><p style="text-indent: 36pt; line-height: 150%; "><span style="font-size:14.0pt;">Не на Руси и не Батыю или Тамерлану были сказаны известные слова: «Да будет благословен приход твой, бич Бога, Которому я служу. И не мне останавливать тебя». Это слова святого архиепископа, обращённые к Аттиле за 1000 лет до татарского нашествия. Примерно так же оценивали нападения поганых на Русь и наши летописцы. Примерно так же оценивали большевистский переворот соловецкие епископы-исповедники. </span></p><p style="text-indent: 36pt; line-height: 150%; "><span style="font-size:14.0pt;">Иосиф Волоцкий причислен к лику святых. Но ведь и Нил Сорский, и Максим Грек к лику святых причислены. Труды Иосифа Волоцкого – не Священное Писание и не согласное мнение Отцов, но лишь частное богословское мнение. Когда я учился в Московской духовной семинарии, я писал курсовое сочинение о Ниле Сорском, где довольно жёстко критиковал взгляды Иосифа. Преподаватель, известный современный историк Церкви, поставил мне «отлично».</span></p><p style="text-indent: 36pt; line-height: 150%; "><span style="font-size:14.0pt;">Ответственность Церкви или кого-либо из Московских митрополитов за возникновение опричнины и за сатанинские подвиги тех кромешников – это уже вовсе область патологии: «РПЦ как орудие всемирной закулисы». Кстати, не митрополит Макарий и не митрополит Филипп рекомендовали Ивану </span><span style="font-size: 19px; ">I</span><span style="line-height: 150%; text-indent: 36pt; font-size: 14pt; ">V</span><span style="line-height: 150%; text-indent: 36pt; font-size: 14pt; "> уподобиться агарянскому султану.</span></p><p style="text-indent: 36pt; line-height: 150%; "><span style="font-size:14.0pt;">Ссылки автора «Ордынского синдрома» на Карамзина совершенно неуместны: Н.Карамзин никаких «ордынских иерархов» никогда не знал и Церковь в них не обвинял. Он справедливо приравнивал правление Ивана </span><span style="font-size: 19px; ">I</span><span style="line-height: 150%; text-indent: 36pt; font-size: 14pt; ">V</span><span style="line-height: 150%; text-indent: 36pt; font-size: 14pt; "> к татарскому игу, но при чём тут Церковь?</span></p><p style="text-indent: 36pt; line-height: 150%; "><span style="font-size:14.0pt;">С такой же долей справедливости и исторической правды можно обвинить Церковь за все мерзости ленинского или сталинского режима. Все инквизиторы всегда знали, что Бог совершил недопустимую ошибку, когда даровал человеку (в том числе Ивану </span><span style="font-size: 19px; ">I</span><span style="line-height: 150%; text-indent: 36pt; font-size: 14pt; ">V</span><span style="line-height: 150%; text-indent: 36pt; font-size: 14pt; ">, Ленину, Гитлеру) свободу воли.</span></p><p style="text-indent: 36pt; line-height: 150%; "><span style="font-size:14.0pt;">Статья А.Янова «Ордынский синдром» (если выбросить заключительный реверанс в сторону неведомого миру «доордынского православия») по всем параметрам вполне годится для первых номеров «Безбожника у станка». Жаль, опоздал автор на 90 лет.</span></p><p style="text-indent: 36pt; line-height: 150%; "><span style="font-size:14.0pt;">Дорогие братья и сёстры! Дорогие редакторы газет и журналов! К вам обращаюсь я, друзья мои! Не давайте государственникам, православным хоругвеносцам, ряженым, царебожникам, требующим канонизации Ивана </span><span style="font-size: 19px; ">I</span><span style="line-height: 150%; text-indent: 36pt; font-size: 14pt; ">V</span><span style="line-height: 150%; text-indent: 36pt; font-size: 14pt; ">, Распутина, Сталина, Жукова, повод вновь и вновь повторять ленинскую формулу: «Интеллигенция – это не мозг нации, а…»</span></p>
+<p></p><p>Я не очень внимательно слежу за всемирной дискуссией по проблеме февральского перфоманса в храме Христа Спасителя. В моей шкале ценностей это всё тот же безумный-безумный-безумный мир, который отцеживает комара и поглощает верблюда. Российские, норвежские, израильские, американские, ирландские дамочки, приятные во всех отношениях, заполонили газеты и журналы и на все лады щебечут: «Пестро или не пестро?» Какой-то дамочке в Екатеринбурге нанесён моральный ущерб в размере трёх моих ежемесячных пенсий: трёхминутное кривляние на солее повредило её религиозное чувство. Высказались Первые Лица Государства, в подобающем ключе высказался серый кардинал Московской Патриархии архимандрит Тихон (Шевкунов), надеющийся в недалёком будущем примерить куколь Святейшего Патриарха Московского и всея Руси.</p><p>Полемизировать не о чем, любому здравомыслящему человеку ясно, что кривляться в православном храме, в синагоге, в мечети или в пагоде равно недопустимо, это всегда – неуважение ко всем инакомыслящим, кто бы там ни кривляется.</p><p>Я без малейшего уважения отношусь к десятками советских коммунистических реликвий и символов, окружающих сегодня нас, но мне никогда не придёт в голову мысль пакостить стены Мавзолея, гадить у могил Сталина, Свердлова, Дзержинского или гасить «вечный огонь» содержимым ночного горшка.</p><p>В годы хрущёвского антирелигиозного шабаша во время пасхального богослужения комсомольцы-добровольцы внесли как-то в храм голую девицу и попытались положить её на Престол. У стен наших церквей в пасхальную ночь ревели мотоциклы, гармонисты и баянисты распевали похабные частушки, визжали непотребные девки, но ни в Америке, ни в Швеции это никого не волновало. Всё прогрессивное человечество рука об руку с нашими чекистами в рясах боролось за мир да против нейтронной бомбы. А самые бесстыжие из бесстыжих – Пимен, Никодим, Питирим и другие духовные отцы и наставники нынешних высших иерархов  Московской Патриархии – несли по всему миру агитпроповскую ложь о дивной свободе совести в стране победившего социализма, о нерушимом единстве советского народа, верующих и неверующих, об общих целях и задачах христианства и коммунизма.</p><p>Кривляние на солее и всемирная шумиха о нём выгодны только нашим высшим иерархам: они заставляют всех нас сплотиться против общего врага, стать в ряды Православных Хоругвеносцев, каких-то ряженых, именуемых «казаками», дамочек, требующих у басманного правосудия возмещения морального ущерба.</p><p>Шумиха отодвинула далеко в тень подлинные жестокие недуги Московской Патриархии, накопившиеся в теле Церкви за десятилетия нашего братского сотрудничества с коммунистическим режимом. Мы и сегодня, через 85 лет, непоколебимо верны сергианской формуле «мы с нашим народом и с нашим правительством».</p><p>Несколько лет назад «Новая Газета» напечатала бессмысленнейший панегирик покойному Патриарху Алексию II. Такие опусы наши патриархийные холуи стряпают для юбилейных альбомов. В просторечье они именуются «буёвиной». </p><p>Общеизвестно, что Алексий II – заурядный  сексот, ему бы до конца дней служить священником Эстонской ССР в г. Йыхви, да сумел выслужиться у тамошних «конторщиков». Они продвинули его во епископы. Завербован в феврале 1958 г. Безупречно и плодотворно сотрудничал более 30 лет. В 1988 г. награждён специальной грамотой за подписью шефа КГБ В. Крючкова. Все году регулярно ездил на «конфиденциальные беседы» к полковнику КГЮ Плеханову и Фурову стучать на своих собратьев, честно, профессионально докладывая, «из какой тумбочки» получена информация.</p><p>Это статья для газеты, где редактор – А. Проханов, а читатель – В. Шандыбин.</p><p>Теперь «Новая Газета» напечатала ещё более нелепую и бессмысленную статью Александра Янова «Ордынский синдром РПЦ».</p><p>Несомненно, коллаборационизм – одна из наших серьёзнейших болезней, этим недугом веками страдало не только российской православие, достаточно вспомнить историю Англии или Германии. Но не забудем, что не на Руси, и не в Золотой Орде был сформулирован закон «Cuius regio, eius religio».</p><p>Но на Руси в XIII веке и не в Золотой Орде был сформулирован закон: «Бога бойтесь, царя чтите». Церковь учит нас: «Несть власть аще не от Бога». Власть, но не властитель. Не Бог повинен в том, что властвовали на Земле Ирод, Нерон, Иван IV, Пётр I, Ленин, Гитлер, Сталин, Пол Пот или Мао.</p><p>Не на Руси и не Батыю или Тамерлану были сказаны известные слова: «Да будет благословен приход твой, бич Бога, Которому я служу. И не мне останавливать тебя». Это слова святого архиепископа, обращённые к Аттиле за 1000 лет до татарского нашествия. Примерно так же оценивали нападения поганых на Русь и наши летописцы. Примерно так же оценивали большевистский переворот соловецкие епископы-исповедники. </p><p>Иосиф Волоцкий причислен к лику святых. Но ведь и Нил Сорский, и Максим Грек к лику святых причислены. Труды Иосифа Волоцкого – не Священное Писание и не согласное мнение Отцов, но лишь частное богословское мнение. Когда я учился в Московской духовной семинарии, я писал курсовое сочинение о Ниле Сорском, где довольно жёстко критиковал взгляды Иосифа. Преподаватель, известный современный историк Церкви, поставил мне «отлично».</p><p>Ответственность Церкви или кого-либо из Московских митрополитов за возникновение опричнины и за сатанинские подвиги тех кромешников – это уже вовсе область патологии: «РПЦ как орудие всемирной закулисы». Кстати, не митрополит Макарий и не митрополит Филипп рекомендовали Ивану IV уподобиться агарянскому султану.</p><p>Ссылки автора «Ордынского синдрома» на Карамзина совершенно неуместны: Н. Карамзин никаких «ордынских иерархов» никогда не знал и Церковь в них не обвинял. Он справедливо приравнивал правление Ивана IV к татарскому игу, но при чём тут Церковь?</p><p>С такой же долей справедливости и исторической правды можно обвинить Церковь за все мерзости ленинского или сталинского режима. Все инквизиторы всегда знали, что Бог совершил недопустимую ошибку, когда даровал человеку (в том числе Ивану IV, Ленину, Гитлеру) свободу воли.</p><p>Статья А. Янова «Ордынский синдром» (если выбросить заключительный реверанс в сторону неведомого миру «доордынского православия») по всем параметрам вполне годится для первых номеров «Безбожника у станка». Жаль, опоздал автор на 90 лет.</p><p>Дорогие братья и сёстры! Дорогие редакторы газет и журналов! К вам обращаюсь я, друзья мои! Не давайте государственникам, православным хоругвеносцам, ряженым, царебожникам, требующим канонизации Ивана IV, Распутина, Сталина, Жукова, повод вновь и вновь повторять ленинскую формулу: «Интеллигенция – это не мозг нации, а…»</p>
 <a name="cutid1-end"></a>
 
 <section class="lj-comments-archive" style="margin-top: 3.5rem; border-top: 2px solid #e5e7eb; padding-top: 2rem;">
@@ -29,8 +28,8 @@ title: На статью «Ордынский синдром РПЦ» в «Но�
 <div class="comments-list" style="margin-top: 1.5rem;">
 <article class="comment-entry" id="cmt-1" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">feofan_feofanov</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">August 26 2012, 14:11:02 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">feofan_feofanov</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">26 августа 2012, 14:11:02</time>
 </header>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
 Увы... Либо эта фраза Ленина верна, либо это не интеллигенция.
@@ -38,8 +37,8 @@ title: На статью «Ордынский синдром РПЦ» в «Но�
 </article>
 <article class="comment-entry" id="cmt-2" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">pretre_philippe</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">August 26 2012, 18:50:07 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">pretre_philippe</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">26 августа 2012, 18:50:07</time>
 </header>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
 Спасибо, отче!
@@ -50,8 +49,8 @@ title: На статью «Ордынский синдром РПЦ» в «Но�
 </article>
 <article class="comment-entry" id="cmt-3" style="margin-left: 1.5rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #fffbfb; border: 1px solid #e5e7eb; border-left: 4px solid #b91c1c; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #991b1b; font-size: 0.95rem;">g_edelstein</strong> <span style="font-size: 0.72rem; background: #fee2e2; color: #991b1b; padding: 2px 7px; border-radius: 4px; font-weight: 600; margin-left: 6px;">автор</span>
-<time style="color: #9ca3af; font-size: 0.8rem;">August 29 2012, 17:35:44 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">g_edelstein</strong> <span class="font-sans-ui" style="font-family: \'Inter\', system-ui, sans-serif; font-size: 0.7rem; background: #ecfdf5; color: #065f46; border: 1px solid #a7f3d0; padding: 2px 7px; border-radius: 9999px; font-weight: 600; margin-left: 6px; letter-spacing: 0.02em;">автор</span>
+<time style="color: #9ca3af; font-size: 0.8rem;">29 августа 2012, 17:35:44</time>
 </header>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
 Дорогой собрат, и тебе спасибо!
@@ -61,8 +60,8 @@ title: На статью «Ордынский синдром РПЦ» в «Но�
 </article>
 <article class="comment-entry" id="cmt-4" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">pretre_philippe</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">August 26 2012, 19:02:34 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">pretre_philippe</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">26 августа 2012, 19:02:34</time>
 </header>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
 И так называемая "сергианская формула" корнями своими уходит в глубину русской истории и вообще в византийскую модель так называемой "симфонии", в этом Янов, к сожалению, прав.
@@ -70,8 +69,8 @@ title: На статью «Ордынский синдром РПЦ» в «Но�
 </article>
 <article class="comment-entry" id="cmt-5" style="margin-left: 1.5rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #fffbfb; border: 1px solid #e5e7eb; border-left: 4px solid #b91c1c; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #991b1b; font-size: 0.95rem;">g_edelstein</strong> <span style="font-size: 0.72rem; background: #fee2e2; color: #991b1b; padding: 2px 7px; border-radius: 4px; font-weight: 600; margin-left: 6px;">автор</span>
-<time style="color: #9ca3af; font-size: 0.8rem;">August 29 2012, 17:38:40 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">g_edelstein</strong> <span class="font-sans-ui" style="font-family: \'Inter\', system-ui, sans-serif; font-size: 0.7rem; background: #ecfdf5; color: #065f46; border: 1px solid #a7f3d0; padding: 2px 7px; border-radius: 9999px; font-weight: 600; margin-left: 6px; letter-spacing: 0.02em;">автор</span>
+<time style="color: #9ca3af; font-size: 0.8rem;">29 августа 2012, 17:38:40</time>
 </header>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
 Дорогой собрат!
@@ -81,8 +80,8 @@ title: На статью «Ордынский синдром РПЦ» в «Но�
 </article>
 <article class="comment-entry" id="cmt-6" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">vlnyj_obschnnk</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">August 26 2012, 19:09:08 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">vlnyj_obschnnk</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">26 августа 2012, 19:09:08</time>
 </header>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
 Простите моё невежество, но всё-таки хотелось бы узнать: а кто это такой - Иван Шестой, про которого тут написано?
@@ -90,8 +89,8 @@ title: На статью «Ордынский синдром РПЦ» в «Но�
 </article>
 <article class="comment-entry" id="cmt-7" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">myzgin</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">August 26 2012, 19:41:55 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">myzgin</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">26 августа 2012, 19:41:55</time>
 </header>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
 Иван IV Грозный, здесь просто опечатка.
@@ -99,8 +98,8 @@ title: На статью «Ордынский синдром РПЦ» в «Но�
 </article>
 <article class="comment-entry" id="cmt-8" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">vlnyj_obschnnk</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">August 26 2012, 20:04:29 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">vlnyj_obschnnk</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">26 августа 2012, 20:04:29</time>
 </header>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
 Это Вы так думаете?
@@ -109,8 +108,8 @@ title: На статью «Ордынский синдром РПЦ» в «Но�
 </article>
 <article class="comment-entry" id="cmt-9" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #fffbfb; border: 1px solid #e5e7eb; border-left: 4px solid #b91c1c; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #991b1b; font-size: 0.95rem;">g_edelstein</strong> <span style="font-size: 0.72rem; background: #fee2e2; color: #991b1b; padding: 2px 7px; border-radius: 4px; font-weight: 600; margin-left: 6px;">автор</span>
-<time style="color: #9ca3af; font-size: 0.8rem;">August 27 2012, 05:46:44 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">g_edelstein</strong> <span class="font-sans-ui" style="font-family: \'Inter\', system-ui, sans-serif; font-size: 0.7rem; background: #ecfdf5; color: #065f46; border: 1px solid #a7f3d0; padding: 2px 7px; border-radius: 9999px; font-weight: 600; margin-left: 6px; letter-spacing: 0.02em;">автор</span>
+<time style="color: #9ca3af; font-size: 0.8rem;">27 августа 2012, 05:46:44</time>
 </header>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
 Спасибо за замеченную опечатку. Техническому исполнителю вынесено предупреждение :)
@@ -118,8 +117,8 @@ title: На статью «Ордынский синдром РПЦ» в «Но�
 </article>
 <article class="comment-entry" id="cmt-10" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">vlnyj_obschnnk</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">August 27 2012, 16:16:55 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">vlnyj_obschnnk</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">27 августа 2012, 16:16:55</time>
 </header>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
 Ннууу вооот... А я-то подумал - какой-то новый персонаж в нашей истории, а я и не знаю... ;)
@@ -127,8 +126,8 @@ title: На статью «Ордынский синдром РПЦ» в «Но�
 </article>
 <article class="comment-entry" id="cmt-11" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">pvn123</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">August 27 2012, 19:32:54 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">pvn123</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">27 августа 2012, 19:32:54</time>
 </header>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
 Как-то я читаю и удивляюсь.
@@ -145,8 +144,8 @@ title: На статью «Ордынский синдром РПЦ» в «Но�
 </article>
 <article class="comment-entry" id="cmt-12" style="margin-left: 1.5rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #fffbfb; border: 1px solid #e5e7eb; border-left: 4px solid #b91c1c; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #991b1b; font-size: 0.95rem;">g_edelstein</strong> <span style="font-size: 0.72rem; background: #fee2e2; color: #991b1b; padding: 2px 7px; border-radius: 4px; font-weight: 600; margin-left: 6px;">автор</span>
-<time style="color: #9ca3af; font-size: 0.8rem;">August 29 2012, 17:41:44 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">g_edelstein</strong> <span class="font-sans-ui" style="font-family: \'Inter\', system-ui, sans-serif; font-size: 0.7rem; background: #ecfdf5; color: #065f46; border: 1px solid #a7f3d0; padding: 2px 7px; border-radius: 9999px; font-weight: 600; margin-left: 6px; letter-spacing: 0.02em;">автор</span>
+<time style="color: #9ca3af; font-size: 0.8rem;">29 августа 2012, 17:41:44</time>
 </header>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
 Дорогой собрат!
@@ -160,8 +159,8 @@ title: На статью «Ордынский синдром РПЦ» в «Но�
 </article>
 <article class="comment-entry" id="cmt-13" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">pretre_philippe</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">August 29 2012, 17:47:49 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">pretre_philippe</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">29 августа 2012, 17:47:49</time>
 </header>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
 К сожалению, и до революции не вижу особой разницы между служением и прислуживанием. Служить можно Богу и людям, прислуживать - системе, организации, а таких хватало и тогда. Часто склонны идеализировать Синодальный период, однако именно в нем крылись все те мины замедленного действия, которые потом рванули в 1917-м.
@@ -169,8 +168,8 @@ title: На статью «Ордынский синдром РПЦ» в «Но�
 </article>
 <article class="comment-entry" id="cmt-14" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">pretre_philippe</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">August 29 2012, 17:52:14 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">pretre_philippe</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">29 августа 2012, 17:52:14</time>
 </header>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
 Сегодня? Ну пожалуйста, - протоиерей Павел Адельгейм.
@@ -180,8 +179,8 @@ title: На статью «Ордынский синдром РПЦ» в «Но�
 </article>
 <article class="comment-entry" id="cmt-15" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">pvn123</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">August 29 2012, 19:29:35 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">pvn123</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">29 августа 2012, 19:29:35</time>
 </header>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
 Спасибо, что ответили.
@@ -194,8 +193,8 @@ title: На статью «Ордынский синдром РПЦ» в «Но�
 </article>
 <article class="comment-entry" id="cmt-16" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">mata_ariki</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">August 30 2012, 09:25:01 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">mata_ariki</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">30 августа 2012, 09:25:01</time>
 </header>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
 Выступать от имени коллектива (Вас не уполномачивавшего)- дурная советская привычка.
@@ -204,8 +203,8 @@ title: На статью «Ордынский синдром РПЦ» в «Но�
 </article>
 <article class="comment-entry" id="cmt-17" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">pvn123</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">August 30 2012, 10:07:15 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">pvn123</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">30 августа 2012, 10:07:15</time>
 </header>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
 &gt; Выступать от имени коллектива (Вас не уполномачивавшего)- дурная советская привычка.
@@ -228,8 +227,8 @@ title: На статью «Ордынский синдром РПЦ» в «Но�
 </article>
 <article class="comment-entry" id="cmt-18" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">mata_ariki</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">August 30 2012, 21:19:27 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">mata_ariki</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">30 августа 2012, 21:19:27</time>
 </header>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
 Вы выступили не от "своего имени и от имени своих ближайших" а от имени неких "простых православных", т.е. не от своей подгруппы а от группы, включающей разные подгруппы. Т.о. то, что Вы написали- выражает мнение не "простых православных" - а "меня и ближайших", кого вы можете причислять к "простым православным" (на основании случайных критериев, конечно).
@@ -238,8 +237,8 @@ title: На статью «Ордынский синдром РПЦ» в «Но�
 </article>
 <article class="comment-entry" id="cmt-19" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">pvn123</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">August 30 2012, 22:59:44 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">pvn123</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">30 августа 2012, 22:59:44</time>
 </header>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
 &gt; Вы выступили не от ...
@@ -260,8 +259,8 @@ title: На статью «Ордынский синдром РПЦ» в «Но�
 </article>
 <article class="comment-entry" id="cmt-20" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">pvn123</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">August 30 2012, 23:03:55 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">pvn123</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">30 августа 2012, 23:03:55</time>
 </header>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
 &gt; о. Георгий где-то "глумился над патриархом"?
@@ -272,8 +271,8 @@ title: На статью «Ордынский синдром РПЦ» в «Но�
 </article>
 <article class="comment-entry" id="cmt-21" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">mata_ariki</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">August 30 2012, 23:21:45 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">mata_ariki</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">30 августа 2012, 23:21:45</time>
 </header>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
 Т.е. Вы можете обосновать, что митрополит Никодим, к примеру- образец христианского стыда?
@@ -282,8 +281,8 @@ title: На статью «Ордынский синдром РПЦ» в «Но�
 </article>
 <article class="comment-entry" id="cmt-22" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">mata_ariki</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">August 30 2012, 23:25:21 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">mata_ariki</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">30 августа 2012, 23:25:21</time>
 </header>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
 К сожалению, не могу открыть ссылки. Все же, что Вы называете "глумлением"?
@@ -292,8 +291,8 @@ title: На статью «Ордынский синдром РПЦ» в «Но�
 </article>
 <article class="comment-entry" id="cmt-23" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">pvn123</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">August 31 2012, 11:13:42 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">pvn123</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">31 августа 2012, 11:13:42</time>
 </header>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
 &gt; Т.е. Вы можете обосновать, что митрополит Никодим, к примеру - образец христианского стыда?
@@ -310,8 +309,8 @@ title: На статью «Ордынский синдром РПЦ» в «Но�
 </article>
 <article class="comment-entry" id="cmt-24" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">mata_ariki</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">August 31 2012, 12:26:45 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">mata_ariki</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">31 августа 2012, 12:26:45</time>
 </header>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
 У Вас там нет никакой аргументации. Эмоциональные вскрики, всплески, попытки давления на эмоции- никакого рационального осмысления доступной информации.
@@ -326,8 +325,8 @@ title: На статью «Ордынский синдром РПЦ» в «Но�
 </article>
 <article class="comment-entry" id="cmt-25" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">pvn123</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">August 31 2012, 12:47:05 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">pvn123</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">31 августа 2012, 12:47:05</time>
 </header>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
 &gt; К сожалению, т.к. Вы- советский человек, то общение с Вами я прекращаю.
@@ -338,8 +337,8 @@ title: На статью «Ордынский синдром РПЦ» в «Но�
 </article>
 <article class="comment-entry" id="cmt-26" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #fffbfb; border: 1px solid #e5e7eb; border-left: 4px solid #b91c1c; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #991b1b; font-size: 0.95rem;">g_edelstein</strong> <span style="font-size: 0.72rem; background: #fee2e2; color: #991b1b; padding: 2px 7px; border-radius: 4px; font-weight: 600; margin-left: 6px;">автор</span>
-<time style="color: #9ca3af; font-size: 0.8rem;">September 1 2012, 15:57:28 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">g_edelstein</strong> <span class="font-sans-ui" style="font-family: \'Inter\', system-ui, sans-serif; font-size: 0.7rem; background: #ecfdf5; color: #065f46; border: 1px solid #a7f3d0; padding: 2px 7px; border-radius: 9999px; font-weight: 600; margin-left: 6px; letter-spacing: 0.02em;">автор</span>
+<time style="color: #9ca3af; font-size: 0.8rem;">1 сентября 2012, 15:57:28</time>
 </header>
 <div style="font-weight: 600; font-size: 0.95rem; margin-bottom: 0.35rem; color: #1f2937;">Facts saecred, interpretation free.</div>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
@@ -348,8 +347,8 @@ title: На статью «Ордынский синдром РПЦ» в «Но�
 </article>
 <article class="comment-entry" id="cmt-27" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #fffbfb; border: 1px solid #e5e7eb; border-left: 4px solid #b91c1c; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #991b1b; font-size: 0.95rem;">g_edelstein</strong> <span style="font-size: 0.72rem; background: #fee2e2; color: #991b1b; padding: 2px 7px; border-radius: 4px; font-weight: 600; margin-left: 6px;">автор</span>
-<time style="color: #9ca3af; font-size: 0.8rem;">September 1 2012, 17:37:37 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">g_edelstein</strong> <span class="font-sans-ui" style="font-family: \'Inter\', system-ui, sans-serif; font-size: 0.7rem; background: #ecfdf5; color: #065f46; border: 1px solid #a7f3d0; padding: 2px 7px; border-radius: 9999px; font-weight: 600; margin-left: 6px; letter-spacing: 0.02em;">автор</span>
+<time style="color: #9ca3af; font-size: 0.8rem;">1 сентября 2012, 17:37:37</time>
 </header>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
 Дорогой отче!
@@ -360,8 +359,8 @@ title: На статью «Ордынский синдром РПЦ» в «Но�
 </article>
 <article class="comment-entry" id="cmt-28" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">pretre_philippe</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">September 1 2012, 17:44:34 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">pretre_philippe</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">1 сентября 2012, 17:44:34</time>
 </header>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
 Ах, да, по невнимательности пропустил слово "епископ". Тогда согласен, в случае епископов все как в рот воды набрали. Правда, Диомид в 2007 году выступил, но это была карикатура.
@@ -370,8 +369,8 @@ title: На статью «Ордынский синдром РПЦ» в «Но�
 </article>
 <article class="comment-entry" id="cmt-29" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">andrei_platonov</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">September 1 2012, 19:58:11 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">andrei_platonov</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">1 сентября 2012, 19:58:11</time>
 </header>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
 Про Николая Велимировича Тер-Григорян какую-то чушь написал. Велемирович был патриот, враг нацизма, заключенный в Дахау.
@@ -395,8 +394,8 @@ title: На статью «Ордынский синдром РПЦ» в «Но�
 </article>
 <article class="comment-entry" id="cmt-30" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">mata_ariki</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">September 1 2012, 21:03:06 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">mata_ariki</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">1 сентября 2012, 21:03:06</time>
 </header>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
 Вы себе примерно представляете, кто такие четники и что такое "Антикоминтерновский пакт"?
@@ -404,8 +403,8 @@ title: На статью «Ордынский синдром РПЦ» в «Но�
 </article>
 <article class="comment-entry" id="cmt-31" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">andrei_platonov</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">September 2 2012, 07:42:48 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">andrei_platonov</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">2 сентября 2012, 07:42:48</time>
 </header>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
 Вы с терГригоряном изоврались. Четники боролись с оккупантами Сербии, Велемирович их поддерживал, за что был заключен в Дахау. Четники были в союзе с англичанами и американцами и объявили, что не прекратят борьбу против нацистов и усташей до полного освобождения, а вы с тгригоряном как раз повторяете коммунистическую клевету против четников.
@@ -414,8 +413,8 @@ title: На статью «Ордынский синдром РПЦ» в «Но�
 </article>
 <article class="comment-entry" id="cmt-32" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">mata_ariki</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">September 2 2012, 09:44:55 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">mata_ariki</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">2 сентября 2012, 09:44:55</time>
 </header>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
 А давайте ссылку на определение Собора.
@@ -430,8 +429,8 @@ Velimirović had high opinion of Dimitrije Ljotić, a Serbian right-wing politic
 </article>
 <article class="comment-entry" id="cmt-33" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">andrei_platonov</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">September 2 2012, 10:58:38 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">andrei_platonov</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">2 сентября 2012, 10:58:38</time>
 </header>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
 не понятно- откуда у вас такое жгучее желание притянуть антикоммуниста и националиста Велимировича к чекистской МП? //
@@ -440,8 +439,8 @@ Velimirović had high opinion of Dimitrije Ljotić, a Serbian right-wing politic
 </article>
 <article class="comment-entry" id="cmt-34" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">marklyando</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">November 18 2012, 11:35:00 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">marklyando</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">18 ноября 2012, 11:35:00</time>
 </header>
 <div style="font-weight: 600; font-size: 0.95rem; margin-bottom: 0.35rem; color: #1f2937;">Вот как?</div>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
@@ -450,8 +449,8 @@ Velimirović had high opinion of Dimitrije Ljotić, a Serbian right-wing politic
 </article>
 <article class="comment-entry" id="cmt-35" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">ext_879491</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">April 1 2013, 15:59:41 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">ext_879491</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">1 апреля 2013, 15:59:41</time>
 </header>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
 согласен с mata_arik, что вы - советский человек, аргументы у вас всех примерно одинаковые. 
@@ -461,8 +460,8 @@ Velimirović had high opinion of Dimitrije Ljotić, a Serbian right-wing politic
 </article>
 <article class="comment-entry" id="cmt-36" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">pvn123</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">April 2 2013, 07:18:55 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">pvn123</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">2 апреля 2013, 07:18:55</time>
 </header>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
 &gt;  что вы - советский человек,

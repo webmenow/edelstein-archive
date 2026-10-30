@@ -1,5 +1,4 @@
----
-aliases:
+---aliases:
 - /2623.html
 date: '2011-06-04T19:09:00'
 id: 2623
@@ -12,7 +11,7 @@ tags:
 - Православие
 - Церковная история
 - РПЦ МП
-title: 'Отцам Сергию, Михаилу, Александру: Мир вам! (реплика на их Заявление)'
+title: "Отцам Сергию, Михаилу, Александру: мир вам! (реплика на их заявление)"
 ---
 
 Обращение протоиерея Георгия Эдельштейна к протоиерею Сергию Кондакову, протоиерею Михаилу Карпееву, священнику Александру Малых в ответ на их <a href="http://kondakov.ws/blog/Zayavlenie-v-svyazi-s-prinyatiem-pr" target="_blank">заявление  в связи в связи с их принятием в состав РПЦЗ(А)</a>
@@ -24,8 +23,8 @@ title: 'Отцам Сергию, Михаилу, Александру: Мир в
 <div class="comments-list" style="margin-top: 1.5rem;">
 <article class="comment-entry" id="cmt-1" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">priest_mikhail</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">June 4 2011, 18:30:53 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">priest_mikhail</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">4 июня 2011, 18:30:53</time>
 </header>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
 Мир Вам, отец Георгий!

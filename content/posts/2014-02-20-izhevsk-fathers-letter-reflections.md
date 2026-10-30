@@ -1,5 +1,4 @@
----
-aliases:
+---aliases:
 - /11924.html
 date: '2014-02-20T00:28:00'
 id: 11924
@@ -12,15 +11,15 @@ tags:
 - Православие
 - Церковная история
 - Публицистика
-title: Размышления о письме Ижевских отцов - 2
+title: "Размышления о письме ижевских отцов - 2"
 ---
 
-<span style="font-size:14.0pt;">Отцы пишут, что находятся под омофором митрополита Агафангела.
+Отцы пишут, что находятся под омофором митрополита Агафангела.
 
 14 лет назад написал <a href="http://krotov.info/lib_sec/26_ae/aed/elstein5.htm#5" target="_blank">открытое письмо епископу Симферопольскому и Крымскому Агафангелу</a>
-Приближается Прощёное Воскресение. Я давно хотел попросить прощения за неподобающие выражения у Высокопреосвященнейшего Агафангела. Хамство своё осуждаю и искреннейшее раскаиваюсь в нём. Но основную мысль, вынесенную в заголовок статьи, вошедшей в сборник <a href="http://krotov.info/lib_sec/26_ae/aed/elstein2.htm" target="_blank">"Записки сельского священника"</a>, по-прежнему считаю верной. Думаю, это и ответ на <a href="http://g-edelstein.livejournal.com/11522.html?thread=114178#t114178" target="_blank">комментарий</a> к предыдущей записи.
+Приближается Прощёное Воскресение. Я давно хотел попросить прощения за неподобающие выражения у Высокопреосвященнейшего Агафангела. Хамство своё осуждаю и искреннейшее раскаиваюсь в нём. Но основную мысль, вынесенную в заголовок статьи, вошедшей в сборник <a href="http://krotov.info/lib_sec/26_ae/aed/elstein2.htm" target="_blank">«Записки сельского священника»</a>, по-прежнему считаю верной. Думаю, это и ответ на <a href="http://g-edelstein.livejournal.com/11522.html?thread=114178#t114178" target="_blank">комментарий</a> к предыдущей записи.
 
-Русская Православная Церковь, безусловно, едина.</span>
+Русская Православная Церковь, безусловно, едина.
 
 <section class="lj-comments-archive" style="margin-top: 3.5rem; border-top: 2px solid #e5e7eb; padding-top: 2rem;">
 <details style="background: #f9fafb; border: 1px solid #e5e7eb; border-radius: 8px; padding: 1.25rem 1.5rem;">
@@ -28,8 +27,8 @@ title: Размышления о письме Ижевских отцов - 2
 <div class="comments-list" style="margin-top: 1.5rem;">
 <article class="comment-entry" id="cmt-1" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">pr_begashoff</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">February 22 2014, 11:15:47 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">pr_begashoff</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">22 февраля 2014, 11:15:47</time>
 </header>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
 Могу я узнать, почему Вы не открыли мой коммент?
@@ -37,8 +36,8 @@ title: Размышления о письме Ижевских отцов - 2
 </article>
 <article class="comment-entry" id="cmt-2" style="margin-left: 1.5rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">pr_begashoff</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">February 20 2014, 09:25:35 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">pr_begashoff</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">20 февраля 2014, 09:25:35</time>
 </header>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
 Я уверен, что Ваше открытое письмо к тогда епископу Агафангелу имело свои основания. Но, уверяю Вас, сегодня ни сам митр. Агафангел, ни кто-либо из РПЦЗ не говорит о безблагодатности МП. Сегодня митрополит во всеуслышание заявляет, что РПЦЗ - это часть Поместной Российской Церкви. Удостовериться в этом Вы можете хотя бы <a href="http://internetsobor.org/rptcz/tcerkovnye-novosti/rptcz/mitropolit-agafangel-o-kanonichnosti-russkoi-pravoslavnoi-tcerkvi-zagranitcei" rel="nofollow">здесь</a>. Не знаю, что повлияло на изменение экклесиологии нашего Первоиерарха, только лишь Ваше письмо или не только, но сегодня оно, слава Богу, потеряло всякую свою актуальность. И да, Вы были правы.
@@ -51,8 +50,8 @@ title: Размышления о письме Ижевских отцов - 2
 </article>
 <article class="comment-entry" id="cmt-3" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #fffbfb; border: 1px solid #e5e7eb; border-left: 4px solid #b91c1c; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #991b1b; font-size: 0.95rem;">g_edelstein</strong> <span style="font-size: 0.72rem; background: #fee2e2; color: #991b1b; padding: 2px 7px; border-radius: 4px; font-weight: 600; margin-left: 6px;">автор</span>
-<time style="color: #9ca3af; font-size: 0.8rem;">February 22 2014, 14:06:30 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">g_edelstein</strong> <span class="font-sans-ui" style="font-family: \'Inter\', system-ui, sans-serif; font-size: 0.7rem; background: #ecfdf5; color: #065f46; border: 1px solid #a7f3d0; padding: 2px 7px; border-radius: 9999px; font-weight: 600; margin-left: 6px; letter-spacing: 0.02em;">автор</span>
+<time style="color: #9ca3af; font-size: 0.8rem;">22 февраля 2014, 14:06:30</time>
 </header>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
 Интернет не работал.
@@ -60,8 +59,8 @@ title: Размышления о письме Ижевских отцов - 2
 </article>
 <article class="comment-entry" id="cmt-4" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">pr_begashoff</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">February 22 2014, 14:07:37 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">pr_begashoff</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">22 февраля 2014, 14:07:37</time>
 </header>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
 Спасибо

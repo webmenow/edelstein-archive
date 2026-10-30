@@ -1,5 +1,4 @@
----
-aliases:
+---aliases:
 - /11215.html
 date: '2013-12-29T20:35:00'
 id: 11215
@@ -13,16 +12,16 @@ tags:
 - Религия
 - Публицистика
 - Общество
-title: Русь крещена, но не просвещена
+title: "Русь крещена, но не просвещена"
 ---
 
-<span style="font-size:14.0pt;">Русь, по-прежнему, крещена, но не просвещена</span>
- 
-<span style="font-size:14.0pt;">24 декабря протоиерей Виталий Шастин (он возглавляет паломническую службу епархии) в докладе на ежегодном собрании духовенства рассказал:</span>
-<span style="font-size:14.0pt;">«Недавно группа наших паломников (45 человек) ездила в Москву к мощам блаженной Матронушки. Я попросил водителя автобуса остановиться на обратном пути возле Троице-Сергиевой лавры, чтобы помолиться хоть несколько минут у мощей игумена всея Руси преподобного Сергия Радонежского. В наступающем 2014 году Русская Православная Церковь будет праздновать 700 лет со дня его рождения. Паломники ответили, что им это ни к чему: они ехали только к Матронушке.</span>
-<span style="font-size:14.0pt;">Всё же я попросил шофёра остановиться у ворот лавры. Только четыре человека вышли из автобуса, а сорок один демонстративно остались на своих местах», - горестно закончил о.Виталий.</span>
-<span style="font-size:14.0pt;">От себя добавлю, что в уходящем 2013 году раку с частицей мощей Матронушки несколько лет возили по храмам Костромы и всей Костромской земли. В докладе на собрании духовенства наш епископ Ферапонт сказал, что все без исключения храмы епархии могли принять у себя ковчег со святыми мощами, если об этом просил настоятель.</span>
-<span style="font-size:14.0pt;">Лучшей иллюстрации к статьями, что публиковались недавно в моём ЖЖ, не придумать. </span>
+Русь, по-прежнему, крещена, но не просвещена
+
+24 декабря протоиерей Виталий Шастин (он возглавляет паломническую службу епархии) в докладе на ежегодном собрании духовенства рассказал:
+«Недавно группа наших паломников (45 человек) ездила в Москву к мощам блаженной Матронушки. Я попросил водителя автобуса остановиться на обратном пути возле Троице-Сергиевой лавры, чтобы помолиться хоть несколько минут у мощей игумен а всея Руси преподобного Сергия Радонежского. В наступающем 2014 году Русская Православная Церковь будет праздновать 700 лет со дня его рождения. Паломники ответили, что им это ни к чему: они ехали только к Матронушке.
+Всё же я попросил шофёра остановиться у ворот лавры. Только четыре человека вышли из автобуса, а сорок один демонстративно остались на своих местах», - горестно закончил о. Виталий.
+От себя добавлю, что в уходящем 2013 году раку с частицей мощей Матронушки несколько лет возили по храмам Костромы и всей Костромской земли. В докладе на собрании духовенства наш епископ Ферапонт сказал, что все без исключения храмы епархии могли принять у себя ковчег со святыми мощами, если об этом просил настоятель.
+Лучшей иллюстрации к статьями, что публиковались недавно в моём ЖЖ, не придумать. 
 
 <section class="lj-comments-archive" style="margin-top: 3.5rem; border-top: 2px solid #e5e7eb; padding-top: 2rem;">
 <details style="background: #f9fafb; border: 1px solid #e5e7eb; border-radius: 8px; padding: 1.25rem 1.5rem;">
@@ -30,8 +29,8 @@ title: Русь крещена, но не просвещена
 <div class="comments-list" style="margin-top: 1.5rem;">
 <article class="comment-entry" id="cmt-1" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">vasia_tapkin</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">December 29 2013, 17:00:10 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">vasia_tapkin</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">29 декабря 2013, 17:00:10</time>
 </header>
 <div style="font-weight: 600; font-size: 0.95rem; margin-bottom: 0.35rem; color: #1f2937;">Паломники ответили, что им это ни к чему</div>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
@@ -44,8 +43,8 @@ title: Русь крещена, но не просвещена
 </article>
 <article class="comment-entry" id="cmt-2" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">grigrozen</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">December 29 2013, 19:36:38 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">grigrozen</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">29 декабря 2013, 19:36:38</time>
 </header>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
 К сожалению это есть констатация факта. 
@@ -56,8 +55,8 @@ title: Русь крещена, но не просвещена
 </article>
 <article class="comment-entry" id="cmt-3" style="margin-left: 1.5rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">areksi</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">December 29 2013, 19:27:37 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">areksi</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">29 декабря 2013, 19:27:37</time>
 </header>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
 Почему-то о Виталий предпочитает один культ мощей другому, да еще хочет решать за паломников, кому и где они должны поклониться. А может люди настроились определенным образом, и собирать поклонения мощам по дороге "заодно" им не хочется. И к одному святому не каждый поедет, а тут вообще какое-то предлагается безумное хождение по мощам. Не говоря уже о том, что к христианству это вообще не имеет прямого отношения...
@@ -65,8 +64,8 @@ title: Русь крещена, но не просвещена
 </article>
 <article class="comment-entry" id="cmt-4" style="margin-left: 1.5rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">alkanaftpirovic</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">May 5 2015, 19:26:11 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">alkanaftpirovic</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">5 мая 2015, 19:26:11</time>
 </header>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
 позвольте.
@@ -75,8 +74,8 @@ title: Русь крещена, но не просвещена
 </article>
 <article class="comment-entry" id="cmt-5" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">ext_421841</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">December 30 2013, 02:10:43 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">ext_421841</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">30 декабря 2013, 02:10:43</time>
 </header>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
 Для того и есть паломническая служба, чтобы по дороге с паломницами вести просветительскую работу. Раз уж эти люди на много часов попадают в распоряжении батюшки, так пусть и использует возможность.
@@ -84,8 +83,8 @@ title: Русь крещена, но не просвещена
 </article>
 <article class="comment-entry" id="cmt-6" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">ext_1783859</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">January 18 2014, 13:10:58 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">ext_1783859</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">18 января 2014, 13:10:58</time>
 </header>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
 Отец Георгий может прокомментируете тот скандал с гей-лобби, который разгорелся после обнародования секс-скандала в Казанской семинарии и увольнения дьякона Андрея Кураева из МДА?

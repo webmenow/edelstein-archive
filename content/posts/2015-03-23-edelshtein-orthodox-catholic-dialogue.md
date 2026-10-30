@@ -1,5 +1,4 @@
----
-aliases:
+---aliases:
 - /13347.html
 date: '2015-03-23T05:04:00'
 id: 13347
@@ -12,10 +11,10 @@ tags:
 - Православие
 - Церковная история
 - Публицистика
-title: 'Протоиерей Георгий Эдельштейн: "Я пытался вразумить Папу"'
+title: "Протоиерей Георгий Эдельштейн: «Я пытался вразумить Папу»"
 ---
 
-Оригинал взят у <span class="ljuser i-ljuser i-ljuser-type-P" data-ljuser="katholikotita" lj:user="katholikotita"><a class="i-ljuser-profile" href="https://katholikotita.livejournal.com/profile/" target="_self"><img class="i-ljuser-userhead" src="https://l-stat.livejournal.net/img/userinfo_v8.svg?v=17080&amp;v=941.1"/></a><a class="i-ljuser-username" href="https://katholikotita.livejournal.com/" target="_self"><b>katholikotita</b></a></span> в <a href="http://katholikotita.livejournal.com/556.html" target="_blank">Протоиерей Георгий Эдельштейн: "Я пытался вразумить Папу"</a><div class="repost"><i>отец Георгий рассказывает о своём отношении к католической церкви</i>
+Оригинал взят у <span class="ljuser i-ljuser i-ljuser-type-P" data-ljuser="katholikotita" lj:user="katholikotita"><a class="i-ljuser-profile" href="https://katholikotita.livejournal.com/profile/" target="_self"><img class="i-ljuser-userhead" src="https://l-stat.livejournal.net/img/userinfo_v8.svg?v=17080&amp;v=941.1"/></a><a class="i-ljuser-username" href="https://katholikotita.livejournal.com/" target="_self"><b>katholikotita</b></a></span> в <a href="http://katholikotita.livejournal.com/556.html" target="_blank">Протоиерей Георгий Эдельштейн: «Я пытался вразумить Папу»</a><div class="repost"><i>отец Георгий рассказывает о своём отношении к католической церкви</i>
 
 <iframe allowfullscreen="" class="lj_embedcontent" frameborder="0" height="450" name="embed_37112284_3" src="https://l.lj-toys.com/?auth_token=sessionless%3A1792526400%3Aembedcontent%3A37112284%263%26%26%3A5f63b07ebf497a7a9bd56838bdb9031ed1bf25c8&amp;preview=&amp;journalid=37112284&amp;moduleid=3&amp;noads=" width="100%"></iframe>
 <i>вопросы задавал Сергей Шевченко</i>
@@ -108,8 +107,8 @@ title: 'Протоиерей Георгий Эдельштейн: "Я пытал
 <div class="comments-list" style="margin-top: 1.5rem;">
 <article class="comment-entry" id="cmt-1" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">paterkonstantin</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">March 23 2015, 17:40:17 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">paterkonstantin</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">23 марта 2015, 17:40:17</time>
 </header>
 <div style="font-weight: 600; font-size: 0.95rem; margin-bottom: 0.35rem; color: #1f2937;">экуменизм</div>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
@@ -118,8 +117,8 @@ title: 'Протоиерей Георгий Эдельштейн: "Я пытал
 </article>
 <article class="comment-entry" id="cmt-2" style="margin-left: 1.5rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">karlneiman</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">March 23 2015, 04:58:33 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">karlneiman</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">23 марта 2015, 04:58:33</time>
 </header>
 <div style="font-weight: 600; font-size: 0.95rem; margin-bottom: 0.35rem; color: #1f2937;">Ссылку в студию!</div>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
@@ -128,8 +127,8 @@ title: 'Протоиерей Георгий Эдельштейн: "Я пытал
 </article>
 <article class="comment-entry" id="cmt-3" style="margin-left: 3.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">upake</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">April 2 2015, 21:43:49 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">upake</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">2 апреля 2015, 21:43:49</time>
 </header>
 <div style="font-weight: 600; font-size: 0.95rem; margin-bottom: 0.35rem; color: #1f2937;">Re: Ссылку в студию!</div>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
@@ -138,8 +137,8 @@ title: 'Протоиерей Георгий Эдельштейн: "Я пытал
 </article>
 <article class="comment-entry" id="cmt-4" style="margin-left: 1.5rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">tapirr</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">March 24 2015, 19:33:03 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">tapirr</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">24 марта 2015, 19:33:03</time>
 </header>
 <div style="font-weight: 600; font-size: 0.95rem; margin-bottom: 0.35rem; color: #1f2937;">Патриарх об отце Александре Мене</div>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
@@ -150,8 +149,8 @@ title: 'Протоиерей Георгий Эдельштейн: "Я пытал
 </article>
 <article class="comment-entry" id="cmt-5" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #fffbfb; border: 1px solid #e5e7eb; border-left: 4px solid #b91c1c; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #991b1b; font-size: 0.95rem;">g_edelstein</strong> <span style="font-size: 0.72rem; background: #fee2e2; color: #991b1b; padding: 2px 7px; border-radius: 4px; font-weight: 600; margin-left: 6px;">автор</span>
-<time style="color: #9ca3af; font-size: 0.8rem;">March 24 2015, 06:41:09 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">g_edelstein</strong> <span class="font-sans-ui" style="font-family: \'Inter\', system-ui, sans-serif; font-size: 0.7rem; background: #ecfdf5; color: #065f46; border: 1px solid #a7f3d0; padding: 2px 7px; border-radius: 9999px; font-weight: 600; margin-left: 6px; letter-spacing: 0.02em;">автор</span>
+<time style="color: #9ca3af; font-size: 0.8rem;">24 марта 2015, 06:41:09</time>
 </header>
 <div style="font-weight: 600; font-size: 0.95rem; margin-bottom: 0.35rem; color: #1f2937;">Re: экуменизм</div>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
@@ -162,8 +161,8 @@ title: 'Протоиерей Георгий Эдельштейн: "Я пытал
 </article>
 <article class="comment-entry" id="cmt-6" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">paterkonstantin</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">March 24 2015, 11:15:42 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">paterkonstantin</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">24 марта 2015, 11:15:42</time>
 </header>
 <div style="font-weight: 600; font-size: 0.95rem; margin-bottom: 0.35rem; color: #1f2937;">экуменизм</div>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
@@ -173,8 +172,8 @@ title: 'Протоиерей Георгий Эдельштейн: "Я пытал
 </article>
 <article class="comment-entry" id="cmt-7" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">paterkonstantin</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">March 24 2015, 11:36:01 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">paterkonstantin</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">24 марта 2015, 11:36:01</time>
 </header>
 <div style="font-weight: 600; font-size: 0.95rem; margin-bottom: 0.35rem; color: #1f2937;">экуменизм</div>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
@@ -184,8 +183,8 @@ title: 'Протоиерей Георгий Эдельштейн: "Я пытал
 </article>
 <article class="comment-entry" id="cmt-8" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">paterkonstantin</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">March 24 2015, 11:41:06 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">paterkonstantin</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">24 марта 2015, 11:41:06</time>
 </header>
 <div style="font-weight: 600; font-size: 0.95rem; margin-bottom: 0.35rem; color: #1f2937;">Re: экуменизм</div>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
@@ -194,8 +193,8 @@ title: 'Протоиерей Георгий Эдельштейн: "Я пытал
 </article>
 <article class="comment-entry" id="cmt-9" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">tapirr</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">March 24 2015, 19:29:25 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">tapirr</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">24 марта 2015, 19:29:25</time>
 </header>
 <div style="font-weight: 600; font-size: 0.95rem; margin-bottom: 0.35rem; color: #1f2937;">Re: экуменизм</div>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
@@ -205,8 +204,8 @@ title: 'Протоиерей Георгий Эдельштейн: "Я пытал
 </article>
 <article class="comment-entry" id="cmt-10" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">paterkonstantin</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">March 25 2015, 17:47:05 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">paterkonstantin</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">25 марта 2015, 17:47:05</time>
 </header>
 <div style="font-weight: 600; font-size: 0.95rem; margin-bottom: 0.35rem; color: #1f2937;">Re: Патриарх об отце Александре Мене</div>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
@@ -215,8 +214,8 @@ title: 'Протоиерей Георгий Эдельштейн: "Я пытал
 </article>
 <article class="comment-entry" id="cmt-11" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #fffbfb; border: 1px solid #e5e7eb; border-left: 4px solid #b91c1c; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #991b1b; font-size: 0.95rem;">g_edelstein</strong> <span style="font-size: 0.72rem; background: #fee2e2; color: #991b1b; padding: 2px 7px; border-radius: 4px; font-weight: 600; margin-left: 6px;">автор</span>
-<time style="color: #9ca3af; font-size: 0.8rem;">March 28 2015, 08:26:12 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">g_edelstein</strong> <span class="font-sans-ui" style="font-family: \'Inter\', system-ui, sans-serif; font-size: 0.7rem; background: #ecfdf5; color: #065f46; border: 1px solid #a7f3d0; padding: 2px 7px; border-radius: 9999px; font-weight: 600; margin-left: 6px; letter-spacing: 0.02em;">автор</span>
+<time style="color: #9ca3af; font-size: 0.8rem;">28 марта 2015, 08:26:12</time>
 </header>
 <div style="font-weight: 600; font-size: 0.95rem; margin-bottom: 0.35rem; color: #1f2937;">Re: экуменизм</div>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
@@ -228,8 +227,8 @@ title: 'Протоиерей Георгий Эдельштейн: "Я пытал
 </article>
 <article class="comment-entry" id="cmt-12" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">paterkonstantin</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">March 28 2015, 12:45:59 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">paterkonstantin</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">28 марта 2015, 12:45:59</time>
 </header>
 <div style="font-weight: 600; font-size: 0.95rem; margin-bottom: 0.35rem; color: #1f2937;">Re: экуменизм</div>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
@@ -249,8 +248,8 @@ title: 'Протоиерей Георгий Эдельштейн: "Я пытал
 </article>
 <article class="comment-entry" id="cmt-13" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">marina_cy</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">April 4 2015, 14:35:03 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">marina_cy</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">4 апреля 2015, 14:35:03</time>
 </header>
 <div style="font-weight: 600; font-size: 0.95rem; margin-bottom: 0.35rem; color: #1f2937;">Re: экуменизм</div>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
@@ -261,8 +260,8 @@ title: 'Протоиерей Георгий Эдельштейн: "Я пытал
 </article>
 <article class="comment-entry" id="cmt-14" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">paterkonstantin</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">April 5 2015, 11:14:55 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">paterkonstantin</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">5 апреля 2015, 11:14:55</time>
 </header>
 <div style="font-weight: 600; font-size: 0.95rem; margin-bottom: 0.35rem; color: #1f2937;">Re: экуменизм</div>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
@@ -272,8 +271,8 @@ title: 'Протоиерей Георгий Эдельштейн: "Я пытал
 </article>
 <article class="comment-entry" id="cmt-15" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">marina_cy</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">April 11 2015, 08:17:11 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">marina_cy</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">11 апреля 2015, 08:17:11</time>
 </header>
 <div style="font-weight: 600; font-size: 0.95rem; margin-bottom: 0.35rem; color: #1f2937;">Re: экуменизм</div>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
@@ -284,8 +283,8 @@ title: 'Протоиерей Георгий Эдельштейн: "Я пытал
 </article>
 <article class="comment-entry" id="cmt-16" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">paterkonstantin</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">April 12 2015, 10:03:22 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">paterkonstantin</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">12 апреля 2015, 10:03:22</time>
 </header>
 <div style="font-weight: 600; font-size: 0.95rem; margin-bottom: 0.35rem; color: #1f2937;">Re: экуменизм</div>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
@@ -296,8 +295,8 @@ title: 'Протоиерей Георгий Эдельштейн: "Я пытал
 </article>
 <article class="comment-entry" id="cmt-17" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">marina_cy</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">April 15 2015, 15:25:12 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">marina_cy</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">15 апреля 2015, 15:25:12</time>
 </header>
 <div style="font-weight: 600; font-size: 0.95rem; margin-bottom: 0.35rem; color: #1f2937;">Re: экуменизм</div>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
@@ -311,8 +310,8 @@ title: 'Протоиерей Георгий Эдельштейн: "Я пытал
 </article>
 <article class="comment-entry" id="cmt-18" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">paterkonstantin</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">April 15 2015, 18:43:55 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">paterkonstantin</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">15 апреля 2015, 18:43:55</time>
 </header>
 <div style="font-weight: 600; font-size: 0.95rem; margin-bottom: 0.35rem; color: #1f2937;">Re: экуменизм</div>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
@@ -322,8 +321,8 @@ title: 'Протоиерей Георгий Эдельштейн: "Я пытал
 </article>
 <article class="comment-entry" id="cmt-19" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">marina_cy</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">April 15 2015, 21:47:07 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">marina_cy</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">15 апреля 2015, 21:47:07</time>
 </header>
 <div style="font-weight: 600; font-size: 0.95rem; margin-bottom: 0.35rem; color: #1f2937;">Re: экуменизм</div>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
@@ -333,8 +332,8 @@ title: 'Протоиерей Георгий Эдельштейн: "Я пытал
 </article>
 <article class="comment-entry" id="cmt-20" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">paterkonstantin</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">April 16 2015, 08:15:19 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">paterkonstantin</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">16 апреля 2015, 08:15:19</time>
 </header>
 <div style="font-weight: 600; font-size: 0.95rem; margin-bottom: 0.35rem; color: #1f2937;">Re: экуменизм</div>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
@@ -349,8 +348,8 @@ title: 'Протоиерей Георгий Эдельштейн: "Я пытал
 </article>
 <article class="comment-entry" id="cmt-21" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">paterkonstantin</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">April 16 2015, 08:15:42 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">paterkonstantin</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">16 апреля 2015, 08:15:42</time>
 </header>
 <div style="font-weight: 600; font-size: 0.95rem; margin-bottom: 0.35rem; color: #1f2937;">Re: экуменизм</div>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
@@ -363,8 +362,8 @@ title: 'Протоиерей Георгий Эдельштейн: "Я пытал
 </article>
 <article class="comment-entry" id="cmt-22" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">paterkonstantin</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">April 16 2015, 09:22:48 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">paterkonstantin</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">16 апреля 2015, 09:22:48</time>
 </header>
 <div style="font-weight: 600; font-size: 0.95rem; margin-bottom: 0.35rem; color: #1f2937;">Re: экуменизм</div>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
@@ -373,8 +372,8 @@ title: 'Протоиерей Георгий Эдельштейн: "Я пытал
 </article>
 <article class="comment-entry" id="cmt-23" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #fffbfb; border: 1px solid #e5e7eb; border-left: 4px solid #b91c1c; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #991b1b; font-size: 0.95rem;">g_edelstein</strong> <span style="font-size: 0.72rem; background: #fee2e2; color: #991b1b; padding: 2px 7px; border-radius: 4px; font-weight: 600; margin-left: 6px;">автор</span>
-<time style="color: #9ca3af; font-size: 0.8rem;">April 18 2015, 16:56:46 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">g_edelstein</strong> <span class="font-sans-ui" style="font-family: \'Inter\', system-ui, sans-serif; font-size: 0.7rem; background: #ecfdf5; color: #065f46; border: 1px solid #a7f3d0; padding: 2px 7px; border-radius: 9999px; font-weight: 600; margin-left: 6px; letter-spacing: 0.02em;">автор</span>
+<time style="color: #9ca3af; font-size: 0.8rem;">18 апреля 2015, 16:56:46</time>
 </header>
 <div style="font-weight: 600; font-size: 0.95rem; margin-bottom: 0.35rem; color: #1f2937;">Re: экуменизм</div>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
@@ -387,8 +386,8 @@ title: 'Протоиерей Георгий Эдельштейн: "Я пытал
 </article>
 <article class="comment-entry" id="cmt-24" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">paterkonstantin</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">April 18 2015, 19:16:15 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">paterkonstantin</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">18 апреля 2015, 19:16:15</time>
 </header>
 <div style="font-weight: 600; font-size: 0.95rem; margin-bottom: 0.35rem; color: #1f2937;">Re: экуменизм</div>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
@@ -401,8 +400,8 @@ title: 'Протоиерей Георгий Эдельштейн: "Я пытал
 </article>
 <article class="comment-entry" id="cmt-25" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">ruslanvolg</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">August 2 2015, 05:02:56 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">ruslanvolg</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">2 августа 2015, 05:02:56</time>
 </header>
 <div style="font-weight: 600; font-size: 0.95rem; margin-bottom: 0.35rem; color: #1f2937;">две раздельные  Церкви </div>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">

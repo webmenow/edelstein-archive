@@ -1,5 +1,4 @@
----
-aliases:
+---aliases:
 - /26929.html
 date: '2026-03-11T23:08:00'
 id: 26929
@@ -13,7 +12,7 @@ tags:
 - Диссидентство
 - Культура
 - Музыка
-title: О Марии Вениаминовне Юдиной
+title: "О Марии Вениаминовне Юдиной"
 ---
 
 <p>Всё, что я могу рассказать о Марии Вениаминовне Юдиной, связано с отцом Николаем Эшлиманом.</p>
@@ -35,8 +34,8 @@ title: О Марии Вениаминовне Юдиной
 <div class="comments-list" style="margin-top: 1.5rem;">
 <article class="comment-entry" id="cmt-1" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">ivanskvor</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">March 11 2026, 20:57:54 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">ivanskvor</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">11 марта 2026, 20:57:54</time>
 </header>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
 Вы, о. Георгий, считаете её гениальной или просто чудаковатой несчастной дамой? Вагинов высмеял её в образе Далматовой, объекта вожделения Тептёлкина-Пумпянского
@@ -44,8 +43,8 @@ title: О Марии Вениаминовне Юдиной
 </article>
 <article class="comment-entry" id="cmt-2" style="margin-left: 1.5rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #fffbfb; border: 1px solid #e5e7eb; border-left: 4px solid #b91c1c; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #991b1b; font-size: 0.95rem;">g_edelstein</strong> <span style="font-size: 0.72rem; background: #fee2e2; color: #991b1b; padding: 2px 7px; border-radius: 4px; font-weight: 600; margin-left: 6px;">автор</span>
-<time style="color: #9ca3af; font-size: 0.8rem;">March 15 2026, 18:02:52 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">g_edelstein</strong> <span class="font-sans-ui" style="font-family: \'Inter\', system-ui, sans-serif; font-size: 0.7rem; background: #ecfdf5; color: #065f46; border: 1px solid #a7f3d0; padding: 2px 7px; border-radius: 9999px; font-weight: 600; margin-left: 6px; letter-spacing: 0.02em;">автор</span>
+<time style="color: #9ca3af; font-size: 0.8rem;">15 марта 2026, 18:02:52</time>
 </header>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
 <p>У меня крайне субъективные оценки. Я считаю Пушкина гением и очень не люблю. Я считаю Льва Толстова гением и ещё больше не люблю. С удовольствием читаю и слушаю только «Отца Сергия». Не люблю, например, Хармса, хотя все они считаются всемирно признанными гениями. А Марию Вениаминовну Юдину считаю гениальной пианисткой и очень-очень люблю.</p>
@@ -53,8 +52,8 @@ title: О Марии Вениаминовне Юдиной
 </article>
 <article class="comment-entry" id="cmt-3" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #fffbfb; border: 1px solid #e5e7eb; border-left: 4px solid #b91c1c; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #991b1b; font-size: 0.95rem;">g_edelstein</strong> <span style="font-size: 0.72rem; background: #fee2e2; color: #991b1b; padding: 2px 7px; border-radius: 4px; font-weight: 600; margin-left: 6px;">автор</span>
-<time style="color: #9ca3af; font-size: 0.8rem;">March 15 2026, 17:47:39 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">g_edelstein</strong> <span class="font-sans-ui" style="font-family: \'Inter\', system-ui, sans-serif; font-size: 0.7rem; background: #ecfdf5; color: #065f46; border: 1px solid #a7f3d0; padding: 2px 7px; border-radius: 9999px; font-weight: 600; margin-left: 6px; letter-spacing: 0.02em;">автор</span>
+<time style="color: #9ca3af; font-size: 0.8rem;">15 марта 2026, 17:47:39</time>
 </header>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
 <p><b>Вопрос в личных сообщениях от читателя блога: </b>Мария Вениаминовна говорила, что о. Николай Ведерников – хороший музыкант, но плохой священник. Он правда плохой священник?</p>

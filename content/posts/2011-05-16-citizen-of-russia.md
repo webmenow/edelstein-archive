@@ -1,5 +1,4 @@
----
-aliases:
+---aliases:
 - /1608.html
 date: '2011-05-16T02:27:00'
 id: 1608
@@ -13,7 +12,7 @@ tags:
 - История СССР
 - Диссидентство
 - Гражданские права
-title: Я гражданин России, а не Совдепии
+title: "Я гражданин России, а не Совдепии"
 ---
 
 <em>12 мая с. г. в Москве состоялось заседание Московской Хельсинкской Группы посвященное ее 35-и летию.  
@@ -29,9 +28,9 @@ title: Я гражданин России, а не Совдепии
 
 Красное Знамя РКП(б), ВКП(б), КПСС по сей день называют Знаменем России. Под этим знаменем в начале ХХ века устраивали свои сборища злейшие враги России. Под этим знаменем вели свои войска на уничтожение России Троцкий, Фрунзе, Тухачевский, Ворошилов, Дыбенко. Они мне не сограждане, как не были согражданами рязанскому, тверскому или костромскому попу золотоордынские баскаки или предводители шайки Степана Разина.
 
-По сей день слово "товарищ" остается официальным обращением в нашей армии. И не только в армии. Товарищ капитан, товарищ майор, товарищ генерал, товарищ Верховный Главнокомандующий. К Президенту России так можно, а ко мне — нельзя. Тридцать пять лет я не позволяю никому пачкать меня этим партийным словом. В 20-е годы ни коммунисты, ни комсомольцы не называли "товарищами" ни офицеров, ни нэпманов, ни священнослужителей.
+По сей день слово «товарищ» остается официальным обращением в нашей армии. И не только в армии. Товарищ капитан, товарищ майор, товарищ генерал, товарищ Верховный Главнокомандующий. К Президенту России так можно, а ко мне — нельзя. Тридцать пять лет я не позволяю никому пачкать меня этим партийным словом. В 20-е годы ни коммунисты, ни комсомольцы не называли «товарищами» ни офицеров, ни нэпманов, ни священнослужителей.
 
-В начале 80-х Совет по делам религии при Совете министров СССР официально разъяснил, что священнослужители — единственная группа граждан СССР (не считая зэков), которым не следует говорить или писать "товарищ имярек", к ним обращаются "служителю культа Иванову" и т.п.
+В начале 80-х Совет по делам религии при Совете министров СССР официально разъяснил, что священнослужители — единственная группа граждан СССР (не считая зэков), которым не следует говорить или писать «товарищ имярек», к ним обращаются «служителю культа Иванову» и т.п.
 
 Впрочем, гитлеровский Третий Рейх знал и Красное Знамя, и обращение parteigenosse...
 
@@ -45,8 +44,8 @@ to be continued...
 <div class="comments-list" style="margin-top: 1.5rem;">
 <article class="comment-entry" id="cmt-1" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">khebeb</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">May 16 2011, 07:33:45 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">khebeb</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">16 мая 2011, 07:33:45</time>
 </header>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
 армейский "товарищ" - это скорее немецкий Kamerad, нежели parteigenosse
@@ -54,8 +53,8 @@ to be continued...
 </article>
 <article class="comment-entry" id="cmt-2" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">oarer</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">May 31 2011, 18:56:15 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">oarer</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">31 мая 2011, 18:56:15</time>
 </header>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
 Начну с того - а существуют ли права человека?
@@ -67,8 +66,8 @@ to be continued...
 </article>
 <article class="comment-entry" id="cmt-3" style="margin-left: 1.5rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #fffbfb; border: 1px solid #e5e7eb; border-left: 4px solid #b91c1c; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #991b1b; font-size: 0.95rem;">g_edelstein</strong> <span style="font-size: 0.72rem; background: #fee2e2; color: #991b1b; padding: 2px 7px; border-radius: 4px; font-weight: 600; margin-left: 6px;">автор</span>
-<time style="color: #9ca3af; font-size: 0.8rem;">June 9 2011, 05:17:30 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">g_edelstein</strong> <span class="font-sans-ui" style="font-family: \'Inter\', system-ui, sans-serif; font-size: 0.7rem; background: #ecfdf5; color: #065f46; border: 1px solid #a7f3d0; padding: 2px 7px; border-radius: 9999px; font-weight: 600; margin-left: 6px; letter-spacing: 0.02em;">автор</span>
+<time style="color: #9ca3af; font-size: 0.8rem;">9 июня 2011, 05:17:30</time>
 </header>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
 Я не могу полемизировать с автором из "The Guardian" просто потому, что у нас нет основы для полемики. Когда-то Н.С. Трубецкой писал, что нельзя сравнивать чернильницу и свободу воли просто потому, что нет оснований для сравнения. 
@@ -82,8 +81,8 @@ to be continued...
 </article>
 <article class="comment-entry" id="cmt-4" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #fffbfb; border: 1px solid #e5e7eb; border-left: 4px solid #b91c1c; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #991b1b; font-size: 0.95rem;">g_edelstein</strong> <span style="font-size: 0.72rem; background: #fee2e2; color: #991b1b; padding: 2px 7px; border-radius: 4px; font-weight: 600; margin-left: 6px;">автор</span>
-<time style="color: #9ca3af; font-size: 0.8rem;">June 9 2011, 05:18:27 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">g_edelstein</strong> <span class="font-sans-ui" style="font-family: \'Inter\', system-ui, sans-serif; font-size: 0.7rem; background: #ecfdf5; color: #065f46; border: 1px solid #a7f3d0; padding: 2px 7px; border-radius: 9999px; font-weight: 600; margin-left: 6px; letter-spacing: 0.02em;">автор</span>
+<time style="color: #9ca3af; font-size: 0.8rem;">9 июня 2011, 05:18:27</time>
 </header>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
 Я имею фундаментальное право, чтобы меня никто не принимал за коммуниста или за фашиста. Это моё право. Но есть тысячи и миллионы людей, которые скажут, что у меня такого права нет. У них свои права. Например, право поставить посреди города статую Ленина, или Сталина, или Гитлера, если мне не нравится - я могу мимо этой статуи не ходить, а в центре Москвы будет статуя Гитлера. По-моему, это уже не вопрос христианства вообще. 
@@ -97,8 +96,8 @@ to be continued...
 </article>
 <article class="comment-entry" id="cmt-5" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">oarer</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">June 9 2011, 05:34:24 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">oarer</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">9 июня 2011, 05:34:24</time>
 </header>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
 Вот вы говорите, Библия - это Слово Божие. Сослались бы на Библию: что говорит Слово Божие о правах человека. 
@@ -106,8 +105,8 @@ to be continued...
 </article>
 <article class="comment-entry" id="cmt-6" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">oarer</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">June 9 2011, 05:57:09 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">oarer</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">9 июня 2011, 05:57:09</time>
 </header>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
 P. S. А то, что "права Человека - это тоже закон", это вы уж слишком далеко метнули. Это вопрос соглашения.

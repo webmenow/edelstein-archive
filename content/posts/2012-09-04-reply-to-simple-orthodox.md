@@ -1,5 +1,4 @@
----
-aliases:
+---aliases:
 - /7396.html
 date: '2012-09-04T21:56:00'
 id: 7396
@@ -12,12 +11,12 @@ tags:
 - Православие
 - Церковная история
 - Публицистика
-title: Читая комментарии - 2. Ответ "простому православному"
+title: "Читая комментарии - 2. Ответ «простому православному»"
 ---
 
-<div><span style="font-size:large;">Уважаемый господин "простой православный". Полностью согласен со всем что Вы пишете обо мне. Согласен с каждым словом. Беда лишь в том, что мы договорились приводить факты а вы пишите: "Многое из того".
+<div>Уважаемый господин «простой православный». Полностью согласен со всем что Вы пишете обо мне. Согласен с каждым словом. Беда лишь в том, что мы договорились приводить факты а вы пишите: «Многое из того».
 
-Что в моём письме кажется Вам сомнительным? Сомнительными фактами я не оперирую никогда. Если Вы сомневаетесь, что Архиерейский собор состоялся в июле 1961 года, загляните в любой справочник. Если Вы сомневаетесь, что доклад делал митрополит Пимен, почитайте стенографический отчет или ЖМП. Если сомневаетесь, что тот собор был губительным для Русской Православной Церкви, почитайте интервью ныне здравствующего Патриарха.</span></div><div><span style="font-size:large;">Вы пишете каждый раз, что Патриарха критиковать нельзя. А Константинопольского Патриарха можно? Александрийского? Антиохийского? Митрополита Ленинградского можно? А Чукотского епископа? А благочинного? А настоятеля? Мы веруем в Бога Отца, Бога Сына, Бога Духа Святого. Мы веруем во Едину, Святую, Соборную и Апостольскую Церковь. Мы не исповедуем догмат о чьей-либо непогрешимости. Мы не веруем ни в Патриарха, ни в настоятеля кафедрального собора.</span></div><div><span style="font-size:large;">Убедительно прошу Вас избрать любого из четырёх советских Патриархов и перечислить их заслуги перед Православной Российской Церковью. Пишите о Синоде, пишите об Архиерейских соборах. Не надо писать обо мне. Не надо писать о Якове Кротове, не надо писать о насекомых и шлюхах. Это никому не интересно. Интересны факты, факты и факты.</span></div><div><span style="font-size:large;">Например:</span></div><div><span style="font-size:large;">В 1987 году в журнале "Гласность" номер 13 были напечатаны доносы наших архиереев, Пимена и Алексия, будущих Патриархов, друг на друга и на других собратьев. Я попросил у редактора "Гласности" Сергея Ивановича Григорянца один сигнальный экземпляр журнала и отвёз его в Чистый переулок Управляющему делами МП митрополиту Владимиру (Сободану). Я заверил митрополита, что в журнале будут опубликованы любые комментарии, любые опровержения без каких-либо изменений. Потом ежедневно приезжал до начала рабочего дня и ждал митрополита. Он благословлял меня, улыбался и уходил в свой кабинет, не говоря ни слова. Я ждал 15-20 минут и тоже уходил. Через 10 дней появился весь тираж. Если пожелаете, могу опубликовать в нашем ЖЖ эти омерзительные, грязные доносы. Я никого не ругаю и не хулю. Эти документы позорят любого православного, в первую очередь - епископа.</span></div>
+Что в моём письме кажется Вам сомнительным? Сомнительными фактами я не оперирую никогда. Если Вы сомневаетесь, что Архиерейский собор состоялся в июле 1961 года, загляните в любой справочник. Если Вы сомневаетесь, что доклад делал митрополит Пимен, почитайте стенографический отчет или ЖМП. Если сомневаетесь, что тот собор был губительным для Русской Православной Церкви, почитайте интервью ныне здравствующего Патриарха.</div><div>Вы пишете каждый раз, что Патриарха критиковать нельзя. А Константинопольского Патриарха можно? Александрийского? Антиохийского? Митрополита Ленинградского можно? А Чукотского епископа? А благочинного? А настоятеля? Мы веруем в Бога Отца, Бога Сына, Бога Духа Святого. Мы веруем во Едину, Святую, Соборную и Апостольскую Церковь. Мы не исповедуем догмат о чьей-либо непогрешимости. Мы не веруем ни в Патриарха, ни в настоятеля кафедрального собора.</div><div>Убедительно прошу Вас избрать любого из четырёх советских Патриархов и перечислить их заслуги перед Православной Российской Церковью. Пишите о Синоде, пишите об Архиерейских соборах. Не надо писать обо мне. Не надо писать о Якове Кротове, не надо писать о насекомых и шлюхах. Это никому не интересно. Интересны факты, факты и факты.</div><div>Например:</div><div>В 1987 году в журнале «Гласность» номер 13 были напечатаны доносы наших архиереев, Пимена и Алексия, будущих Патриархов, друг на друга и на других собратьев. Я попросил у редактора «Гласности» Сергея Ивановича Григорянца один сигнальный экземпляр журнала и отвёз его в Чистый переулок Управляющему делами МП митрополиту Владимиру (Сободану). Я заверил митрополита, что в журнале будут опубликованы любые комментарии, любые опровержения без каких-либо изменений. Потом ежедневно приезжал до начала рабочего дня и ждал митрополита. Он благословлял меня, улыбался и уходил в свой кабинет, не говоря ни слова. Я ждал 15-20 минут и тоже уходил. Через 10 дней появился весь тираж. Если пожелаете, могу опубликовать в нашем ЖЖ эти омерзительные, грязные доносы. Я никого не ругаю и не хулю. Эти документы позорят любого православного, в первую очередь - епископа.</div>
 
 <section class="lj-comments-archive" style="margin-top: 3.5rem; border-top: 2px solid #e5e7eb; padding-top: 2rem;">
 <details style="background: #f9fafb; border: 1px solid #e5e7eb; border-radius: 8px; padding: 1.25rem 1.5rem;">
@@ -25,8 +24,8 @@ title: Читая комментарии - 2. Ответ "простому пр�
 <div class="comments-list" style="margin-top: 1.5rem;">
 <article class="comment-entry" id="cmt-1" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">infin56</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">September 4 2012, 18:24:44 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">infin56</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">4 сентября 2012, 18:24:44</time>
 </header>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
 Я читал эти доносы...Но и другие доносы других священников...мерзость...
@@ -34,8 +33,8 @@ title: Читая комментарии - 2. Ответ "простому пр�
 </article>
 <article class="comment-entry" id="cmt-2" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">khebeb</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">September 4 2012, 18:30:22 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">khebeb</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">4 сентября 2012, 18:30:22</time>
 </header>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
 Если пожелаете, могу опубликовать в нашем ЖЖ - а и вправду, опубликуйте. "Гласность" тех времен едва ли в библиотеках сыщется (мб в Историчке в коллекции самиздата, да и то не факт)
@@ -43,8 +42,8 @@ title: Читая комментарии - 2. Ответ "простому пр�
 </article>
 <article class="comment-entry" id="cmt-3" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">victor_vlad</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">September 4 2012, 19:05:48 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">victor_vlad</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">4 сентября 2012, 19:05:48</time>
 </header>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
 Журнал "Гластность" 1987 г. уже давно большая редкость. Сразу поискал его в интернете и этого номера не нашел. На сайте у Григорянца есть один номер 1988 г. Будьте добры, опубликуйте.
@@ -52,8 +51,8 @@ title: Читая комментарии - 2. Ответ "простому пр�
 </article>
 <article class="comment-entry" id="cmt-4" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">valentincehov</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">September 5 2012, 05:55:51 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">valentincehov</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">5 сентября 2012, 05:55:51</time>
 </header>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
 Раз завели разговор о библиографическо редкой Гласности то уж познакомьте пожалуйста чтобы факты не казались сомнительными.
@@ -61,8 +60,8 @@ title: Читая комментарии - 2. Ответ "простому пр�
 </article>
 <article class="comment-entry" id="cmt-5" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">khebeb</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">September 5 2012, 06:07:41 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">khebeb</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">5 сентября 2012, 06:07:41</time>
 </header>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
 для коллекции:

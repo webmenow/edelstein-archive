@@ -1,5 +1,4 @@
----
-aliases:
+---aliases:
 - /22397.html
 date: '2024-02-06T13:48:00'
 id: 22397
@@ -13,7 +12,7 @@ tags:
 - Война и мир
 - Публицистика
 - РПЦ
-title: Stand up and take the war. The Hun is at the gate! (R. Kipling)
+title: "Stand up and take the war. The hun is at the gate! (R. Kipling)"
 ---
 
 <p>Многие мои друзья сегодня спорят на тему: «христианство и война», церковь и война», «мы, священнослужители и война». Я не согласен почти со всеми из них. </p>
@@ -32,8 +31,8 @@ title: Stand up and take the war. The Hun is at the gate! (R. Kipling)
 <div class="comments-list" style="margin-top: 1.5rem;">
 <article class="comment-entry" id="cmt-1" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">vladianna1</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">February 10 2024, 16:53:54 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">vladianna1</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">10 февраля 2024, 16:53:54</time>
 </header>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
 Татьяна Борисовна Волинам-дочь Бориса Павловича Волина ,который восстанавливал храм в Карабаново ,она же  внучка Павла Волина ,который разрушил этот храм ,умерла в прошлом году через ,три месяца после смерти матери (жены Бориса Павловича Волина). Хорошая была женщина ,она очень болела ,но помогала (деньгами)восстанавливать заброшенные родственниками могилы актёров .Вместе с ней мы ухаживали за могилой актера Валентина Ивановича Зубкова .Сделали на его дом памятную табличку (она провисела не долго ,кто-то её сорвал).

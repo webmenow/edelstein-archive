@@ -1,5 +1,4 @@
----
-aliases:
+---aliases:
 - /6976.html
 date: '2012-09-01T19:55:00'
 id: 6976
@@ -12,11 +11,11 @@ tags:
 - Православие
 - Церковная история
 - Публицистика
-title: Facts sacred, interpretation free. Читая комментарии
+title: "Facts sacred, interpretation free. Читая комментарии"
 ---
 
-<p></p><p><span style="font-size:16.0pt;">0. К сведению сомневающихся. Я – священник РПЦ МП,  рукоположен архиепископом Хризостомом в 1979 году. Ни в какие расколы не уклонялся,  к любым юрисдикциям и индепенденствам всегда относился крайне отрицательно.</span></p><p></p><p><span style="font-size:16.0pt;">1. Уважаемый господин оппонент </span><span style="font-size:16.0pt;">pvn</span><span style="font-size:16.0pt;">123, я написал для ЖЖ несколько фрагментарных заметок о двух статьях в Независимой газете. Одна статья о покойном патриархе Алек</span><span style="font-size:16.0pt;">c</span><span style="font-size:16.0pt;">ии </span><span style="font-size:16.0pt;">II</span><span style="font-size:16.0pt;"> (Ридигере), другая – о неведомом миру «Ордынском синдроме РПЦ». </span></p><p>        </p><p><span style="font-size:16.0pt;">Вы отворили форточку и крикнули:</span></p><p></p><p><span style="font-size:16.0pt;">А. «Есть такое насекомое ихневмон, которое откладывает яйца в тело другого насекомого, и жертва погибает в страшных муках». </span></p><p></p><p><span style="font-size:16.0pt;">- Безусловно, согласен с Вами и с </span><span style="font-size:16.0pt;">Wikipedia</span> <span style="font-size:16.0pt;">. Такое насекомое есть.</span></p><p></p><p><span style="font-size:16.0pt;">Б. «Внутренний враг намного страшнее внешнего». </span></p><p></p><p><span style="font-size:16.0pt;">– Абсолютно согласен. Во сто крат страшнее.</span></p><p></p><p><span style="font-size:16.0pt;">В. «Есть матери – шлюхи, у которых родятся поскудные, скаредные, неблагодарные дети». </span></p><p></p><p><span style="font-size:16.0pt;">– Конечно есть.</span></p><p></p><p><span style="font-size:16.0pt;">Г. «Яков Кротов – дурак в рясе, мелет на телевидении всякий вздор, поэтому и все вы – дураки» </span></p><p></p><p><span style="font-size:16.0pt;">- Не знаю. Кротова нигокда не слышал, но в справедливости Вашего силогизма сомневаюсь.</span></p><p></p><p><span style="font-size:16.0pt;">Мне кажется, что все написанное Вами не имеет ничего общего ни со статьями в Новой газете, ни с моей репликой на них. Вы хотите обсуждать только Вашу статью, и только себя – любимого. Извольте. Главный недостаток вашей статьи – в ней нет ни одного факта. Если фактов нет, полемизировать невозможно. Вы желаете воспеть Великое Словословие в честь любого из четырех покойных советских Патриархов ( Сергия, Алексия, Пимена, Алексия </span><span style="font-size:16.0pt;">II</span><span style="font-size:16.0pt;">) – пойте. </span></p><p></p><p><span style="font-size:16.0pt;">Вы желаете сочинить хвалебную оду в честь деяний Священных Синодов любого созыва, от сергианского 1927 года до нынешнего – извольте. Хотите восхвалить деяния любого Поместного (1943, 1945, 1971, 1988, 1990...) или любого Архиерейского собора РПЦ МП ? Дерзайте, цитируйте, пойте! В Вашем распоряжении все стенографические отчеты.</span></p><p></p><p><span style="font-size:16.0pt;">Не забудьте восхвалить деяния Архиерейского Собора 1961 года. Он состоялся в день памяти преподобного Сергия Радонежского, игумена земли Российской. Тот собор в Троице-Сергиевой Лавре был поруганием памяти святого.</span></p><p></p><p><span style="font-size:16.0pt;">Деяния того разбойничьего собора позволили в ближайшие несколько лет закрыть и испоганить не менее семи тысяч православных церквей, практически каждый второй храм на Руси закрывали ведь не Хрущов, Суслов, Ильичев или Куроедов. <b><u>Закрывали наши архиереи.</u></b> Председательствовал на том соборе 1961 года Его Святейшество Алексий </span><span style="font-size:16.0pt;">I</span><span style="font-size:16.0pt;"> (Симанский). Доклад о необходимости гнать в шею всех попов из церковных советов,  передать всю власть в церкви в руки мирян, сделать всех пастырей наемниками – этот доклад на соборе был прочитан Высокопреосвященным Пименом (Извековым), будущим Патриархом. Решение принято единогласно. Напомню: архиепископ Ермоген в Лавру приехал, но собратья не допустили его на заседание. </span></p><p></p><p><span style="font-size:16.0pt;">Прошло 10 лет. Поместный собор РПЦ МП избирает в 1971 году нового Патриарха. Председательствует на соборе митрополит Никодим (Ротов), духовный отец и любимый учитель ныне здравствующего Патриарха. Никодим не позволил никому сказать хоть слово в осуждение деяний антиканоничного собора 1961 года. Поэтому безбожники - старосты продолжали грабить и пакостить наши православные храмы еще 17 лет.</span></p><p></p><p><span style="font-size:16.0pt;">Вот деяния одного архиерейского и одного поместного собора. Я уверен в том, что говорю и пишу, на 100 %. Эти сведения я почерпнул не из </span><span style="font-size:16.0pt;">Wikipedia</span><span style="font-size:16.0pt;">, но из стенографических отчетов. </span></p><p></p><p><span style="font-size:16.0pt;">Кому из Отцов тех двух соборов благословите воспеть осанну? С полной ответственностью за свои слова утверждаю,  что большинство делегатов тех двух соборов сознательно или безсознательно разрушали Церковь, были врагами Церкви. </span></p><p></p><p><span style="font-size:16.0pt;">Хотите обратиться к материалам любых других соборов? Извольте. Я готов выслушать Вас. Не надо риторики, цитируйте факты. </span></p><p></p><p><span style="font-size:16.0pt;">Все, что я говорю и пишу все годы священства легко изложить на одной странице. Я утверждаю, что мы должны идти по путям, которые были указаны Поместным Собором 1917 – 1918 годов. Наши иерархи преступно отвергли тот Собор. Прежде говорили, что нам коммунисты не разрешают. Но кто запрещает сегодня? </span></p><p>        </p><p><span style="font-size:16.0pt;">Я утверждаю, что мы должны идти по пути, указанному нам соловецкими епископами-исповедниками, но наши иерархи отвергли тот путь. Надеюсь, вы не назовете соловецких епископов блудными детьми какой-то шлюхи?</span></p><p>        </p><p><span style="font-size:16.0pt;">Я утверждаю, что в полемике между митрополитом Сергием и митрополитом Кириллом прав был Кирилл, а Сергий лгал (простите, сознательно ошибался.) Прав был и профессор – Протоиерей Верюжский, и многие другие антисергианцы, а митрополит Сергий -  не прав. С 1927 по 1944 годы он неизменно сознательно ошибался. Вы скажете, что своей ложью он спасал Церковь, а я скажу, что любая ложь – от дьявола. Он – отец всякой лжи. Спасать Церковь дьявольскими методами невозможно. </span></p><p>        </p><p><span style="font-size:16.0pt;">Я утверждаю, что РПЦ МП должна идти по пути, указанному архиепископом-исповедником Ермогеном (Голубевым). Жаль, его труды по сей день не собраны и не изданы, ибо его главными гонителями были не КГБ,  и не ЦК КПСС, а наши иерархи – все те же – Алексий (Ридигер) и Пимен (Извеков).</span></p><p></p><p><span style="font-size:16.0pt;">Я утверждаю, что давно пора пречислить к лику святых не только Отцов поместного собора 1917 – 1918 годов, соловецких епископов, но и мученника Бориса Талантова, который , по вашим словам, уважаемый господин оппонент, был врагом Церкви, ибо писал, что Пимен, Алексий, Никодим – безбожники, сообщники руководителей КПСС в их нечестии.</span></p><p></p><p><span style="font-size:16.0pt;">Я никогда ничего не говорю от себя. Я в десятый, в двадцатый раз повторяю то, что было сказано задолго до меня. Простите, что напоминаю еще раз.</span></p><p></p><p><span style="font-size:16.0pt;">Я не намерен никого ругать или критиковать. Я исповедую верность идеалам тех иерархов, которых я перечислил.</span></p><p></p><p><span style="font-size:16.0pt;">P</span><span style="font-size:16.0pt;">.</span><span style="font-size:16.0pt;">S</span><span style="font-size:16.0pt;">. Прошу прощения у всех, кто посещает наш ЖЖ:</span>
-<span style="font-family: Arial, Tahoma, Verdana, sans-serif; font-size: 20.909090042114258px; line-height: normal; background-color: rgb(255, 255, 255); ">Я умею писать только ручкой по бумаге. Мне приходится просить друзей перевести мои каракули в интернет. Поэтому опаздываю с ответами. </span><br style="color: rgb(0, 128, 128); font-family: Arial, Tahoma, Verdana, sans-serif; font-size: 20.909090042114258px; line-height: normal; background-color: rgb(255, 255, 255); "/></p>
+<p></p><p>0. К сведению сомневающихся. Я – священник РПЦ МП,  рукоположен архиепископом Хризостомом в 1979 году. Ни в какие расколы не уклонялся,  к любым юрисдикциям и индепенденствам всегда относился крайне отрицательно.</p><p></p><p>1. Уважаемый господин оппонент pvn123, я написал для ЖЖ несколько фрагментарных заметок о двух статьях в Независимой газете. Одна статья о покойном патриархе Алекcии II (Ридигере), другая – о неведомом миру «Ордынском синдроме РПЦ». </p><p>        </p><p>Вы отворили форточку и крикнули:</p><p></p><p>А. «Есть такое насекомое ихневмон, которое откладывает яйца в тело другого насекомого, и жертва погибает в страшных муках». </p><p></p><p>- Безусловно, согласен с Вами и с Wikipedia . Такое насекомое есть.</p><p></p><p>Б. «Внутренний враг намного страшнее внешнего». </p><p></p><p>– Абсолютно согласен. Во сто крат страшнее.</p><p></p><p>В. «Есть матери – шлюхи, у которых родятся поскудные, скаредные, неблагодарные дети». </p><p></p><p>– Конечно есть.</p><p></p><p>Г. «Яков Кротов – дурак в рясе, мелет на телевидении всякий вздор, поэтому и все вы – дураки» </p><p></p><p>- Не знаю. Кротова нигокда не слышал, но в справедливости Вашего силогизма сомневаюсь.</p><p></p><p>Мне кажется, что все написанное Вами не имеет ничего общего ни со статьями в Новой газете, ни с моей репликой на них. Вы хотите обсуждать только Вашу статью, и только себя – любимого. Извольте. Главный недостаток вашей статьи – в ней нет ни одного факта. Если фактов нет, полемизировать невозможно. Вы желаете воспеть Великое Словословие в честь любого из четырех покойных советских Патриархов ( Сергия, Алексия, Пимена, Алексия II) – пойте. </p><p></p><p>Вы желаете сочинить хвалебную оду в честь деяний Священных Синодов любого созыва, от сергианского 1927 года до нынешнего – извольте. Хотите восхвалить деяния любого Поместного (1943, 1945, 1971, 1988, 1990...) или любого Архиерейского собора РПЦ МП ? Дерзайте, цитируйте, пойте! В Вашем распоряжении все стенографические отчеты.</p><p></p><p>Не забудьте восхвалить деяния Архиерейского Собора 1961 года. Он состоялся в день памяти преподобного Сергия Радонежского, игумен а земли Российской. Тот собор в Троице-Сергиевой Лавре был поруганием памяти святого.</p><p></p><p>Деяния того разбойничьего собора позволили в ближайшие несколько лет закрыть и испоганить не менее семи тысяч православных церквей, практически каждый второй храм на Руси закрывали ведь не Хрущов, Суслов, Ильичев или Куроедов. <b><u>Закрывали наши архиереи.</u></b> Председательствовал на том соборе 1961 года Его Святейшество Алексий I (Симанский). Доклад о необходимости гнать в шею всех попов из церковных советов,  передать всю власть в церкви в руки мирян, сделать всех пастырей наемниками – этот доклад на соборе был прочитан Высокопреосвященным Пименом (Извековым), будущим Патриархом. Решение принято единогласно. Напомню: архиепископ Ермоген в Лавру приехал, но собратья не допустили его на заседание. </p><p></p><p>Прошло 10 лет. Поместный собор РПЦ МП избирает в 1971 году нового Патриарха. Председательствует на соборе митрополит Никодим (Ротов), духовный отец и любимый учитель ныне здравствующего Патриарха. Никодим не позволил никому сказать хоть слово в осуждение деяний антиканоничного собора 1961 года. Поэтому безбожники - старосты продолжали грабить и пакостить наши православные храмы еще 17 лет.</p><p></p><p>Вот деяния одного архиерейского и одного поместного собора. Я уверен в том, что говорю и пишу, на 100 %. Эти сведения я почерпнул не из Wikipedia, но из стенографических отчетов. </p><p></p><p>Кому из Отцов тех двух соборов благословите воспеть осанну? С полной ответственностью за свои слова утверждаю,  что большинство делегатов тех двух соборов сознательно или безсознательно разрушали Церковь, были врагами Церкви. </p><p></p><p>Хотите обратиться к материалам любых других соборов? Извольте. Я готов выслушать Вас. Не надо риторики, цитируйте факты. </p><p></p><p>Все, что я говорю и пишу все годы священства легко изложить на одной странице. Я утверждаю, что мы должны идти по путям, которые были указаны Поместным Собором 1917 – 1918 годов. Наши иерархи преступно отвергли тот Собор. Прежде говорили, что нам коммунисты не разрешают. Но кто запрещает сегодня? </p><p>        </p><p>Я утверждаю, что мы должны идти по пути, указанному нам соловецкими епископами-исповедниками, но наши иерархи отвергли тот путь. Надеюсь, вы не назовете соловецких епископов блудными детьми какой-то шлюхи?</p><p>        </p><p>Я утверждаю, что в полемике между митрополитом Сергием и митрополитом Кириллом прав был Кирилл, а Сергий лгал (простите, сознательно ошибался.) Прав был и профессор – Протоиерей Верюжский, и многие другие антисергианцы, а митрополит Сергий -  не прав. С 1927 по 1944 годы он неизменно сознательно ошибался. Вы скажете, что своей ложью он спасал Церковь, а я скажу, что любая ложь – от дьявола. Он – отец всякой лжи. Спасать Церковь дьявольскими методами невозможно. </p><p>        </p><p>Я утверждаю, что РПЦ МП должна идти по пути, указанному архиепископом-исповедником Ермогеном (Голубевым). Жаль, его труды по сей день не собраны и не изданы, ибо его главными гонителями были не КГБ,  и не ЦК КПСС, а наши иерархи – все те же – Алексий (Ридигер) и Пимен (Извеков).</p><p></p><p>Я утверждаю, что давно пора пречислить к лику святых не только Отцов поместного собора 1917 – 1918 годов, соловецких епископов, но и мученника Бориса Талантова, который , по вашим словам, уважаемый господин оппонент, был врагом Церкви, ибо писал, что Пимен, Алексий, Никодим – безбожники, сообщники руководителей КПСС в их нечестии.</p><p></p><p>Я никогда ничего не говорю от себя. Я в десятый, в двадцатый раз повторяю то, что было сказано задолго до меня. Простите, что напоминаю еще раз.</p><p></p><p>Я не намерен никого ругать или критиковать. Я исповедую верность идеалам тех иерархов, которых я перечислил.</p><p></p><p>P.S. Прошу прощения у всех, кто посещает наш ЖЖ:
+Я умею писать только ручкой по бумаге. Мне приходится просить друзей перевести мои каракули в интернет. Поэтому опаздываю с ответами. <br/></p>
 
 <section class="lj-comments-archive" style="margin-top: 3.5rem; border-top: 2px solid #e5e7eb; padding-top: 2rem;">
 <details style="background: #f9fafb; border: 1px solid #e5e7eb; border-radius: 8px; padding: 1.25rem 1.5rem;">
@@ -24,8 +23,8 @@ title: Facts sacred, interpretation free. Читая комментарии
 <div class="comments-list" style="margin-top: 1.5rem;">
 <article class="comment-entry" id="cmt-1" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">pvn123</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">September 2 2012, 11:02:36 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">pvn123</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">2 сентября 2012, 11:02:36</time>
 </header>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
 Я - простой православный РПЦ МП. 
@@ -50,8 +49,8 @@ title: Facts sacred, interpretation free. Читая комментарии
 </article>
 <article class="comment-entry" id="cmt-2" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">pravdoiskanie</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">September 2 2012, 13:05:28 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">pravdoiskanie</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">2 сентября 2012, 13:05:28</time>
 </header>
 <div style="font-weight: 600; font-size: 0.95rem; margin-bottom: 0.35rem; color: #1f2937;">Разве отрицательное качество в РПЦ - обличение</div>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
@@ -60,8 +59,8 @@ title: Facts sacred, interpretation free. Читая комментарии
 </article>
 <article class="comment-entry" id="cmt-3" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">ant_trans</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">September 2 2012, 14:25:58 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">ant_trans</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">2 сентября 2012, 14:25:58</time>
 </header>
 <div style="font-weight: 600; font-size: 0.95rem; margin-bottom: 0.35rem; color: #1f2937;">Бог в помощь!</div>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
@@ -72,8 +71,8 @@ title: Facts sacred, interpretation free. Читая комментарии
 </article>
 <article class="comment-entry" id="cmt-4" style="margin-left: 1.5rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">pvn123</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">September 4 2012, 18:38:47 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">pvn123</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">4 сентября 2012, 18:38:47</time>
 </header>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
 &gt; Ваш оппонент просто не в состоянии Вас понять, увы. 
@@ -84,8 +83,8 @@ title: Facts sacred, interpretation free. Читая комментарии
 </article>
 <article class="comment-entry" id="cmt-5" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">el_procurador</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">September 2 2012, 17:11:00 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">el_procurador</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">2 сентября 2012, 17:11:00</time>
 </header>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
 Храни Вас Господь, отец Георгий! 
@@ -94,8 +93,8 @@ title: Facts sacred, interpretation free. Читая комментарии
 </article>
 <article class="comment-entry" id="cmt-6" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #fffbfb; border: 1px solid #e5e7eb; border-left: 4px solid #b91c1c; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #991b1b; font-size: 0.95rem;">g_edelstein</strong> <span style="font-size: 0.72rem; background: #fee2e2; color: #991b1b; padding: 2px 7px; border-radius: 4px; font-weight: 600; margin-left: 6px;">автор</span>
-<time style="color: #9ca3af; font-size: 0.8rem;">September 4 2012, 17:57:01 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">g_edelstein</strong> <span class="font-sans-ui" style="font-family: \'Inter\', system-ui, sans-serif; font-size: 0.7rem; background: #ecfdf5; color: #065f46; border: 1px solid #a7f3d0; padding: 2px 7px; border-radius: 9999px; font-weight: 600; margin-left: 6px; letter-spacing: 0.02em;">автор</span>
+<time style="color: #9ca3af; font-size: 0.8rem;">4 сентября 2012, 17:57:01</time>
 </header>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
 <a href='http://g-edelstein.livejournal.com/7396.html'>http://g-edelstein.livejournal.com/7396.html</a>
@@ -103,8 +102,8 @@ title: Facts sacred, interpretation free. Читая комментарии
 </article>
 <article class="comment-entry" id="cmt-7" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">priest_ali</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">September 4 2012, 20:50:23 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">priest_ali</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">4 сентября 2012, 20:50:23</time>
 </header>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
 Пара вопросов:
@@ -114,8 +113,8 @@ title: Facts sacred, interpretation free. Читая комментарии
 </article>
 <article class="comment-entry" id="cmt-8" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">pvn123</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">September 5 2012, 04:23:35 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">pvn123</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">5 сентября 2012, 04:23:35</time>
 </header>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
 На такие вопросы лучше отвечать вопросами:
@@ -130,8 +129,8 @@ title: Facts sacred, interpretation free. Читая комментарии
 </article>
 <article class="comment-entry" id="cmt-9" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">priest_ali</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">September 5 2012, 16:56:45 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">priest_ali</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">5 сентября 2012, 16:56:45</time>
 </header>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
 1. Определяют глаза. Оно на то белое и черное, что неслепой это хорошо различает и нечего ходить и кого-то спрашиват. А некоторые начинают размазывать: а может все-таки не черное, а такое серенькое, почти белое. Вообще же мы себя проверяем Евангелием и Св. Отцами. Ныне живущие к ним пока не относятся. 
@@ -141,8 +140,8 @@ title: Facts sacred, interpretation free. Читая комментарии
 </article>
 <article class="comment-entry" id="cmt-10" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">paterkonstantin</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">September 9 2012, 09:11:42 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">paterkonstantin</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">9 сентября 2012, 09:11:42</time>
 </header>
 <div style="font-weight: 600; font-size: 0.95rem; margin-bottom: 0.35rem; color: #1f2937;">Двойное благословение.</div>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
@@ -154,8 +153,8 @@ title: Facts sacred, interpretation free. Читая комментарии
 </article>
 <article class="comment-entry" id="cmt-11" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #fffbfb; border: 1px solid #e5e7eb; border-left: 4px solid #b91c1c; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #991b1b; font-size: 0.95rem;">g_edelstein</strong> <span style="font-size: 0.72rem; background: #fee2e2; color: #991b1b; padding: 2px 7px; border-radius: 4px; font-weight: 600; margin-left: 6px;">автор</span>
-<time style="color: #9ca3af; font-size: 0.8rem;">September 10 2012, 20:09:56 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">g_edelstein</strong> <span class="font-sans-ui" style="font-family: \'Inter\', system-ui, sans-serif; font-size: 0.7rem; background: #ecfdf5; color: #065f46; border: 1px solid #a7f3d0; padding: 2px 7px; border-radius: 9999px; font-weight: 600; margin-left: 6px; letter-spacing: 0.02em;">автор</span>
+<time style="color: #9ca3af; font-size: 0.8rem;">10 сентября 2012, 20:09:56</time>
 </header>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
 Дорогой отче,
@@ -171,8 +170,8 @@ title: Facts sacred, interpretation free. Читая комментарии
 </article>
 <article class="comment-entry" id="cmt-12" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">marina_cy</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">September 22 2012, 12:43:20 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">marina_cy</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">22 сентября 2012, 12:43:20</time>
 </header>
 <div style="font-weight: 600; font-size: 0.95rem; margin-bottom: 0.35rem; color: #1f2937;">Проверка зрения.</div>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
@@ -182,8 +181,8 @@ title: Facts sacred, interpretation free. Читая комментарии
 </article>
 <article class="comment-entry" id="cmt-13" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">pvn123</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">September 22 2012, 19:26:01 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">pvn123</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">22 сентября 2012, 19:26:01</time>
 </header>
 <div style="font-weight: 600; font-size: 0.95rem; margin-bottom: 0.35rem; color: #1f2937;">Re: Двойное благословение.</div>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
@@ -195,8 +194,8 @@ title: Facts sacred, interpretation free. Читая комментарии
 </article>
 <article class="comment-entry" id="cmt-14" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">ext_754383</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">February 26 2013, 11:39:22 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">ext_754383</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">26 февраля 2013, 11:39:22</time>
 </header>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
 Спасибо за вашу честную позицию!
@@ -204,8 +203,8 @@ title: Facts sacred, interpretation free. Читая комментарии
 </article>
 <article class="comment-entry" id="cmt-15" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">pvn123</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">June 2 2013, 21:02:50 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">pvn123</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">2 июня 2013, 21:02:50</time>
 </header>
 <div style="font-weight: 600; font-size: 0.95rem; margin-bottom: 0.35rem; color: #1f2937;">Re: Если это лично Вы определили - это Ваше мнение</div>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
@@ -217,8 +216,8 @@ title: Facts sacred, interpretation free. Читая комментарии
 </article>
 <article class="comment-entry" id="cmt-16" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">pvn123</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">June 2 2013, 22:37:21 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">pvn123</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">2 июня 2013, 22:37:21</time>
 </header>
 <div style="font-weight: 600; font-size: 0.95rem; margin-bottom: 0.35rem; color: #1f2937;">Re: Если это лично Вы определили - это Ваше мнение</div>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
@@ -234,8 +233,8 @@ title: Facts sacred, interpretation free. Читая комментарии
 </article>
 <article class="comment-entry" id="cmt-17" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">pvn123</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">June 3 2013, 07:23:59 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">pvn123</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">3 июня 2013, 07:23:59</time>
 </header>
 <div style="font-weight: 600; font-size: 0.95rem; margin-bottom: 0.35rem; color: #1f2937;">Re: Если это лично Вы определили - это Ваше мнение</div>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">

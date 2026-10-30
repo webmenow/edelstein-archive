@@ -1,5 +1,4 @@
----
-aliases:
+---aliases:
 - /29060.html
 date: '2026-03-21T19:50:00'
 id: 29060
@@ -12,14 +11,14 @@ tags:
 - Православие
 - Культура
 - Философия
-title: О цитировании Ницше, книгах и природе проповеди
+title: "О цитировании Ницше, книгах и природе проповеди"
 ---
 
 # 
 
 _March 21 2026, 19:50_
 
- <p><strong>Вопрос: Сколько раз Вы цитировали Ницше на проповеди и почему?</strong></p>
+<p><strong>Вопрос: Сколько раз Вы цитировали Ницше на проповеди и почему?</strong></p>
 <p><strong>Ответ:</strong></p>
 <p>Я думаю, я читал Ницше два или три года подряд. Просто потому, что я с ним почти ни в чём не согласен. И мне всегда приятно, радостно, интересно послушать своих оппонентов. Кроме того, Ницше был очень хорошо издан до революции. Я люблю читать полиграфически хорошо изданные книжки. Думаю, <a href="https://mikebrailowsky.livejournal.com/" target="_blank">Дима Браиловский</a> в этом отношении меня поддержит, одобрит.</p>
 <p>Я никогда в жизни не читал paperbacks – книги с отсутствующими полями, на плохой бумаге. Это презрение к Гутенбергу, презрение к Мандельштаму, Пастернаку, кому угодно. Плохо изданная книга – это Лизавета Смердящая, если вспомнить «Братьев Карамазовых»</p>
@@ -32,8 +31,8 @@ _March 21 2026, 19:50_
 <div class="comments-list" style="margin-top: 1.5rem;">
 <article class="comment-entry" id="cmt-1" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">n_ermak</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">March 21 2026, 17:04:27 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">n_ermak</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">21 марта 2026, 17:04:27</time>
 </header>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
 Что плохого в проповеди, отче?
@@ -41,8 +40,8 @@ _March 21 2026, 19:50_
 </article>
 <article class="comment-entry" id="cmt-2" style="margin-left: 1.5rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #fffbfb; border: 1px solid #e5e7eb; border-left: 4px solid #b91c1c; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #991b1b; font-size: 0.95rem;">g_edelstein</strong> <span style="font-size: 0.72rem; background: #fee2e2; color: #991b1b; padding: 2px 7px; border-radius: 4px; font-weight: 600; margin-left: 6px;">автор</span>
-<time style="color: #9ca3af; font-size: 0.8rem;">March 21 2026, 18:03:03 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">g_edelstein</strong> <span class="font-sans-ui" style="font-family: \'Inter\', system-ui, sans-serif; font-size: 0.7rem; background: #ecfdf5; color: #065f46; border: 1px solid #a7f3d0; padding: 2px 7px; border-radius: 9999px; font-weight: 600; margin-left: 6px; letter-spacing: 0.02em;">автор</span>
+<time style="color: #9ca3af; font-size: 0.8rem;">21 марта 2026, 18:03:03</time>
 </header>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
 <p>Совершенно ничего против проповеди не имею, просто люди, которые произносят проповеди — учат, а мне никогда не хотелось никого учить, воспитывать. Вот и всё.</p>
@@ -50,8 +49,8 @@ _March 21 2026, 19:50_
 </article>
 <article class="comment-entry" id="cmt-3" style="margin-left: 3.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">n_ermak</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">March 21 2026, 18:26:58 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">n_ermak</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">21 марта 2026, 18:26:58</time>
 </header>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
 <p><i>58-е апостольское правило прямо предписывает священнику учить благочестию
@@ -61,8 +60,8 @@ _March 21 2026, 19:50_
 </article>
 <article class="comment-entry" id="cmt-4" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #fffbfb; border: 1px solid #e5e7eb; border-left: 4px solid #b91c1c; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #991b1b; font-size: 0.95rem;">g_edelstein</strong> <span style="font-size: 0.72rem; background: #fee2e2; color: #991b1b; padding: 2px 7px; border-radius: 4px; font-weight: 600; margin-left: 6px;">автор</span>
-<time style="color: #9ca3af; font-size: 0.8rem;">March 22 2026, 10:59:14 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">g_edelstein</strong> <span class="font-sans-ui" style="font-family: \'Inter\', system-ui, sans-serif; font-size: 0.7rem; background: #ecfdf5; color: #065f46; border: 1px solid #a7f3d0; padding: 2px 7px; border-radius: 9999px; font-weight: 600; margin-left: 6px; letter-spacing: 0.02em;">автор</span>
+<time style="color: #9ca3af; font-size: 0.8rem;">22 марта 2026, 10:59:14</time>
 </header>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
 <p>Нужно чувствовать себя чуть-чуть выше обучаемого.</p>
@@ -71,8 +70,8 @@ _March 21 2026, 19:50_
 </article>
 <article class="comment-entry" id="cmt-5" style="margin-left: 1.5rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #fffbfb; border: 1px solid #e5e7eb; border-left: 4px solid #b91c1c; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #991b1b; font-size: 0.95rem;">g_edelstein</strong> <span style="font-size: 0.72rem; background: #fee2e2; color: #991b1b; padding: 2px 7px; border-radius: 4px; font-weight: 600; margin-left: 6px;">автор</span>
-<time style="color: #9ca3af; font-size: 0.8rem;">March 23 2026, 10:26:29 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">g_edelstein</strong> <span class="font-sans-ui" style="font-family: \'Inter\', system-ui, sans-serif; font-size: 0.7rem; background: #ecfdf5; color: #065f46; border: 1px solid #a7f3d0; padding: 2px 7px; border-radius: 9999px; font-weight: 600; margin-left: 6px; letter-spacing: 0.02em;">автор</span>
+<time style="color: #9ca3af; font-size: 0.8rem;">23 марта 2026, 10:26:29</time>
 </header>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
 <p>Я Ему бесконечно доверяю во всём без исключения. Вызывает сомнение только зерно горушечное, которое почему-то меньше всех других зёрен, из которого вырастает дерево.</p>
@@ -80,8 +79,8 @@ _March 21 2026, 19:50_
 </article>
 <article class="comment-entry" id="cmt-6" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">n_ermak</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">March 22 2026, 11:34:41 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">n_ermak</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">22 марта 2026, 11:34:41</time>
 </header>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
 <p>Удивили, отче.
@@ -91,8 +90,8 @@ _March 21 2026, 19:50_
 </article>
 <article class="comment-entry" id="cmt-7" style="margin-left: 1.5rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">n_ermak</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">March 24 2026, 07:39:25 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">n_ermak</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">24 марта 2026, 07:39:25</time>
 </header>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
 <p>Не уверен, что понял про зерно "горушечное". но не считаю возможным злоупотреблять Вашим вниманием, отче. Из общения с христианами, к коим я отношу и Вас, сделал вывод об удивительном разнообразии и даже уникальности каждой веры. О совершенном личном характере отношений со Христом сообразно своему характеру. Недаром у нас четыре Евангелия, как свидетельство 4х вер. Понятно, что если среди первых учеников они разные, то дальше это многообразие увеличивается многократно. 
@@ -102,8 +101,8 @@ _March 21 2026, 19:50_
 </article>
 <article class="comment-entry" id="cmt-8" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">mikebrailowsky</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">March 22 2026, 12:22:10 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">mikebrailowsky</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">22 марта 2026, 12:22:10</time>
 </header>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
 <p>Очень люблю хорошо изданные книжки. Особенно, если их написал о. Георгий!)</p>
@@ -111,8 +110,8 @@ _March 21 2026, 19:50_
 </article>
 <article class="comment-entry" id="cmt-9" style="margin-left: 1.5rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #fffbfb; border: 1px solid #e5e7eb; border-left: 4px solid #b91c1c; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #991b1b; font-size: 0.95rem;">g_edelstein</strong> <span style="font-size: 0.72rem; background: #fee2e2; color: #991b1b; padding: 2px 7px; border-radius: 4px; font-weight: 600; margin-left: 6px;">автор</span>
-<time style="color: #9ca3af; font-size: 0.8rem;">March 23 2026, 10:31:48 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">g_edelstein</strong> <span class="font-sans-ui" style="font-family: \'Inter\', system-ui, sans-serif; font-size: 0.7rem; background: #ecfdf5; color: #065f46; border: 1px solid #a7f3d0; padding: 2px 7px; border-radius: 9999px; font-weight: 600; margin-left: 6px; letter-spacing: 0.02em;">автор</span>
+<time style="color: #9ca3af; font-size: 0.8rem;">23 марта 2026, 10:31:48</time>
 </header>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
 <p>Особенно — исключается. Книжки издал не я, а Дима Браиловский. Хорошо издать можно и такой мусор как "Майн Кампф" или "Материализм и эмпириокритицизм".</p>

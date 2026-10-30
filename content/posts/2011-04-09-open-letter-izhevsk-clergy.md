@@ -1,5 +1,4 @@
----
-aliases:
+---aliases:
 - /680.html
 date: '2011-04-09T20:24:00'
 id: 680
@@ -12,7 +11,7 @@ tags:
 - Православие
 - Церковная жизнь
 - Публицистика
-title: '"Мир вам!" - Открытое письмо клирикам Ижевской и Удмуртской епархии'
+title: "«Мир вам!» - открытое письмо клирикам Ижевской и Удмуртской епархии"
 ---
 
 Дорогие собратья оо. Сергий, Михаил, Александр! Мир Вам! 
@@ -31,8 +30,8 @@ title: '"Мир вам!" - Открытое письмо клирикам Иже
 <div class="comments-list" style="margin-top: 1.5rem;">
 <article class="comment-entry" id="cmt-1" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">priest_mikhail</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">April 9 2011, 19:22:07 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">priest_mikhail</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">9 апреля 2011, 19:22:07</time>
 </header>
 <div style="font-weight: 600; font-size: 0.95rem; margin-bottom: 0.35rem; color: #1f2937;">Опять лукавство</div>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
@@ -42,8 +41,8 @@ title: '"Мир вам!" - Открытое письмо клирикам Иже
 </article>
 <article class="comment-entry" id="cmt-2" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #fffbfb; border: 1px solid #e5e7eb; border-left: 4px solid #b91c1c; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #991b1b; font-size: 0.95rem;">g_edelstein</strong> <span style="font-size: 0.72rem; background: #fee2e2; color: #991b1b; padding: 2px 7px; border-radius: 4px; font-weight: 600; margin-left: 6px;">автор</span>
-<time style="color: #9ca3af; font-size: 0.8rem;">April 10 2011, 09:00:05 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">g_edelstein</strong> <span class="font-sans-ui" style="font-family: \'Inter\', system-ui, sans-serif; font-size: 0.7rem; background: #ecfdf5; color: #065f46; border: 1px solid #a7f3d0; padding: 2px 7px; border-radius: 9999px; font-weight: 600; margin-left: 6px; letter-spacing: 0.02em;">автор</span>
+<time style="color: #9ca3af; font-size: 0.8rem;">10 апреля 2011, 09:00:05</time>
 </header>
 <div style="font-weight: 600; font-size: 0.95rem; margin-bottom: 0.35rem; color: #1f2937;">Re: Опять лукавство</div>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
@@ -59,8 +58,8 @@ title: '"Мир вам!" - Открытое письмо клирикам Иже
 </article>
 <article class="comment-entry" id="cmt-3" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">priest_mikhail</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">April 10 2011, 15:29:47 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">priest_mikhail</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">10 апреля 2011, 15:29:47</time>
 </header>
 <div style="font-weight: 600; font-size: 0.95rem; margin-bottom: 0.35rem; color: #1f2937;">Re: Опять лукавство</div>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
@@ -77,8 +76,8 @@ P.S. Благодарен Вам, что не обиделись на мой п�
 </article>
 <article class="comment-entry" id="cmt-4" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">zoyae</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">April 11 2011, 02:53:43 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">zoyae</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">11 апреля 2011, 02:53:43</time>
 </header>
 <div style="font-weight: 600; font-size: 0.95rem; margin-bottom: 0.35rem; color: #1f2937;">Re: Опять лукавство</div>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
@@ -89,8 +88,8 @@ P.S. Благодарен Вам, что не обиделись на мой п�
 </article>
 <article class="comment-entry" id="cmt-5" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">marina_cy</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">April 11 2011, 08:54:13 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">marina_cy</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">11 апреля 2011, 08:54:13</time>
 </header>
 <div style="font-weight: 600; font-size: 0.95rem; margin-bottom: 0.35rem; color: #1f2937;">Re: Опять лукавство</div>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
@@ -104,8 +103,8 @@ P.S. Благодарен Вам, что не обиделись на мой п�
 </article>
 <article class="comment-entry" id="cmt-6" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">priest_mikhail</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">April 12 2011, 12:29:20 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">priest_mikhail</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">12 апреля 2011, 12:29:20</time>
 </header>
 <div style="font-weight: 600; font-size: 0.95rem; margin-bottom: 0.35rem; color: #1f2937;">Re: Опять лукавство</div>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">

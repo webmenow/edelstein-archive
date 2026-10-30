@@ -1,5 +1,4 @@
----
-aliases:
+---aliases:
 - /18553.html
 date: '2022-02-13T20:50:00'
 id: 18553
@@ -13,7 +12,7 @@ tags:
 - История
 - Иван Ильин
 - Политика
-title: Читайте Ивана Александровича Ильина, господа
+title: "Читайте Ивана Александровича Ильина, господа"
 ---
 
 Моим учителем является русский мыслитель Иван Александрович Ильин. Он много раз писал, что ни в коем случае нельзя смешивать Россию и Совдепию. В октябре 1917 года Россия умерла, её заменила Совдепия. Сегодня гимном страны, в которой я живу, является гимн коммунистической партии большевиков. Музыка написана Александровым в 1938 году. В Москве на Красной площади лежит труп основателя Совдепии, рядом – Сталин, Свердлов, Дзержинский, Фрунзе и т.д. В Москве – Ленинский проспект, в Костроме – улица Ленина, в Костромском кремле – статуя Ленина, в нашем районном центре (пос. Красное). Улица Свердлова, памятник Свердлову. Наш президент – товарищ верховный главнокомандующий. Обращение к любому офицеру и генералу в армии, полиции, ФСБ – товарищ. Повторяю: это Совдепия. Если кто-то сомневается, пусть полемизирует с Иваном Александровичем Ильиным, а не со мной. Буду благодарен, если мне объяснят, когда Совдепия превратилась в Россию, какого числа, месяца и года.
@@ -24,8 +23,8 @@ title: Читайте Ивана Александровича Ильина, го
 <div class="comments-list" style="margin-top: 1.5rem;">
 <article class="comment-entry" id="cmt-1" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">rus51_888</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">February 14 2022, 05:59:10 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">rus51_888</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">14 февраля 2022, 05:59:10</time>
 </header>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
 Уже есть у нас один любитель Ильина. Не знаю - читал его или знаком в пересказе, но двадцатилетнее правление показало, что не в коня Ильин. А может, как раз, именно Ильин повлиял на его действия.
@@ -33,8 +32,8 @@ title: Читайте Ивана Александровича Ильина, го
 </article>
 <article class="comment-entry" id="cmt-2" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">feofan_feofanov</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">February 14 2022, 10:02:51 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">feofan_feofanov</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">14 февраля 2022, 10:02:51</time>
 </header>
 <div style="font-weight: 600; font-size: 0.95rem; margin-bottom: 0.35rem; color: #1f2937;">Ну Ильин - так Ильин. Цитирую:</div>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">

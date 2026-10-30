@@ -1,5 +1,4 @@
----
-aliases:
+---aliases:
 - /26711.html
 date: '2026-03-02T12:47:00'
 id: 26711
@@ -11,7 +10,7 @@ tags:
 - Церковная история
 - Воспоминания
 - Быт
-title: Про арабского скакуна
+title: "Про арабского скакуна"
 ---
 
 <p>Жена о. Николая Эшлимана Ира регулярно ходила на ипподром. И однажды она услышала, что там хотят зарезать скакуна хороших арабских кровей, потому что, не дождавшись правильных сроков, его напоили холодной водой и у него что-то случилось с лёгкими. Ира сказала, что она с удовольствием этого скакуна купит и заберёт домой. И эту лошадь – на вес, как скотину, как лошадиное мясо – им продали. И Ира ещё долго, больше 10 лет, каждое утро и каждый вечер на этом скакуне скакала в Новобутаково, может доезжала до Химок. О. Николай был человек робкий, и Ире не запрещал. Регулярно покупали грузовик овса в одном из соседних колхозов и очень много моркошки. Говорили, что ему нужен витамин, просто овсом кормить нельзя.</p>
@@ -22,8 +21,8 @@ title: Про арабского скакуна
 <div class="comments-list" style="margin-top: 1.5rem;">
 <article class="comment-entry" id="cmt-1" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">ivanskvor</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">March 2 2026, 21:19:10 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">ivanskvor</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">2 марта 2026, 21:19:10</time>
 </header>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
 А откуда у него были такие средства? Моя мать с бабкой толкались за гнилой морковью в магазинах, а тут священник скупал грузовиками.
@@ -31,8 +30,8 @@ title: Про арабского скакуна
 </article>
 <article class="comment-entry" id="cmt-2" style="margin-left: 1.5rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #fffbfb; border: 1px solid #e5e7eb; border-left: 4px solid #b91c1c; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #991b1b; font-size: 0.95rem;">g_edelstein</strong> <span style="font-size: 0.72rem; background: #fee2e2; color: #991b1b; padding: 2px 7px; border-radius: 4px; font-weight: 600; margin-left: 6px;">автор</span>
-<time style="color: #9ca3af; font-size: 0.8rem;">March 11 2026, 19:56:12 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">g_edelstein</strong> <span class="font-sans-ui" style="font-family: \'Inter\', system-ui, sans-serif; font-size: 0.7rem; background: #ecfdf5; color: #065f46; border: 1px solid #a7f3d0; padding: 2px 7px; border-radius: 9999px; font-weight: 600; margin-left: 6px; letter-spacing: 0.02em;">автор</span>
+<time style="color: #9ca3af; font-size: 0.8rem;">11 марта 2026, 19:56:12</time>
 </header>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
 <p>Овёс и морковь отец Николай покупал налево — кто-то привозил прямо домой, может, воровали из ближайших колхозов и совхозов. Покупала в основном Ирина. Но и самые разные люди довольно часто привозили деньги, помогали ему.</p>

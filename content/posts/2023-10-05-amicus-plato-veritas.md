@@ -1,5 +1,4 @@
----
-aliases:
+---aliases:
 - /22002.html
 date: '2023-10-05T15:48:00'
 id: 22002
@@ -13,7 +12,7 @@ tags:
 - Диссидентство
 - Политзаключенные
 - Историческая память
-title: Amicus Plato, sed magis amica est veritas
+title: "Amicus Plato, sed magis amica est veritas"
 ---
 
 <p><a href="https://meduza.io/news/2023/10/05/navalnyy-kara-murza-i-yashin-ob-yavili-30-oktyabrya-dnem-politzaklyuchennyh-i-prizvali-provesti-golodovku" target="_blank">https://meduza.io/news/2023/10/05/navalnyy-kara-murza-i-yashin-ob-yavili-30-oktyabrya-dnem-politzaklyuchennyh-i-prizvali-provesti-golodovku</a>

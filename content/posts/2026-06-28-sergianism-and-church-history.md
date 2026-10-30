@@ -1,5 +1,4 @@
----
-aliases:
+---aliases:
 - /34836.html
 date: '2026-06-28T16:33:00'
 id: 34836
@@ -13,14 +12,14 @@ tags:
 - Церковная история
 - Сергианство
 - Публицистика
-title: О сергианстве, советском епископате и границах компромисса с властью
+title: "О сергианстве, советском епископате и границах компромисса с властью"
 ---
 
 # 
 
 _June 28 2026, 16:33_
 
- <p><strong>Печально известная Декларация 1927 года: что именно в её тексте является, с Вашей точки зрения, моментом формального отпадения от Истины? Конкретная фраза, абзац?</strong></p>
+<p><strong>Печально известная Декларация 1927 года: что именно в её тексте является, с Вашей точки зрения, моментом формального отпадения от Истины? Конкретная фраза, абзац?</strong></p>
 <p>«Мы с нашим народом и с нашим правительством»</p>
 <p><strong>Митрополит Сергий (Страгородский) часто оправдывал свои действия словами апостола Павла: «Нет власти не от Бога». В чём богословская ошибка такого применения этой цитаты?</strong></p>
 <p>Апостол не сказал, что нет властитель не от Бога. Нет власти. Но утверждать, что Господь Бог поставил во главе государства Гитлера, Ленина, Пол Пота, Мао Цзедуна, etc., по-моему, ошибочно. Иначе Господа Бога необходимо судить трибуналом в Нюрнберге.</p>
@@ -38,7 +37,7 @@ _June 28 2026, 16:33_
 <p><strong>Какое самое страшное духовное последствие сергианства для простого прихожанина «в платочке», который вообще не знает этой истории?</strong></p>
 <p>Любому члену Церкви – безразлично, в платочке, в скуфейке или в клобуке – страшно сотрудничество с КГБ. Это значит продать дьяволу свою душу. Душу нельзя продать на 10, 17 или 70%. Человек её целиком продаёт. Только это и страшно. А почему страшно – судите сами.</p>
 <p><strong>Как можно победить сергианство в современной Церкви?</strong></p>
-<p>Для этого нужно, чтобы Церковь стала единой, святой, соборной и апостольской. Сегодня она – подобие коммунистической партии, созданной В.И. Лениным по принципу демократического централизма.</p>
+<p>Для этого нужно, чтобы Церковь стала единой, святой, соборной и апостольской. Сегодня она – подобие коммунистической партии, созданной В. И. Лениным по принципу демократического централизма.</p>
 <a name="cutid1-end"></a>
 
 <section class="lj-comments-archive" style="margin-top: 3.5rem; border-top: 2px solid #e5e7eb; padding-top: 2rem;">
@@ -47,8 +46,8 @@ _June 28 2026, 16:33_
 <div class="comments-list" style="margin-top: 1.5rem;">
 <article class="comment-entry" id="cmt-1" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">n_ermak</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">June 28 2026, 13:43:16 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">n_ermak</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">28 июня 2026, 13:43:16</time>
 </header>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
 <i>Для этого нужно, чтобы Церковь стала единой, святой, соборной и апостольской. </i>
@@ -57,8 +56,8 @@ _June 28 2026, 16:33_
 </article>
 <article class="comment-entry" id="cmt-2" style="margin-left: 1.5rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #fffbfb; border: 1px solid #e5e7eb; border-left: 4px solid #b91c1c; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #991b1b; font-size: 0.95rem;">g_edelstein</strong> <span style="font-size: 0.72rem; background: #fee2e2; color: #991b1b; padding: 2px 7px; border-radius: 4px; font-weight: 600; margin-left: 6px;">автор</span>
-<time style="color: #9ca3af; font-size: 0.8rem;">July 3 2026, 11:42:12 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">g_edelstein</strong> <span class="font-sans-ui" style="font-family: \'Inter\', system-ui, sans-serif; font-size: 0.7rem; background: #ecfdf5; color: #065f46; border: 1px solid #a7f3d0; padding: 2px 7px; border-radius: 9999px; font-weight: 600; margin-left: 6px; letter-spacing: 0.02em;">автор</span>
+<time style="color: #9ca3af; font-size: 0.8rem;">3 июля 2026, 11:42:12</time>
 </header>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
 <p>Невозможное человеку возможно Богу. Господь чётко сказал нам: "Созижду Церковь мою и врата адова не одолеют её".
@@ -67,8 +66,8 @@ _June 28 2026, 16:33_
 </article>
 <article class="comment-entry" id="cmt-3" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">n_ermak</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">July 3 2026, 12:00:19 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">n_ermak</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">3 июля 2026, 12:00:19</time>
 </header>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
 <p>Про отца Звездония Иисус ничего не говорил.
@@ -78,8 +77,8 @@ rocor_observer напомнил недавно о пророчестве свт 
 </article>
 <article class="comment-entry" id="cmt-4" style="margin-left: 1.5rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #fffbfb; border: 1px solid #e5e7eb; border-left: 4px solid #b91c1c; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #991b1b; font-size: 0.95rem;">g_edelstein</strong> <span style="font-size: 0.72rem; background: #fee2e2; color: #991b1b; padding: 2px 7px; border-radius: 4px; font-weight: 600; margin-left: 6px;">автор</span>
-<time style="color: #9ca3af; font-size: 0.8rem;">July 9 2026, 14:49:03 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">g_edelstein</strong> <span class="font-sans-ui" style="font-family: \'Inter\', system-ui, sans-serif; font-size: 0.7rem; background: #ecfdf5; color: #065f46; border: 1px solid #a7f3d0; padding: 2px 7px; border-radius: 9999px; font-weight: 600; margin-left: 6px; letter-spacing: 0.02em;">автор</span>
+<time style="color: #9ca3af; font-size: 0.8rem;">9 июля 2026, 14:49:03</time>
 </header>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
 <p>Очень люблю и чту человека Игнатия Брянчанинова и совершенно равнодушен ко всем пяти томам его творений. Очень уж он монашество любил и ценил. Он для меня не авторитет. </p>
@@ -87,8 +86,8 @@ rocor_observer напомнил недавно о пророчестве свт 
 </article>
 <article class="comment-entry" id="cmt-5" style="margin-left: 3.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">n_ermak</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">July 9 2026, 22:18:28 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">n_ermak</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">9 июля 2026, 22:18:28</time>
 </header>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
 <p>Неожиданно, отче. Непривычна мне подобная категоричность в оценках.</p>
@@ -96,8 +95,8 @@ rocor_observer напомнил недавно о пророчестве свт 
 </article>
 <article class="comment-entry" id="cmt-6" style="margin-left: 0.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">n_ermak</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">July 3 2026, 12:38:38 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">n_ermak</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">3 июля 2026, 12:38:38</time>
 </header>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
 <p><i>«Мы с нашим народом и с нашим правительством»</i></p>
@@ -110,8 +109,8 @@ rocor_observer напомнил недавно о пророчестве свт 
 </article>
 <article class="comment-entry" id="cmt-7" style="margin-left: 1.5rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #fffbfb; border: 1px solid #e5e7eb; border-left: 4px solid #b91c1c; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #991b1b; font-size: 0.95rem;">g_edelstein</strong> <span style="font-size: 0.72rem; background: #fee2e2; color: #991b1b; padding: 2px 7px; border-radius: 4px; font-weight: 600; margin-left: 6px;">автор</span>
-<time style="color: #9ca3af; font-size: 0.8rem;">July 9 2026, 15:00:07 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">g_edelstein</strong> <span class="font-sans-ui" style="font-family: \'Inter\', system-ui, sans-serif; font-size: 0.7rem; background: #ecfdf5; color: #065f46; border: 1px solid #a7f3d0; padding: 2px 7px; border-radius: 9999px; font-weight: 600; margin-left: 6px; letter-spacing: 0.02em;">автор</span>
+<time style="color: #9ca3af; font-size: 0.8rem;">9 июля 2026, 15:00:07</time>
 </header>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
 <p>Мне от их бл<s>я</s>удословия даже коньяк кажется перцовкой или горным дубняком.</p>
@@ -119,8 +118,8 @@ rocor_observer напомнил недавно о пророчестве свт 
 </article>
 <article class="comment-entry" id="cmt-8" style="margin-left: 3.0rem; margin-bottom: 1.1rem; padding: 0.9rem 1.1rem; background: #ffffff; border: 1px solid #e5e7eb; border-left: 4px solid #3b82f6; border-radius: 6px; font-size: 0.95rem;">
 <header style="font-size: 0.85rem; color: #6b7280; margin-bottom: 0.45rem; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center;">
-<strong style="color: #1e40af; font-size: 0.95rem;">n_ermak</strong>
-<time style="color: #9ca3af; font-size: 0.8rem;">July 9 2026, 22:07:53 UTC</time>
+<strong style="color: #065f46; font-size: 0.95rem; font-weight: 600;">n_ermak</strong>
+<time style="color: #9ca3af; font-size: 0.8rem;">9 июля 2026, 22:07:53</time>
 </header>
 <div class="comment-body" style="line-height: 1.6; color: #374151;">
 <p>Понятно. Спасибо за ответ.</p>
