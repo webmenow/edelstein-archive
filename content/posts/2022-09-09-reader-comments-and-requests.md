@@ -13,10 +13,7 @@ tags:
   - "Общение"
 title: "Письма и отклики читателей"
 ---
-
 # 
-
-_September 9 2022, 11:32_
 
 <img alt="" fetchpriority="high" src="/images/20159_01.jpg" title=""/>
 

@@ -13,7 +13,6 @@ tags:
   - "Рпц мп"
 title: "Отцам Сергию, Михаилу, Александру: мир вам! (реплика на их заявление)"
 ---
-
 Обращение протоиерея Георгия Эдельштейна к протоиерею Сергию Кондакову, протоиерею Михаилу Карпееву, священнику Александру Малых в ответ на их <a href="http://kondakov.ws/blog/Zayavlenie-v-svyazi-s-prinyatiem-pr" target="_blank">заявление  в связи в связи с их принятием в состав РПЦЗ(А)</a>
 <iframe allowfullscreen="" class="lj_embedcontent" frameborder="0" height="50" name="embed_37112284_2" src="https://l.lj-toys.com/?auth_token=sessionless%3A1792526400%3Aembedcontent%3A37112284%262%26%26%3A39cf20995cffef09d884f8d9ca27d681e9801533&amp;journalid=37112284&amp;preview=&amp;moduleid=2&amp;noads=" width="500"></iframe>
 

@@ -13,7 +13,6 @@ tags:
   - "Политика"
 title: "Постскриптум к рассуждениям о реставрации и цивилизации"
 ---
-
 Amicus Plato, sed 
 magis amica veritas
 

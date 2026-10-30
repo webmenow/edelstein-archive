@@ -13,7 +13,6 @@ tags:
   - "Церковная жизнь"
 title: "Los Angeles Times пишет про костромской приход"
 ---
-
 <div class="repost"><a href="http://www.latimes.com/news/nationworld/world/la-fg-russia-church-scandal-20120422,0,4200061.story" target="_blank">http://www.latimes.com/news/nationworld/world/la-fg-russia-church-scandal-20120422,0,4200061.story</a>
 
 <a href="http://karabanovo.prihod.ru" target="_blank">www.karabanovo.prihod.ru</a>

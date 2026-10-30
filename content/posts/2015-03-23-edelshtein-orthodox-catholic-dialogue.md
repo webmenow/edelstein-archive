@@ -13,7 +13,6 @@ tags:
   - "Публицистика"
 title: "Протоиерей Георгий Эдельштейн: «Я пытался вразумить Папу»"
 ---
-
 Оригинал взят у <span class="ljuser i-ljuser i-ljuser-type-P" data-ljuser="katholikotita" lj:user="katholikotita"><a class="i-ljuser-profile" href="https://katholikotita.livejournal.com/profile/" target="_self"><img class="i-ljuser-userhead" src="https://l-stat.livejournal.net/img/userinfo_v8.svg?v=17080&amp;v=941.1"/></a><a class="i-ljuser-username" href="https://katholikotita.livejournal.com/" target="_self"><b>katholikotita</b></a></span> в <a href="http://katholikotita.livejournal.com/556.html" target="_blank">Протоиерей Георгий Эдельштейн: «Я пытался вразумить Папу»</a><div class="repost"><i>отец Георгий рассказывает о своём отношении к католической церкви</i>
 
 <iframe allowfullscreen="" class="lj_embedcontent" frameborder="0" height="450" name="embed_37112284_3" src="https://l.lj-toys.com/?auth_token=sessionless%3A1792526400%3Aembedcontent%3A37112284%263%26%26%3A5f63b07ebf497a7a9bd56838bdb9031ed1bf25c8&amp;preview=&amp;journalid=37112284&amp;moduleid=3&amp;noads=" width="100%"></iframe>

@@ -13,7 +13,6 @@ tags:
   - "Публицистика"
 title: "Журнал «Гласность» № 13"
 ---
-
 Журнал Гласность № 13, о котором шла речь ранее, можно прочитать <a href="http://grigoryants.ru/zhurnal-glasnost/glasnost-13/" target="_blank">здесь</a>.
 
 <section class="lj-comments-archive" style="margin-top: 3.5rem; border-top: 2px solid #e5e7eb; padding-top: 2rem;">
