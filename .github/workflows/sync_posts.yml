@@ -1,0 +1,48 @@
+name: Sync LJ Posts
+
+on:
+  schedule:
+    # Запуск каждые 6 часов (в 00:00, 06:00, 12:00, 18:00 UTC)
+    - cron: '0 */6 * * *'
+  workflow_dispatch: # Позволяет запускать вручную из вкладки Actions
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4 python-dateutil
+
+      - name: Run LJ synchronization script
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          python fetch_new_posts.py
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add content/posts/ static/images/
+          if git diff --cached --quiet; then
+            echo "Новых постов не обнаружено, коммит не требуется."
+          else
+            git commit -m "chore(auto): автоматическая синхронизация постов из ЖЖ [skip ci]"
+            git push origin main
+          fi
