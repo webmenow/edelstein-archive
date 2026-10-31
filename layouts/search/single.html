@@ -7,7 +7,7 @@
     </h1>
     
     <div class="mt-4 relative">
-      <input type="text" id="searchInput" placeholder="Начните вводить текст (например: письмо)..." 
+      <input type="text" id="searchInput" placeholder="Введите слово или фразу (например: церковь, письмо, Сталин)..." 
              class="w-full px-4 py-3 pl-11 bg-white border border-gray-300 rounded-xl text-base text-gray-900 placeholder-gray-400 focus:outline-none focus:border-emerald-500 focus:ring-2 focus:ring-emerald-200 font-sans transition-all shadow-xs" autocomplete="off">
       <svg class="absolute left-3.5 top-3.5 w-5 h-5 text-gray-400 pointer-events-none" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
         <path stroke-linecap="round" stroke-linejoin="round" d="M21 21l-4.35-4.35m1.85-5.15a7 7 0 11-14 0 7 7 0 0114 0z"></path>
@@ -16,7 +16,7 @@
     </div>
   </div>
 
-  <!-- Карточки поиска (встроенные в DOM для мгновенной фильтрации) -->
+  <!-- Карточки поиска -->
   <div id="resultsList" class="grid grid-cols-1 md:grid-cols-2 gap-4 sm:gap-6">
     {{ range where .Site.RegularPages "Section" "posts" }}
       <article class="search-item group flex flex-col justify-between bg-white rounded-2xl border border-gray-200/90 p-5 sm:p-6 shadow-xs hover:border-emerald-500 hover:shadow-md transition-all">
@@ -76,6 +76,36 @@
     const noResults = document.getElementById('noResults');
     const items = Array.from(document.querySelectorAll('.search-item'));
 
+    // Упрощенный стеммер русского языка для выделения корня слова
+    function russianStem(word) {
+      word = word.toLowerCase().replace(/[^а-яё]/g, '');
+      if (word.length <= 3) return word;
+      const suffixes = [
+        'ами', 'ями', 'ого', 'его', 'ому', 'ему', 'ыми', 'ими', 'ах', 'ях', 
+        'ом', 'ем', 'ой', 'ей', 'ий', 'ый', 'ая', 'яя', 'ое', 'ее', 'ые', 'ие', 
+        'ых', 'их', 'ую', 'юю', 'ов', 'ев', 'ам', 'ям', 'а', 'я', 'о', 'е', 
+        'ы', 'и', 'у', 'ю', 'ь', 'й', 'тся', 'ться'
+      ];
+      for (let s of suffixes) {
+        if (word.endsWith(s) && word.length - s.length >= 3) {
+          return word.slice(0, -s.length);
+        }
+      }
+      return word;
+    }
+
+    // Подготовка поискового индекса при загрузке страницы
+    const searchIndex = items.map(item => {
+      const fullText = (item.textContent || '').toLowerCase();
+      // Выделяем уникальные корни слов для быстрой проверки
+      const words = fullText.split(/\s+/).map(w => russianStem(w)).filter(w => w.length > 2);
+      return {
+        element: item,
+        rawText: fullText,
+        stems: new Set(words)
+      };
+    });
+
     function filterItems() {
       const query = searchInput.value.toLowerCase().trim();
       
@@ -85,26 +115,39 @@
         clearBtn.classList.add('hidden');
       }
 
-      let visibleCount = 0;
-      // Разбиваем запрос на слова для умного поиска
-      const searchTerms = query.split(/\s+/).filter(t => t.length > 0);
+      if (!query) {
+        searchIndex.forEach(entry => entry.element.classList.remove('hidden'));
+        noResults.classList.add('hidden');
+        return;
+      }
 
-      items.forEach(item => {
-        // Ищем совпадения прямо в тексте карточки (заголовок, дата, резюме, теги + скрытый ПОЛНЫЙ ТЕКСТ)
-        const textContent = item.textContent.toLowerCase();
-        
-        // Карточка показывается, только если найдены ВСЕ слова из поискового запроса
-        const isMatch = searchTerms.every(term => textContent.includes(term));
-        
+      const queryWords = query.split(/\s+/).filter(w => w.length > 0);
+      const queryStems = queryWords.map(w => russianStem(w));
+
+      let visibleCount = 0;
+
+      searchIndex.forEach(entry => {
+        // Проверяем, находятся ли корни искомых слов в тексте статьи
+        const isMatch = queryStems.every(qStem => {
+          // Ищем совпадение либо по точному вхождении подстроки, либо по корню
+          if (entry.rawText.includes(qStem)) return true;
+          for (let docStem of entry.stems) {
+            if (docStem.includes(qStem) || qStem.includes(docStem)) {
+              return true;
+            }
+          }
+          return false;
+        });
+
         if (isMatch) {
-          item.classList.remove('hidden');
+          entry.element.classList.remove('hidden');
           visibleCount++;
         } else {
-          item.classList.add('hidden');
+          entry.element.classList.add('hidden');
         }
       });
 
-      if (visibleCount === 0 && searchTerms.length > 0) {
+      if (visibleCount === 0) {
         noResults.classList.remove('hidden');
       } else {
         noResults.classList.add('hidden');
@@ -119,10 +162,9 @@
       searchInput.focus();
     });
 
-    // Если в URL передан параметр ?q=... (переход из шапки сайта)
+    // Обработка параметров из URL (?q=...)
     const params = new URLSearchParams(window.location.search);
     const q = params.get('q');
-    
     if (q) {
       searchInput.value = q;
       filterItems();
