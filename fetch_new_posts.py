@@ -79,7 +79,7 @@ POST_HTML_CLEANER = nh3.Cleaner(
         "sup", "sub", "center",
     },
     attributes={
-        "a": {"href", "title", "target", "rel", "name", "id", "class"},
+        "a": {"href", "title", "target", "name", "id", "class"},
         "img": {"src", "alt", "title", "width", "height", "class"},
         "p": {"class", "id"}, "div": {"class", "id"}, "span": {"class", "id"},
         "blockquote": {"class"}, "pre": {"class"}, "code": {"class"},
