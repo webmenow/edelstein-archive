@@ -172,25 +172,59 @@ RUSSIAN_MONTHS = {
 # =====================================================================
 
 def fetch_url(url, is_binary=False):
-    """Выполняет запрос через системный curl (стабильно работает в penguin)."""
-    cmd = [
-        "curl",
-        "-sSL",
-        "--connect-timeout", "15",
-        "--max-time", "45",
-        "-A", "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-        "-e", BASE_URL,
-        url
-    ]
-    try:
-        res = subprocess.run(cmd, stdout=subprocess.PIPE, stderr=subprocess.DEVNULL, check=True)
-        if is_binary:
-            return res.stdout
-        return res.stdout.decode("utf-8", errors="replace")
-    except Exception as e:
-        print(f"  [!] Ошибка curl {url}: {e}")
-        return None
+    """Загружает страницы только с домена собственного LiveJournal."""
+    current_url = url
+    for redirect_count in range(4):
+        parsed = urlparse(current_url)
+        if (
+            parsed.scheme != "https"
+            or parsed.hostname != f"{USERNAME}.livejournal.com"
+            or parsed.username
+            or parsed.password
+            or parsed.port not in (None, 443)
+        ):
+            print(f"  [!] Запрещён URL страницы: {current_url}")
+            return None
 
+        try:
+            response = requests.get(
+                current_url,
+                headers={
+                    "User-Agent": "Mozilla/5.0 (compatible; EdelsteinArchive/1.0)",
+                    "Referer": BASE_URL,
+                },
+                timeout=(15, 45),
+                allow_redirects=False,
+                stream=True,
+            )
+            if response.is_redirect or response.is_permanent_redirect:
+                location = response.headers.get("Location")
+                response.close()
+                if not location or redirect_count >= 3:
+                    return None
+                current_url = urljoin(current_url, location)
+                continue
+
+            if response.status_code != 200:
+                response.close()
+                return None
+
+            chunks = bytearray()
+            max_bytes = 8 * 1024 * 1024
+            for chunk in response.iter_content(chunk_size=64 * 1024):
+                if chunk:
+                    chunks.extend(chunk)
+                    if len(chunks) > max_bytes:
+                        response.close()
+                        print(f"  [!] Ответ слишком велик: {current_url}")
+                        return None
+            response.close()
+            data = bytes(chunks)
+            return data if is_binary else data.decode("utf-8", errors="replace")
+        except requests.RequestException as error:
+            print(f"  [!] Ошибка загрузки {current_url}: {error}")
+            return None
+    return None
 
 def download_image(target_url, post_id, img_index):
     """Безопасно скачивает изображения только с доменов LiveJournal."""
