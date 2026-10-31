@@ -1,3 +1,4 @@
+# Exact versions used by the import pipeline and regression tests.
 requests==2.32.5
 beautifulsoup4==4.14.2
 python-dateutil==2.9.0.post0
