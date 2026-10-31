@@ -26,6 +26,10 @@ class HtmlSanitizerTests(unittest.TestCase):
         self.assertIn("<strong>Жирный</strong>", cleaned)
         self.assertIn('href="https://example.org"', cleaned)
         self.assertIn("noopener", cleaned)
+        unsafe = importer.sanitize_untrusted_html(
+            '<a href="javascript:alert(1)">опасная ссылка</a>'
+        )
+        self.assertNotIn("javascript:", unsafe.lower())
 
     def test_comment_metadata_is_escaped(self):
         rendered = importer.render_comment_entry(
