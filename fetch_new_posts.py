@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 import os
 import re
+import argparse
 import sys
 import time
 import json
@@ -26,8 +27,7 @@ else:
 POSTS_DIR = os.path.join(PROJECT_ROOT, "content", "posts")
 STATIC_IMAGES_DIR = os.path.join(PROJECT_ROOT, "static", "images")
 
-os.makedirs(POSTS_DIR, exist_ok=True)
-os.makedirs(STATIC_IMAGES_DIR, exist_ok=True)
+DRY_RUN = False
 
 # 1. Автоматическая подгрузка GEMINI_API_KEY из .env или ~/.bashrc
 def load_api_key():
@@ -229,7 +229,9 @@ def fetch_url(url, is_binary=False):
 def download_image(target_url, post_id, img_index):
     """Безопасно скачивает изображения только с доменов LiveJournal."""
     try:
-        if not re.fullmatch(r"\d+", str(post_id)):
+         if DRY_RUN:
+            return None
+       if not re.fullmatch(r"\d+", str(post_id)):
             return None
 
         current_url = target_url
@@ -749,6 +751,9 @@ def get_existing_post_map():
     existing_map = {}
     used_slugs = set()
 
+    if not os.path.isdir(POSTS_DIR):
+        return existing_map, used_slugs
+
     for fname in os.listdir(POSTS_DIR):
         if not fname.endswith(".md"):
             continue
@@ -862,33 +867,68 @@ def sanitize_yaml_str(val):
     return val.replace("\\", "\\\\").replace('"', '\\"')
 
 
-def main():
-    print(f"[*] Запуск синхронизации сайта с Живым Журналом {BASE_URL}...")
+def parse_args(argv=None):
+    parser = argparse.ArgumentParser(description="Import LiveJournal posts into the Edelstein archive.")
+    parser.add_argument("--post-id")
+    parser.add_argument("--output-dir")
+    parser.add_argument("--min-date", default=MIN_DATE_FILTER.strftime("%Y-%m-%d"))
+    parser.add_argument("--dry-run", action="store_true")
+    args = parser.parse_args(argv)
+    if args.post_id and not re.fullmatch(r"\d+", args.post_id):
+        parser.error("--post-id must contain digits only")
+    if args.dry_run and args.output_dir:
+        parser.error("--dry-run cannot be combined with --output-dir")
+    try:
+        min_date = datetime.strptime(args.min_date, "%Y-%m-%d")
+    except ValueError:
+        parser.error("--min-date must use YYYY-MM-DD")
+    if args.output_dir:
+        output_path = os.path.realpath(os.path.abspath(args.output_dir))
+        project_path = os.path.realpath(PROJECT_ROOT)
+        common = os.path.commonpath([output_path, project_path])
+        if common == project_path or common == output_path:
+            parser.error("--output-dir must be outside and separate from the repository")
+        args.output_dir = output_path
+    return args, min_date
 
-    # Архивные публикации не удаляем автоматически: очистка выполняется вручную.
 
-    # 2. Получаем карту уже существующих на сайте постов
+def main(argv=None):
+    global POSTS_DIR, STATIC_IMAGES_DIR, MIN_DATE_FILTER, DRY_RUN
+    args, MIN_DATE_FILTER = parse_args(argv)
+    DRY_RUN = args.dry_run
+    print(f"[*] Запуск импорта LiveJournal {BASE_URL}...")
+    print(f"[*] Фильтр даты: {MIN_DATE_FILTER:%Y-%m-%d}")
     existing_map, used_slugs = get_existing_post_map()
-    print(f"[*] В архиве сайта уже сохранено канонических постов: {len(existing_map)}")
+    print(f"[*] В архиве уже сохранено канонических постов: {len(existing_map)}")
 
-    # 3. Сканируем главную страницу блога на свежие записи (как в __sync__.py)
-    main_html = fetch_url(BASE_URL)
-    if not main_html:
-        print("[!] Не удалось загрузить главную страницу блога.")
+    if args.post_id:
+        remote_ids = [args.post_id]
+    else:
+        main_html = fetch_url(BASE_URL)
+        if not main_html:
+            print("[!] Не удалось загрузить главную страницу блога.")
+            return
+        soup = BeautifulSoup(main_html, "html.parser")
+        remote_ids = []
+        for a in soup.find_all("a", href=True):
+            m = re.search(rf"{USERNAME}\.livejournal\.com/(\d+)\.html", a["href"]) or re.search(r"^/(\d+)\.html", a["href"])
+            if m and m.group(1) not in remote_ids:
+                remote_ids.append(m.group(1))
+        remote_ids = sorted(remote_ids, key=lambda x: int(x), reverse=True)[:15]
+
+    if args.post_id and args.post_id in existing_map:
+        print(f"[!] Пост #{args.post_id} уже есть в архиве: {existing_map[args.post_id]}")
         return
-
-    soup = BeautifulSoup(main_html, "html.parser")
-    remote_ids = []
-    for a in soup.find_all("a", href=True):
-        m = re.search(rf"{USERNAME}\.livejournal\.com/(\d+)\.html", a["href"]) or re.search(r"^/(\d+)\.html", a["href"])
-        if m:
-            pid = m.group(1)
-            if pid not in remote_ids:
-                remote_ids.append(pid)
-
-    # Сортируем по убыванию ID (самые свежие первыми)
-    remote_ids = sorted(remote_ids, key=lambda x: int(x), reverse=True)[:15]
     new_candidates = [pid for pid in remote_ids if pid not in existing_map]
+
+    if args.output_dir:
+        POSTS_DIR = os.path.join(args.output_dir, "content", "posts")
+        STATIC_IMAGES_DIR = os.path.join(args.output_dir, "static", "images")
+        os.makedirs(POSTS_DIR, exist_ok=True)
+        os.makedirs(STATIC_IMAGES_DIR, exist_ok=True)
+    elif not DRY_RUN:
+        os.makedirs(POSTS_DIR, exist_ok=True)
+        os.makedirs(STATIC_IMAGES_DIR, exist_ok=True)
 
     imported_count = 0
 
@@ -976,16 +1016,23 @@ def main():
 
         filename = f"{date_prefix}-{raw_slug}.md"
         filepath = os.path.join(POSTS_DIR, filename)
-
-        with open(filepath, "w", encoding="utf-8") as f:
-            f.write(md_content)
-
+        if DRY_RUN:
+            print("\n===== PREVIEW MARKDOWN: " + filename + " =====")
+            print(md_content)
+            print("===== END PREVIEW MARKDOWN =====\n")
+        else:
+            with open(filepath, "w", encoding="utf-8") as f:
+                f.write(md_content)
         imported_count += 1
-        print(f"  [✔] Сохранен канонический файл: content/posts/{filename}")
+        if DRY_RUN:
+            print(f"  [✔] Пост #{pid} обработан в dry-run; файлы не записывались.")
+        else:
+            print(f"  [✔] Сохранен канонический файл: {filepath}
         print(f"      Заголовок: {final_title}")
         print(f"      TL;DR:     {summary}")
         print(f"      Теги:      {', '.join(norm_tags)}")
-        time.sleep(2)
+        if not DRY_RUN:
+            time.sleep(2)
 
     print(f"\n=======================================================")
     print(f"[✔] Синхронизация завершена! Добавлено новых постов: {imported_count}")
