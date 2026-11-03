@@ -228,42 +228,26 @@ def fetch_url(url, is_binary=False):
 
 def download_image(target_url, post_id, img_index):
     """Безопасно скачивает изображения только с доменов LiveJournal."""
+    if DRY_RUN:
+        return None
     try:
-         if DRY_RUN:
+        if not re.fullmatch(r"\d+", str(post_id)):
             return None
-       if not re.fullmatch(r"\d+", str(post_id)):
-            return None
-
         current_url = target_url
         data = None
-
         for redirect_count in range(MAX_IMAGE_REDIRECTS + 1):
             parsed = urlparse(current_url)
             host = parsed.hostname
-            if (
-                parsed.scheme not in {"http", "https"}
-                or not _is_allowed_image_host(host)
-                or parsed.username
-                or parsed.password
-                or parsed.port not in (None, 443, 80)
-            ):
+            if (parsed.scheme not in {"http", "https"} or not _is_allowed_image_host(host)
+                    or parsed.username or parsed.password or parsed.port not in (None, 443, 80)):
                 return None
-
             if parsed.scheme == "http":
                 parsed = parsed._replace(scheme="https")
                 current_url = parsed.geturl()
-
             if not _is_public_image_host(host):
                 return None
-
-            response = requests.get(
-                current_url,
-                headers={"User-Agent": "EdelsteinArchive/1.0"},
-                timeout=(10, 20),
-                allow_redirects=False,
-                stream=True,
-            )
-
+            response = requests.get(current_url, headers={"User-Agent": "EdelsteinArchive/1.0"},
+                                    timeout=(10, 20), allow_redirects=False, stream=True)
             if response.is_redirect or response.is_permanent_redirect:
                 location = response.headers.get("Location")
                 response.close()
@@ -271,11 +255,9 @@ def download_image(target_url, post_id, img_index):
                     return None
                 current_url = urljoin(current_url, location)
                 continue
-
             if response.status_code != 200:
                 response.close()
                 return None
-
             content_length = response.headers.get("Content-Length")
             if content_length:
                 try:
@@ -285,7 +267,6 @@ def download_image(target_url, post_id, img_index):
                 except ValueError:
                     response.close()
                     return None
-
             chunks = bytearray()
             for chunk in response.iter_content(chunk_size=64 * 1024):
                 if chunk:
@@ -296,13 +277,11 @@ def download_image(target_url, post_id, img_index):
             response.close()
             data = bytes(chunks)
             break
-
         if not data or len(data) < 200:
             return None
         ext = _image_type(data)
         if not ext:
             return None
-
         filename = f"{post_id}_{img_index:02d}{ext}"
         filepath = os.path.join(STATIC_IMAGES_DIR, filename)
         if not os.path.exists(filepath):
@@ -313,6 +292,7 @@ def download_image(target_url, post_id, img_index):
         return f"/images/{filename}"
     except (requests.RequestException, OSError, ValueError):
         return None
+
 
 def process_images_in_content(body_elem, post_id, post_url):
     """Заменяет внешние ссылки картинок ЖЖ на локальные /images/..."""
@@ -1027,7 +1007,7 @@ def main(argv=None):
         if DRY_RUN:
             print(f"  [✔] Пост #{pid} обработан в dry-run; файлы не записывались.")
         else:
-            print(f"  [✔] Сохранен канонический файл: {filepath}
+            print(f"  [✔] Сохранен канонический файл: {filepath}")
         print(f"      Заголовок: {final_title}")
         print(f"      TL;DR:     {summary}")
         print(f"      Теги:      {', '.join(norm_tags)}")
