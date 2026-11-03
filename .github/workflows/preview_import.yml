@@ -29,6 +29,7 @@ jobs:
           python -m unittest discover -s tests -v
       - name: Preview one post
         env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           POST_ID: ${{ inputs.post_id }}
           MIN_DATE: ${{ inputs.min_date }}
         run: python fetch_new_posts.py --post-id "$POST_ID" --output-dir /tmp/lj-preview --min-date "$MIN_DATE"
